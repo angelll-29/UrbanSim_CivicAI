@@ -1,0 +1,501 @@
+complaint_id,timestamp,complaint_text,category,latitude,longitude,ward_id,status,date,hour,day_of_week,month,priority
+C0001,2026-03-04 07:08:00,Waste collection delayed,Waste,19.082365,72.881767,W002,In Progress,2026-03-04,7,Wednesday,3,Medium
+C0002,2026-01-08 02:13:00,Street light not working,Electricity,19.077327,72.88102,W002,In Progress,2026-01-08,2,Thursday,1,Medium
+C0003,2026-04-25 18:17:00,Street light damaged,Electricity,19.073094,72.880065,W004,Open,2026-04-25,18,Saturday,4,Medium
+C0004,2026-02-09 06:48:00,Large pothole on main road,Road,19.080366,72.887927,W007,Open,2026-02-09,6,Monday,2,High
+C0005,2026-03-09 01:46:00,Road surface damaged,Road,19.064594,72.886248,W006,Resolved,2026-03-09,1,Monday,3,High
+C0006,2026-04-03 18:12:00,Road surface damaged,Road,19.082046,72.875458,W002,Open,2026-04-03,18,Friday,4,High
+C0007,2026-01-26 12:17:00,Garbage overflowing,Waste,19.089534,72.873341,W005,Open,2026-01-26,12,Monday,1,Medium
+C0008,2026-06-21 08:44:00,Road damaged,Road,19.069367,72.89148,W006,In Progress,2026-06-21,8,Sunday,6,High
+C0009,2026-04-29 12:17:00,Water supply interruption,Water,19.089895,72.8764,W003,In Progress,2026-04-29,12,Wednesday,4,High
+C0010,2026-02-28 01:51:00,Pothole near bus stop,Road,19.068155,72.882677,W004,Open,2026-02-28,1,Saturday,2,High
+C0011,2026-06-17 15:25:00,Road damaged,Road,19.063847,72.879429,W010,Open,2026-06-17,15,Wednesday,6,High
+C0012,2026-05-24 17:16:00,Water supply interruption,Water,19.09247,72.869284,W005,In Progress,2026-05-24,17,Sunday,5,High
+C0013,2026-02-05 16:31:00,Road damaged,Road,19.077909,72.887471,W007,Open,2026-02-05,16,Thursday,2,High
+C0014,2026-06-02 02:24:00,Pipeline leakage,Water,19.083816,72.879961,W003,In Progress,2026-06-02,2,Tuesday,6,High
+C0015,2026-06-24 17:48:00,Garbage not collected,Waste,19.087668,72.87141,W005,Open,2026-06-24,17,Wednesday,6,Medium
+C0016,2026-04-27 00:46:00,Street light damaged,Electricity,19.093759,72.867634,W005,In Progress,2026-04-27,0,Monday,4,Medium
+C0017,2026-06-13 16:38:00,Waste collection delayed,Waste,19.081989,72.873739,W003,Open,2026-06-13,16,Saturday,6,Medium
+C0018,2026-03-24 15:01:00,Dustbin is full,Waste,19.091119,72.88063,W009,Resolved,2026-03-24,15,Tuesday,3,Medium
+C0019,2026-05-26 02:05:00,Garbage overflowing,Waste,19.072319,72.88816,W004,In Progress,2026-05-26,2,Tuesday,5,Medium
+C0020,2026-05-21 05:16:00,Pipeline leakage,Water,19.085277,72.876066,W003,Open,2026-05-21,5,Thursday,5,High
+C0021,2026-04-13 21:41:00,Low water pressure,Water,19.093734,72.885996,W009,Resolved,2026-04-13,21,Monday,4,High
+C0022,2026-01-17 10:01:00,Water supply interruption,Water,19.080883,72.877301,W002,Open,2026-01-17,10,Saturday,1,High
+C0023,2026-02-28 02:57:00,Garbage not collected,Waste,19.071314,72.876004,W001,In Progress,2026-02-28,2,Saturday,2,Medium
+C0024,2026-02-24 17:08:00,Broken footpath,Road,19.072234,72.888824,W004,In Progress,2026-02-24,17,Tuesday,2,High
+C0025,2026-04-15 06:06:00,Pipeline leakage,Water,19.063969,72.871311,W008,Resolved,2026-04-15,6,Wednesday,4,High
+C0026,2026-06-22 20:41:00,Street light not working,Electricity,19.077984,72.891026,W007,Resolved,2026-06-22,20,Monday,6,Medium
+C0027,2026-02-18 17:28:00,Water supply interruption,Water,19.076402,72.876835,W002,Resolved,2026-02-18,17,Wednesday,2,High
+C0028,2026-05-21 03:03:00,Waste dumped on road,Waste,19.071521,72.885406,W004,Open,2026-05-21,3,Thursday,5,Medium
+C0029,2026-04-15 15:30:00,Water supply interruption,Water,19.077137,72.87901,W002,Open,2026-04-15,15,Wednesday,4,High
+C0030,2026-04-10 08:59:00,Street light not working,Electricity,19.087841,72.87455,W003,Resolved,2026-04-10,8,Friday,4,Medium
+C0031,2026-02-18 09:13:00,Street light damaged,Electricity,19.099687,72.882792,W009,In Progress,2026-02-18,9,Wednesday,2,Medium
+C0032,2026-01-13 18:30:00,Pothole near bus stop,Road,19.076029,72.881227,W001,Open,2026-01-13,18,Tuesday,1,High
+C0033,2026-01-18 19:04:00,Garbage overflowing,Waste,19.077752,72.875052,W001,Open,2026-01-18,19,Sunday,1,Medium
+C0034,2026-06-02 01:39:00,Dirty water supply,Water,19.05582,72.879574,W010,In Progress,2026-06-02,1,Tuesday,6,High
+C0035,2026-02-22 21:45:00,Large pothole on main road,Road,19.093142,72.879656,W009,Open,2026-02-22,21,Sunday,2,High
+C0036,2026-01-19 00:29:00,Power line issue,Electricity,19.091212,72.87063,W005,Open,2026-01-19,0,Monday,1,Medium
+C0037,2026-03-09 04:59:00,Dirty water supply,Water,19.07849,72.875688,W002,Open,2026-03-09,4,Monday,3,High
+C0038,2026-04-23 17:45:00,Road damaged,Road,19.063025,72.894839,W006,In Progress,2026-04-23,17,Thursday,4,High
+C0039,2026-03-18 21:06:00,Dustbin is full,Waste,19.099389,72.878343,W009,Open,2026-03-18,21,Wednesday,3,Medium
+C0040,2026-03-14 19:13:00,Low water pressure,Water,19.082176,72.877036,W002,In Progress,2026-03-14,19,Saturday,3,High
+C0041,2026-01-14 02:40:00,Power line issue,Electricity,19.089236,72.867767,W005,Open,2026-01-14,2,Wednesday,1,Medium
+C0042,2026-02-11 23:28:00,Low water pressure,Water,19.065517,72.889277,W006,Open,2026-02-11,23,Wednesday,2,High
+C0043,2026-05-20 01:53:00,Garbage overflowing,Waste,19.078692,72.880525,W002,Resolved,2026-05-20,1,Wednesday,5,Medium
+C0044,2026-04-04 01:57:00,Waste collection delayed,Waste,19.083578,72.876821,W003,In Progress,2026-04-04,1,Saturday,4,Medium
+C0045,2026-04-15 19:47:00,Road surface damaged,Road,19.076546,72.884299,W002,Open,2026-04-15,19,Wednesday,4,High
+C0046,2026-02-15 23:59:00,Street light not working,Electricity,19.083322,72.879308,W003,In Progress,2026-02-15,23,Sunday,2,Medium
+C0047,2026-06-29 03:24:00,Road damaged,Road,19.073722,72.888586,W004,Open,2026-06-29,3,Monday,6,High
+C0048,2026-03-20 07:14:00,Power line issue,Electricity,19.065237,72.881931,W004,Resolved,2026-03-20,7,Friday,3,Medium
+C0049,2026-03-31 20:32:00,Waste collection delayed,Waste,19.088997,72.874811,W005,In Progress,2026-03-31,20,Tuesday,3,Medium
+C0050,2026-03-08 05:37:00,Garbage not collected,Waste,19.069625,72.887655,W006,Open,2026-03-08,5,Sunday,3,Medium
+C0051,2026-03-22 13:38:00,Power line issue,Electricity,19.064842,72.874156,W010,In Progress,2026-03-22,13,Sunday,3,Medium
+C0052,2026-04-22 00:33:00,Pothole near bus stop,Road,19.074256,72.885385,W004,In Progress,2026-04-22,0,Wednesday,4,High
+C0053,2026-01-18 21:58:00,Broken footpath,Road,19.068302,72.883139,W004,Open,2026-01-18,21,Sunday,1,High
+C0054,2026-03-25 12:44:00,Broken footpath,Road,19.087957,72.866273,W005,Resolved,2026-03-25,12,Wednesday,3,High
+C0055,2026-05-26 09:25:00,Dirty water supply,Water,19.082479,72.887004,W007,Resolved,2026-05-26,9,Tuesday,5,High
+C0056,2026-06-05 20:20:00,Street light flickering,Electricity,19.06965,72.884422,W004,Open,2026-06-05,20,Friday,6,Medium
+C0057,2026-06-18 02:18:00,Street light damaged,Electricity,19.095155,72.883329,W009,Resolved,2026-06-18,2,Thursday,6,Medium
+C0058,2026-02-27 06:09:00,Low water pressure,Water,19.075244,72.877448,W002,Resolved,2026-02-27,6,Friday,2,High
+C0059,2026-04-17 20:36:00,Waste dumped on road,Waste,19.056944,72.879964,W010,Resolved,2026-04-17,20,Friday,4,Medium
+C0060,2026-06-17 22:00:00,Water supply interruption,Water,19.085927,72.895604,W007,Open,2026-06-17,22,Wednesday,6,High
+C0061,2026-06-28 16:29:00,Water supply interruption,Water,19.077502,72.889492,W007,Open,2026-06-28,16,Sunday,6,High
+C0062,2026-06-20 16:35:00,Pipeline leakage,Water,19.068955,72.8765,W008,Resolved,2026-06-20,16,Saturday,6,High
+C0063,2026-04-25 05:47:00,Street light flickering,Electricity,19.063615,72.877501,W010,Open,2026-04-25,5,Saturday,4,Medium
+C0064,2026-03-12 14:04:00,Street light damaged,Electricity,19.092135,72.867345,W005,Resolved,2026-03-12,14,Thursday,3,Medium
+C0065,2026-02-08 07:24:00,Garbage overflowing,Waste,19.066939,72.892064,W006,Open,2026-02-08,7,Sunday,2,Medium
+C0066,2026-05-19 14:26:00,Power line issue,Electricity,19.077623,72.895329,W007,Resolved,2026-05-19,14,Tuesday,5,Medium
+C0067,2026-04-08 15:00:00,Dustbin is full,Waste,19.064427,72.875986,W010,Resolved,2026-04-08,15,Wednesday,4,Medium
+C0068,2026-02-26 08:27:00,Pipeline leakage,Water,19.081856,72.890889,W007,In Progress,2026-02-26,8,Thursday,2,High
+C0069,2026-02-02 19:34:00,Pipeline leakage,Water,19.07727,72.89094,W007,In Progress,2026-02-02,19,Monday,2,High
+C0070,2026-02-04 14:11:00,Waste dumped on road,Waste,19.071503,72.876491,W001,Open,2026-02-04,14,Wednesday,2,Medium
+C0071,2026-04-08 08:48:00,Large pothole on main road,Road,19.072512,72.871216,W008,Open,2026-04-08,8,Wednesday,4,High
+C0072,2026-01-14 11:14:00,Dustbin is full,Waste,19.069501,72.874812,W008,In Progress,2026-01-14,11,Wednesday,1,Medium
+C0073,2026-02-21 00:39:00,Garbage overflowing,Waste,19.072524,72.873962,W001,In Progress,2026-02-21,0,Saturday,2,Medium
+C0074,2026-06-29 08:49:00,Pipeline leakage,Water,19.078689,72.881059,W002,In Progress,2026-06-29,8,Monday,6,High
+C0075,2026-01-28 18:01:00,Low water pressure,Water,19.084289,72.880758,W002,Resolved,2026-01-28,18,Wednesday,1,High
+C0076,2026-06-01 22:53:00,Water leakage on road,Water,19.083272,72.888019,W007,Resolved,2026-06-01,22,Monday,6,High
+C0077,2026-01-11 11:34:00,Dustbin is full,Waste,19.059284,72.876706,W010,In Progress,2026-01-11,11,Sunday,1,Medium
+C0078,2026-05-06 03:27:00,Waste dumped on road,Waste,19.069608,72.891356,W006,Resolved,2026-05-06,3,Wednesday,5,Medium
+C0079,2026-05-14 20:17:00,Street light damaged,Electricity,19.086159,72.879196,W003,Resolved,2026-05-14,20,Thursday,5,Medium
+C0080,2026-03-10 10:54:00,Street light flickering,Electricity,19.065455,72.876346,W008,Resolved,2026-03-10,10,Tuesday,3,Medium
+C0081,2026-05-26 19:42:00,Pipeline leakage,Water,19.06679,72.867287,W008,Resolved,2026-05-26,19,Tuesday,5,High
+C0082,2026-04-01 08:21:00,Street light damaged,Electricity,19.082797,72.875962,W003,Resolved,2026-04-01,8,Wednesday,4,Medium
+C0083,2026-02-18 02:15:00,Dustbin is full,Waste,19.097201,72.881886,W009,Open,2026-02-18,2,Wednesday,2,Medium
+C0084,2026-01-05 02:18:00,Electric pole damaged,Electricity,19.065216,72.873918,W008,Resolved,2026-01-05,2,Monday,1,Medium
+C0085,2026-05-22 16:22:00,Broken footpath,Road,19.059255,72.880459,W010,Resolved,2026-05-22,16,Friday,5,High
+C0086,2026-03-20 08:14:00,Power line issue,Electricity,19.061207,72.886926,W006,Open,2026-03-20,8,Friday,3,Medium
+C0087,2026-02-25 23:30:00,Water supply interruption,Water,19.092765,72.882896,W009,In Progress,2026-02-25,23,Wednesday,2,High
+C0088,2026-02-19 09:14:00,Pothole near bus stop,Road,19.058609,72.876023,W010,In Progress,2026-02-19,9,Thursday,2,High
+C0089,2026-01-12 01:35:00,Low water pressure,Water,19.092921,72.886441,W009,In Progress,2026-01-12,1,Monday,1,High
+C0090,2026-05-27 09:30:00,Garbage not collected,Waste,19.067787,72.870407,W008,Open,2026-05-27,9,Wednesday,5,Medium
+C0091,2026-01-17 12:31:00,Street light not working,Electricity,19.085741,72.871294,W005,Open,2026-01-17,12,Saturday,1,Medium
+C0092,2026-03-19 02:15:00,Dirty water supply,Water,19.081185,72.877644,W003,In Progress,2026-03-19,2,Thursday,3,High
+C0093,2026-04-08 14:58:00,Dirty water supply,Water,19.059427,72.881602,W010,Resolved,2026-04-08,14,Wednesday,4,High
+C0094,2026-01-26 06:40:00,Dustbin is full,Waste,19.08711,72.871604,W005,Open,2026-01-26,6,Monday,1,Medium
+C0095,2026-01-20 05:00:00,Dirty water supply,Water,19.069085,72.886894,W004,Resolved,2026-01-20,5,Tuesday,1,High
+C0096,2026-03-15 22:18:00,Garbage overflowing,Waste,19.09203,72.86954,W005,In Progress,2026-03-15,22,Sunday,3,Medium
+C0097,2026-06-19 06:27:00,Road surface damaged,Road,19.066148,72.882248,W004,Open,2026-06-19,6,Friday,6,High
+C0098,2026-01-16 05:50:00,Water leakage on road,Water,19.088076,72.87249,W005,In Progress,2026-01-16,5,Friday,1,High
+C0099,2026-04-30 22:19:00,Street light not working,Electricity,19.091997,72.874427,W005,In Progress,2026-04-30,22,Thursday,4,Medium
+C0100,2026-01-21 19:02:00,Electric pole damaged,Electricity,19.098894,72.884345,W009,In Progress,2026-01-21,19,Wednesday,1,Medium
+C0101,2026-02-28 21:53:00,Garbage not collected,Waste,19.093605,72.870871,W005,Open,2026-02-28,21,Saturday,2,Medium
+C0102,2026-05-01 16:41:00,Garbage overflowing,Waste,19.089422,72.867782,W005,In Progress,2026-05-01,16,Friday,5,Medium
+C0103,2026-05-01 11:26:00,Street light not working,Electricity,19.080333,72.893701,W007,Open,2026-05-01,11,Friday,5,Medium
+C0104,2026-03-15 21:25:00,Electric pole damaged,Electricity,19.068136,72.890501,W006,Resolved,2026-03-15,21,Sunday,3,Medium
+C0105,2026-03-24 03:49:00,Large pothole on main road,Road,19.079042,72.880146,W002,Open,2026-03-24,3,Tuesday,3,High
+C0106,2026-01-14 06:33:00,Electric pole damaged,Electricity,19.093618,72.884564,W009,In Progress,2026-01-14,6,Wednesday,1,Medium
+C0107,2026-03-10 17:08:00,Garbage overflowing,Waste,19.072277,72.871381,W008,In Progress,2026-03-10,17,Tuesday,3,Medium
+C0108,2026-06-11 19:51:00,Garbage not collected,Waste,19.065393,72.868584,W008,In Progress,2026-06-11,19,Thursday,6,Medium
+C0109,2026-02-27 03:29:00,Street light not working,Electricity,19.080471,72.879177,W001,Open,2026-02-27,3,Friday,2,Medium
+C0110,2026-06-30 08:26:00,Road surface damaged,Road,19.071347,72.876802,W008,Open,2026-06-30,8,Tuesday,6,High
+C0111,2026-02-18 19:32:00,Pipeline leakage,Water,19.070463,72.868365,W008,Open,2026-02-18,19,Wednesday,2,High
+C0112,2026-05-10 08:52:00,Power line issue,Electricity,19.085026,72.872261,W005,In Progress,2026-05-10,8,Sunday,5,Medium
+C0113,2026-04-25 17:30:00,Street light damaged,Electricity,19.058451,72.878519,W010,In Progress,2026-04-25,17,Saturday,4,Medium
+C0114,2026-02-18 22:15:00,Power line issue,Electricity,19.082718,72.889336,W007,Resolved,2026-02-18,22,Wednesday,2,Medium
+C0115,2026-06-30 12:24:00,Broken footpath,Road,19.080884,72.880624,W001,In Progress,2026-06-30,12,Tuesday,6,High
+C0116,2026-02-02 16:37:00,Street light not working,Electricity,19.08332,72.871004,W003,Resolved,2026-02-02,16,Monday,2,Medium
+C0117,2026-02-06 13:55:00,Street light not working,Electricity,19.081548,72.876544,W002,Resolved,2026-02-06,13,Friday,2,Medium
+C0118,2026-06-27 12:41:00,Road surface damaged,Road,19.085803,72.868286,W005,In Progress,2026-06-27,12,Saturday,6,High
+C0119,2026-06-10 22:56:00,Power line issue,Electricity,19.097594,72.885724,W009,Open,2026-06-10,22,Wednesday,6,Medium
+C0120,2026-06-11 21:58:00,Garbage overflowing,Waste,19.057874,72.875275,W010,Open,2026-06-11,21,Thursday,6,Medium
+C0121,2026-04-24 05:44:00,Garbage not collected,Waste,19.079995,72.887289,W007,Resolved,2026-04-24,5,Friday,4,Medium
+C0122,2026-04-06 13:09:00,Large pothole on main road,Road,19.073442,72.876821,W001,In Progress,2026-04-06,13,Monday,4,High
+C0123,2026-01-21 19:55:00,Water supply interruption,Water,19.083825,72.876831,W003,Resolved,2026-01-21,19,Wednesday,1,High
+C0124,2026-04-29 20:16:00,Water supply interruption,Water,19.059596,72.879668,W010,Resolved,2026-04-29,20,Wednesday,4,High
+C0125,2026-04-24 11:37:00,Water leakage on road,Water,19.087992,72.87462,W005,In Progress,2026-04-24,11,Friday,4,High
+C0126,2026-02-20 12:54:00,Power line issue,Electricity,19.089832,72.867372,W005,In Progress,2026-02-20,12,Friday,2,Medium
+C0127,2026-01-06 21:25:00,Large pothole on main road,Road,19.062745,72.890659,W006,In Progress,2026-01-06,21,Tuesday,1,High
+C0128,2026-02-28 19:51:00,Power line issue,Electricity,19.074523,72.879066,W001,In Progress,2026-02-28,19,Saturday,2,Medium
+C0129,2026-06-10 20:02:00,Water leakage on road,Water,19.088089,72.869408,W005,In Progress,2026-06-10,20,Wednesday,6,High
+C0130,2026-03-17 10:47:00,Water leakage on road,Water,19.064155,72.887008,W006,In Progress,2026-03-17,10,Tuesday,3,High
+C0131,2026-03-07 15:51:00,Road damaged,Road,19.062951,72.893704,W006,Open,2026-03-07,15,Saturday,3,High
+C0132,2026-02-27 21:46:00,Garbage overflowing,Waste,19.069744,72.870974,W008,In Progress,2026-02-27,21,Friday,2,Medium
+C0133,2026-01-04 08:34:00,Waste dumped on road,Waste,19.061236,72.888686,W006,In Progress,2026-01-04,8,Sunday,1,Medium
+C0134,2026-01-28 21:14:00,Power line issue,Electricity,19.089715,72.871195,W005,In Progress,2026-01-28,21,Wednesday,1,Medium
+C0135,2026-06-12 14:58:00,Water leakage on road,Water,19.067011,72.891492,W006,Open,2026-06-12,14,Friday,6,High
+C0136,2026-03-19 15:07:00,Garbage not collected,Waste,19.080972,72.878873,W003,Open,2026-03-19,15,Thursday,3,Medium
+C0137,2026-06-21 23:44:00,Power line issue,Electricity,19.08646,72.891191,W007,In Progress,2026-06-21,23,Sunday,6,Medium
+C0138,2026-05-06 19:26:00,Street light not working,Electricity,19.089391,72.872797,W003,In Progress,2026-05-06,19,Wednesday,5,Medium
+C0139,2026-04-24 07:54:00,Pipeline leakage,Water,19.063627,72.894809,W006,Resolved,2026-04-24,7,Friday,4,High
+C0140,2026-04-12 08:12:00,Pothole near bus stop,Road,19.099682,72.88649,W009,Resolved,2026-04-12,8,Sunday,4,High
+C0141,2026-01-06 01:50:00,Dirty water supply,Water,19.078335,72.884888,W002,In Progress,2026-01-06,1,Tuesday,1,High
+C0142,2026-02-23 18:13:00,Dustbin is full,Waste,19.073131,72.88233,W004,Open,2026-02-23,18,Monday,2,Medium
+C0143,2026-02-07 04:34:00,Waste collection delayed,Waste,19.057507,72.874745,W010,In Progress,2026-02-07,4,Saturday,2,Medium
+C0144,2026-04-02 07:37:00,Water leakage on road,Water,19.074238,72.874442,W001,Open,2026-04-02,7,Thursday,4,High
+C0145,2026-01-30 23:04:00,Street light flickering,Electricity,19.084762,72.87778,W003,In Progress,2026-01-30,23,Friday,1,Medium
+C0146,2026-05-09 07:39:00,Waste dumped on road,Waste,19.055434,72.880832,W010,In Progress,2026-05-09,7,Saturday,5,Medium
+C0147,2026-06-14 00:03:00,Broken footpath,Road,19.099986,72.885473,W009,Resolved,2026-06-14,0,Sunday,6,High
+C0148,2026-01-19 02:20:00,Electric pole damaged,Electricity,19.081083,72.875657,W002,Resolved,2026-01-19,2,Monday,1,Medium
+C0149,2026-06-02 16:18:00,Broken footpath,Road,19.059537,72.879054,W010,Open,2026-06-02,16,Tuesday,6,High
+C0150,2026-04-26 07:26:00,Pipeline leakage,Water,19.078389,72.879535,W002,Resolved,2026-04-26,7,Sunday,4,High
+C0151,2026-03-22 21:16:00,Broken footpath,Road,19.078743,72.876526,W002,Resolved,2026-03-22,21,Sunday,3,High
+C0152,2026-01-24 13:06:00,Garbage not collected,Waste,19.082446,72.878726,W002,Open,2026-01-24,13,Saturday,1,Medium
+C0153,2026-05-24 17:21:00,Dustbin is full,Waste,19.0967,72.881108,W009,In Progress,2026-05-24,17,Sunday,5,Medium
+C0154,2026-06-03 09:22:00,Waste collection delayed,Waste,19.078036,72.892074,W007,Open,2026-06-03,9,Wednesday,6,Medium
+C0155,2026-03-31 17:23:00,Water leakage on road,Water,19.064149,72.869786,W008,Open,2026-03-31,17,Tuesday,3,High
+C0156,2026-06-18 22:17:00,Dustbin is full,Waste,19.07729,72.889733,W007,Resolved,2026-06-18,22,Thursday,6,Medium
+C0157,2026-02-16 04:36:00,Pothole near bus stop,Road,19.066573,72.885696,W006,In Progress,2026-02-16,4,Monday,2,High
+C0158,2026-02-25 12:26:00,Dustbin is full,Waste,19.075536,72.874274,W001,Resolved,2026-02-25,12,Wednesday,2,Medium
+C0159,2026-02-09 05:48:00,Garbage not collected,Waste,19.066178,72.89174,W006,Resolved,2026-02-09,5,Monday,2,Medium
+C0160,2026-06-05 14:26:00,Electric pole damaged,Electricity,19.065732,72.874549,W008,Open,2026-06-05,14,Friday,6,Medium
+C0161,2026-03-14 21:43:00,Street light not working,Electricity,19.065931,72.890269,W006,Resolved,2026-03-14,21,Saturday,3,Medium
+C0162,2026-06-03 01:00:00,Pipeline leakage,Water,19.073044,72.882153,W001,Open,2026-06-03,1,Wednesday,6,High
+C0163,2026-01-31 00:31:00,Large pothole on main road,Road,19.09247,72.866757,W005,Resolved,2026-01-31,0,Saturday,1,High
+C0164,2026-05-24 21:51:00,Dirty water supply,Water,19.093542,72.880971,W009,In Progress,2026-05-24,21,Sunday,5,High
+C0165,2026-04-28 02:55:00,Street light not working,Electricity,19.074131,72.876993,W001,Resolved,2026-04-28,2,Tuesday,4,Medium
+C0166,2026-04-14 00:20:00,Pothole near bus stop,Road,19.078719,72.896476,W007,Resolved,2026-04-14,0,Tuesday,4,High
+C0167,2026-01-28 07:27:00,Waste dumped on road,Waste,19.065889,72.89024,W006,Resolved,2026-01-28,7,Wednesday,1,Medium
+C0168,2026-03-27 05:04:00,Road damaged,Road,19.090105,72.86614,W005,In Progress,2026-03-27,5,Friday,3,High
+C0169,2026-06-15 04:15:00,Large pothole on main road,Road,19.066028,72.88256,W004,Open,2026-06-15,4,Monday,6,High
+C0170,2026-02-15 20:31:00,Water leakage on road,Water,19.05964,72.878637,W010,In Progress,2026-02-15,20,Sunday,2,High
+C0171,2026-02-08 14:04:00,Large pothole on main road,Road,19.067689,72.873314,W008,Resolved,2026-02-08,14,Sunday,2,High
+C0172,2026-05-10 02:19:00,Waste collection delayed,Waste,19.059617,72.873376,W010,Resolved,2026-05-10,2,Sunday,5,Medium
+C0173,2026-06-07 19:32:00,Garbage not collected,Waste,19.088845,72.870803,W005,In Progress,2026-06-07,19,Sunday,6,Medium
+C0174,2026-06-16 06:20:00,Street light flickering,Electricity,19.07705,72.877714,W001,Open,2026-06-16,6,Tuesday,6,Medium
+C0175,2026-01-22 16:41:00,Waste collection delayed,Waste,19.064726,72.869477,W008,Resolved,2026-01-22,16,Thursday,1,Medium
+C0176,2026-04-06 09:24:00,Low water pressure,Water,19.067088,72.870384,W008,In Progress,2026-04-06,9,Monday,4,High
+C0177,2026-03-26 03:35:00,Pothole near bus stop,Road,19.077784,72.875541,W001,In Progress,2026-03-26,3,Thursday,3,High
+C0178,2026-01-21 18:42:00,Low water pressure,Water,19.056414,72.876498,W010,In Progress,2026-01-21,18,Wednesday,1,High
+C0179,2026-01-22 09:35:00,Dirty water supply,Water,19.080767,72.894917,W007,Open,2026-01-22,9,Thursday,1,High
+C0180,2026-05-11 11:01:00,Waste dumped on road,Waste,19.093626,72.878803,W009,Open,2026-05-11,11,Monday,5,Medium
+C0181,2026-02-27 04:09:00,Street light damaged,Electricity,19.060772,72.893444,W006,Open,2026-02-27,4,Friday,2,Medium
+C0182,2026-06-08 04:38:00,Waste collection delayed,Waste,19.093767,72.878622,W009,In Progress,2026-06-08,4,Monday,6,Medium
+C0183,2026-01-12 13:23:00,Pipeline leakage,Water,19.061764,72.875375,W010,Resolved,2026-01-12,13,Monday,1,High
+C0184,2026-03-01 17:15:00,Broken footpath,Road,19.058095,72.881086,W010,Resolved,2026-03-01,17,Sunday,3,High
+C0185,2026-04-23 14:49:00,Road surface damaged,Road,19.067818,72.883819,W004,In Progress,2026-04-23,14,Thursday,4,High
+C0186,2026-06-04 04:55:00,Water supply interruption,Water,19.0795,72.893412,W007,Resolved,2026-06-04,4,Thursday,6,High
+C0187,2026-02-01 09:05:00,Dustbin is full,Waste,19.097631,72.879728,W009,In Progress,2026-02-01,9,Sunday,2,Medium
+C0188,2026-02-26 14:56:00,Street light not working,Electricity,19.083496,72.870267,W003,Open,2026-02-26,14,Thursday,2,Medium
+C0189,2026-04-09 02:23:00,Road damaged,Road,19.079245,72.890187,W007,Open,2026-04-09,2,Thursday,4,High
+C0190,2026-01-10 09:58:00,Water supply interruption,Water,19.068298,72.891961,W006,Open,2026-01-10,9,Saturday,1,High
+C0191,2026-01-02 02:01:00,Street light flickering,Electricity,19.065559,72.87535,W008,In Progress,2026-01-02,2,Friday,1,Medium
+C0192,2026-03-15 07:19:00,Street light not working,Electricity,19.056218,72.875384,W010,In Progress,2026-03-15,7,Sunday,3,Medium
+C0193,2026-01-29 15:38:00,Street light not working,Electricity,19.060361,72.87932,W010,In Progress,2026-01-29,15,Thursday,1,Medium
+C0194,2026-04-20 00:39:00,Low water pressure,Water,19.068528,72.885707,W004,Open,2026-04-20,0,Monday,4,High
+C0195,2026-05-15 17:32:00,Pothole near bus stop,Road,19.082864,72.880076,W002,Open,2026-05-15,17,Friday,5,High
+C0196,2026-06-12 12:23:00,Street light not working,Electricity,19.079537,72.887162,W007,Open,2026-06-12,12,Friday,6,Medium
+C0197,2026-05-29 23:48:00,Water leakage on road,Water,19.063325,72.885443,W006,In Progress,2026-05-29,23,Friday,5,High
+C0198,2026-06-28 15:40:00,Pipeline leakage,Water,19.061823,72.886349,W006,In Progress,2026-06-28,15,Sunday,6,High
+C0199,2026-02-21 01:50:00,Waste collection delayed,Waste,19.064995,72.867419,W008,Resolved,2026-02-21,1,Saturday,2,Medium
+C0200,2026-05-02 08:02:00,Street light flickering,Electricity,19.097533,72.878911,W009,Resolved,2026-05-02,8,Saturday,5,Medium
+C0201,2026-02-01 11:27:00,Large pothole on main road,Road,19.079895,72.880133,W001,Resolved,2026-02-01,11,Sunday,2,High
+C0202,2026-06-27 15:23:00,Pipeline leakage,Water,19.069243,72.890193,W006,Open,2026-06-27,15,Saturday,6,High
+C0203,2026-06-04 05:34:00,Waste dumped on road,Waste,19.079938,72.888026,W007,Resolved,2026-06-04,5,Thursday,6,Medium
+C0204,2026-06-04 22:27:00,Broken footpath,Road,19.086666,72.869439,W005,Resolved,2026-06-04,22,Thursday,6,High
+C0205,2026-04-22 08:40:00,Road surface damaged,Road,19.0808,72.882179,W001,Open,2026-04-22,8,Wednesday,4,High
+C0206,2026-06-23 05:01:00,Road surface damaged,Road,19.078428,72.893076,W007,Resolved,2026-06-23,5,Tuesday,6,High
+C0207,2026-03-02 20:23:00,Water leakage on road,Water,19.074622,72.882195,W001,Open,2026-03-02,20,Monday,3,High
+C0208,2026-04-05 11:28:00,Pipeline leakage,Water,19.062631,72.878739,W010,In Progress,2026-04-05,11,Sunday,4,High
+C0209,2026-06-16 08:15:00,Power line issue,Electricity,19.069605,72.885259,W006,Open,2026-06-16,8,Tuesday,6,Medium
+C0210,2026-01-31 08:49:00,Street light flickering,Electricity,19.065603,72.871463,W008,In Progress,2026-01-31,8,Saturday,1,Medium
+C0211,2026-02-01 04:54:00,Street light damaged,Electricity,19.085741,72.866727,W005,In Progress,2026-02-01,4,Sunday,2,Medium
+C0212,2026-06-20 11:45:00,Waste collection delayed,Waste,19.063649,72.872422,W008,Resolved,2026-06-20,11,Saturday,6,Medium
+C0213,2026-05-11 07:07:00,Low water pressure,Water,19.089851,72.877921,W003,Open,2026-05-11,7,Monday,5,High
+C0214,2026-05-22 18:23:00,Waste collection delayed,Waste,19.067674,72.87683,W008,Open,2026-05-22,18,Friday,5,Medium
+C0215,2026-03-21 12:45:00,Garbage not collected,Waste,19.062189,72.878257,W010,Resolved,2026-03-21,12,Saturday,3,Medium
+C0216,2026-03-23 20:04:00,Garbage overflowing,Waste,19.0595,72.879801,W010,Resolved,2026-03-23,20,Monday,3,Medium
+C0217,2026-04-21 16:58:00,Water supply interruption,Water,19.088682,72.878314,W003,In Progress,2026-04-21,16,Tuesday,4,High
+C0218,2026-02-11 10:59:00,Road damaged,Road,19.087093,72.87346,W003,In Progress,2026-02-11,10,Wednesday,2,High
+C0219,2026-02-20 20:35:00,Waste collection delayed,Waste,19.087745,72.87125,W005,In Progress,2026-02-20,20,Friday,2,Medium
+C0220,2026-06-14 05:37:00,Dustbin is full,Waste,19.099416,72.878542,W009,In Progress,2026-06-14,5,Sunday,6,Medium
+C0221,2026-01-11 00:05:00,Road surface damaged,Road,19.055455,72.879415,W010,In Progress,2026-01-11,0,Sunday,1,High
+C0222,2026-04-17 19:40:00,Dirty water supply,Water,19.085303,72.87389,W005,In Progress,2026-04-17,19,Friday,4,High
+C0223,2026-03-04 21:25:00,Broken footpath,Road,19.087974,72.86573,W005,Open,2026-03-04,21,Wednesday,3,High
+C0224,2026-05-04 14:13:00,Electric pole damaged,Electricity,19.083402,72.871437,W003,In Progress,2026-05-04,14,Monday,5,Medium
+C0225,2026-02-03 11:32:00,Broken footpath,Road,19.065617,72.888191,W006,Resolved,2026-02-03,11,Tuesday,2,High
+C0226,2026-03-05 04:06:00,Broken footpath,Road,19.075506,72.884454,W002,In Progress,2026-03-05,4,Thursday,3,High
+C0227,2026-03-25 18:46:00,Water supply interruption,Water,19.080127,72.894631,W007,Resolved,2026-03-25,18,Wednesday,3,High
+C0228,2026-03-20 15:01:00,Electric pole damaged,Electricity,19.0909,72.880932,W009,Resolved,2026-03-20,15,Friday,3,Medium
+C0229,2026-04-01 01:03:00,Dirty water supply,Water,19.067814,72.885975,W004,In Progress,2026-04-01,1,Wednesday,4,High
+C0230,2026-01-03 03:27:00,Road surface damaged,Road,19.064339,72.869645,W008,Resolved,2026-01-03,3,Saturday,1,High
+C0231,2026-04-13 01:36:00,Pothole near bus stop,Road,19.082618,72.890625,W007,Resolved,2026-04-13,1,Monday,4,High
+C0232,2026-04-26 17:17:00,Street light flickering,Electricity,19.083253,72.881232,W002,In Progress,2026-04-26,17,Sunday,4,Medium
+C0233,2026-04-11 11:50:00,Water leakage on road,Water,19.084868,72.880578,W002,Resolved,2026-04-11,11,Saturday,4,High
+C0234,2026-05-11 12:32:00,Dirty water supply,Water,19.080403,72.870389,W003,In Progress,2026-05-11,12,Monday,5,High
+C0235,2026-04-27 04:38:00,Street light flickering,Electricity,19.068931,72.886398,W006,In Progress,2026-04-27,4,Monday,4,Medium
+C0236,2026-06-07 23:53:00,Pipeline leakage,Water,19.062992,72.888364,W006,In Progress,2026-06-07,23,Sunday,6,High
+C0237,2026-03-18 15:52:00,Street light flickering,Electricity,19.090166,72.880312,W009,Open,2026-03-18,15,Wednesday,3,Medium
+C0238,2026-06-02 15:16:00,Pothole near bus stop,Road,19.086671,72.894829,W007,In Progress,2026-06-02,15,Tuesday,6,High
+C0239,2026-05-30 15:10:00,Water leakage on road,Water,19.060242,72.880212,W010,Resolved,2026-05-30,15,Saturday,5,High
+C0240,2026-05-27 22:07:00,Water leakage on road,Water,19.081908,72.87441,W003,Resolved,2026-05-27,22,Wednesday,5,High
+C0241,2026-04-16 16:49:00,Street light damaged,Electricity,19.086115,72.874716,W003,In Progress,2026-04-16,16,Thursday,4,Medium
+C0242,2026-02-23 17:20:00,Dirty water supply,Water,19.080981,72.877484,W001,Resolved,2026-02-23,17,Monday,2,High
+C0243,2026-05-17 10:34:00,Pipeline leakage,Water,19.063543,72.89272,W006,In Progress,2026-05-17,10,Sunday,5,High
+C0244,2026-03-05 08:35:00,Street light damaged,Electricity,19.087985,72.874415,W005,Resolved,2026-03-05,8,Thursday,3,Medium
+C0245,2026-03-23 15:22:00,Pipeline leakage,Water,19.090605,72.874345,W005,In Progress,2026-03-23,15,Monday,3,High
+C0246,2026-05-27 21:34:00,Pothole near bus stop,Road,19.088797,72.874802,W005,Resolved,2026-05-27,21,Wednesday,5,High
+C0247,2026-03-15 22:05:00,Pothole near bus stop,Road,19.083464,72.874424,W003,Resolved,2026-03-15,22,Sunday,3,High
+C0248,2026-05-18 08:59:00,Water supply interruption,Water,19.06862,72.869716,W008,Open,2026-05-18,8,Monday,5,High
+C0249,2026-01-13 21:57:00,Water supply interruption,Water,19.06031,72.879379,W010,Open,2026-01-13,21,Tuesday,1,High
+C0250,2026-05-01 03:43:00,Power line issue,Electricity,19.082708,72.875052,W002,In Progress,2026-05-01,3,Friday,5,Medium
+C0251,2026-05-03 20:12:00,Electric pole damaged,Electricity,19.087559,72.872872,W003,Resolved,2026-05-03,20,Sunday,5,Medium
+C0252,2026-03-01 17:47:00,Dustbin is full,Waste,19.078231,72.882067,W001,Open,2026-03-01,17,Sunday,3,Medium
+C0253,2026-04-12 15:11:00,Water leakage on road,Water,19.086366,72.896621,W007,Resolved,2026-04-12,15,Sunday,4,High
+C0254,2026-05-26 19:06:00,Waste collection delayed,Waste,19.080285,72.87605,W001,Resolved,2026-05-26,19,Tuesday,5,Medium
+C0255,2026-05-10 14:17:00,Street light damaged,Electricity,19.091928,72.878126,W009,Open,2026-05-10,14,Sunday,5,Medium
+C0256,2026-01-04 23:21:00,Road damaged,Road,19.070908,72.872678,W008,Open,2026-01-04,23,Sunday,1,High
+C0257,2026-05-12 10:05:00,Electric pole damaged,Electricity,19.084008,72.870954,W003,Open,2026-05-12,10,Tuesday,5,Medium
+C0258,2026-01-02 08:24:00,Road damaged,Road,19.065355,72.874538,W008,Resolved,2026-01-02,8,Friday,1,High
+C0259,2026-06-17 11:44:00,Waste collection delayed,Waste,19.087363,72.871678,W005,Resolved,2026-06-17,11,Wednesday,6,Medium
+C0260,2026-06-25 16:59:00,Pipeline leakage,Water,19.093951,72.872036,W005,Resolved,2026-06-25,16,Thursday,6,High
+C0261,2026-06-07 07:14:00,Large pothole on main road,Road,19.084574,72.879782,W002,Resolved,2026-06-07,7,Sunday,6,High
+C0262,2026-06-29 17:58:00,Broken footpath,Road,19.059708,72.878375,W010,In Progress,2026-06-29,17,Monday,6,High
+C0263,2026-01-21 16:28:00,Dirty water supply,Water,19.070282,72.883618,W004,In Progress,2026-01-21,16,Wednesday,1,High
+C0264,2026-05-10 06:36:00,Dustbin is full,Waste,19.080367,72.876645,W002,In Progress,2026-05-10,6,Sunday,5,Medium
+C0265,2026-05-30 15:05:00,Garbage overflowing,Waste,19.071989,72.871455,W008,Open,2026-05-30,15,Saturday,5,Medium
+C0266,2026-04-17 14:36:00,Dirty water supply,Water,19.063577,72.871624,W008,Resolved,2026-04-17,14,Friday,4,High
+C0267,2026-01-01 23:13:00,Power line issue,Electricity,19.076783,72.873153,W001,Resolved,2026-01-01,23,Thursday,1,Medium
+C0268,2026-05-01 01:18:00,Garbage not collected,Waste,19.079089,72.88269,W002,In Progress,2026-05-01,1,Friday,5,Medium
+C0269,2026-04-25 12:24:00,Broken footpath,Road,19.077802,72.896641,W007,In Progress,2026-04-25,12,Saturday,4,High
+C0270,2026-02-15 17:25:00,Pothole near bus stop,Road,19.085288,72.877279,W003,Open,2026-02-15,17,Sunday,2,High
+C0271,2026-04-29 21:46:00,Waste collection delayed,Waste,19.076444,72.878019,W001,Open,2026-04-29,21,Wednesday,4,Medium
+C0272,2026-02-09 08:12:00,Power line issue,Electricity,19.074374,72.88725,W004,Open,2026-02-09,8,Monday,2,Medium
+C0273,2026-01-05 07:13:00,Street light flickering,Electricity,19.071673,72.878639,W001,Resolved,2026-01-05,7,Monday,1,Medium
+C0274,2026-01-12 12:28:00,Garbage overflowing,Waste,19.057343,72.875173,W010,Open,2026-01-12,12,Monday,1,Medium
+C0275,2026-05-28 10:36:00,Road damaged,Road,19.085979,72.876725,W003,Resolved,2026-05-28,10,Thursday,5,High
+C0276,2026-06-19 16:14:00,Road damaged,Road,19.069136,72.882752,W004,In Progress,2026-06-19,16,Friday,6,High
+C0277,2026-05-23 15:03:00,Pipeline leakage,Water,19.064723,72.882416,W010,In Progress,2026-05-23,15,Saturday,5,High
+C0278,2026-04-15 04:19:00,Broken footpath,Road,19.080765,72.894544,W007,Resolved,2026-04-15,4,Wednesday,4,High
+C0279,2026-02-06 14:58:00,Low water pressure,Water,19.065576,72.884127,W004,Resolved,2026-02-06,14,Friday,2,High
+C0280,2026-03-04 08:13:00,Pipeline leakage,Water,19.093303,72.877791,W009,Resolved,2026-03-04,8,Wednesday,3,High
+C0281,2026-02-18 01:17:00,Dustbin is full,Waste,19.063772,72.89105,W006,Open,2026-02-18,1,Wednesday,2,Medium
+C0282,2026-06-21 17:13:00,Dirty water supply,Water,19.079794,72.883695,W002,Resolved,2026-06-21,17,Sunday,6,High
+C0283,2026-02-18 23:07:00,Garbage overflowing,Waste,19.092469,72.872543,W005,Open,2026-02-18,23,Wednesday,2,Medium
+C0284,2026-03-03 17:20:00,Pipeline leakage,Water,19.062755,72.876807,W010,In Progress,2026-03-03,17,Tuesday,3,High
+C0285,2026-04-03 16:56:00,Large pothole on main road,Road,19.064973,72.885986,W006,In Progress,2026-04-03,16,Friday,4,High
+C0286,2026-04-05 10:26:00,Road damaged,Road,19.063457,72.875641,W008,In Progress,2026-04-05,10,Sunday,4,High
+C0287,2026-05-22 18:37:00,Waste collection delayed,Waste,19.0872,72.872952,W003,Open,2026-05-22,18,Friday,5,Medium
+C0288,2026-05-26 07:31:00,Pipeline leakage,Water,19.065506,72.894435,W006,Resolved,2026-05-26,7,Tuesday,5,High
+C0289,2026-04-28 05:46:00,Electric pole damaged,Electricity,19.09295,72.866693,W005,In Progress,2026-04-28,5,Tuesday,4,Medium
+C0290,2026-05-19 20:03:00,Street light damaged,Electricity,19.095239,72.885391,W009,Open,2026-05-19,20,Tuesday,5,Medium
+C0291,2026-02-05 20:14:00,Waste dumped on road,Waste,19.07168,72.87421,W001,Open,2026-02-05,20,Thursday,2,Medium
+C0292,2026-01-16 19:40:00,Power line issue,Electricity,19.096668,72.883165,W009,Resolved,2026-01-16,19,Friday,1,Medium
+C0293,2026-05-17 17:26:00,Garbage not collected,Waste,19.063119,72.872294,W008,Resolved,2026-05-17,17,Sunday,5,Medium
+C0294,2026-05-09 22:43:00,Pothole near bus stop,Road,19.094306,72.886397,W009,Open,2026-05-09,22,Saturday,5,High
+C0295,2026-02-08 07:12:00,Dustbin is full,Waste,19.081198,72.877524,W002,Resolved,2026-02-08,7,Sunday,2,Medium
+C0296,2026-04-06 12:29:00,Street light not working,Electricity,19.09065,72.874902,W005,Open,2026-04-06,12,Monday,4,Medium
+C0297,2026-01-24 12:24:00,Garbage not collected,Waste,19.088772,72.86976,W005,In Progress,2026-01-24,12,Saturday,1,Medium
+C0298,2026-05-08 13:41:00,Water leakage on road,Water,19.078844,72.878359,W001,Open,2026-05-08,13,Friday,5,High
+C0299,2026-02-24 22:56:00,Garbage overflowing,Waste,19.095668,72.879711,W009,Open,2026-02-24,22,Tuesday,2,Medium
+C0300,2026-03-22 00:13:00,Garbage overflowing,Waste,19.09087,72.872523,W005,In Progress,2026-03-22,0,Sunday,3,Medium
+C0301,2026-02-11 18:15:00,Waste collection delayed,Waste,19.082667,72.895494,W007,In Progress,2026-02-11,18,Wednesday,2,Medium
+C0302,2026-02-05 22:46:00,Broken footpath,Road,19.090784,72.884455,W009,Resolved,2026-02-05,22,Thursday,2,High
+C0303,2026-03-01 02:21:00,Waste dumped on road,Waste,19.077052,72.878839,W001,In Progress,2026-03-01,2,Sunday,3,Medium
+C0304,2026-06-12 08:50:00,Pothole near bus stop,Road,19.086926,72.891906,W007,Resolved,2026-06-12,8,Friday,6,High
+C0305,2026-02-17 21:37:00,Electric pole damaged,Electricity,19.096607,72.877857,W009,In Progress,2026-02-17,21,Tuesday,2,Medium
+C0306,2026-01-22 08:09:00,Water leakage on road,Water,19.0888,72.872839,W005,Open,2026-01-22,8,Thursday,1,High
+C0307,2026-01-28 02:00:00,Large pothole on main road,Road,19.08643,72.891447,W007,Resolved,2026-01-28,2,Wednesday,1,High
+C0308,2026-02-17 13:28:00,Water leakage on road,Water,19.08057,72.880124,W002,Open,2026-02-17,13,Tuesday,2,High
+C0309,2026-05-22 02:38:00,Waste collection delayed,Waste,19.07698,72.875944,W001,Resolved,2026-05-22,2,Friday,5,Medium
+C0310,2026-04-10 02:46:00,Broken footpath,Road,19.080011,72.881752,W001,Open,2026-04-10,2,Friday,4,High
+C0311,2026-02-13 04:17:00,Pipeline leakage,Water,19.058011,72.877931,W010,Open,2026-02-13,4,Friday,2,High
+C0312,2026-04-18 09:30:00,Power line issue,Electricity,19.087827,72.873611,W003,Open,2026-04-18,9,Saturday,4,Medium
+C0313,2026-01-28 04:19:00,Pipeline leakage,Water,19.063068,72.870957,W008,In Progress,2026-01-28,4,Wednesday,1,High
+C0314,2026-03-27 13:52:00,Broken footpath,Road,19.085235,72.89351,W007,In Progress,2026-03-27,13,Friday,3,High
+C0315,2026-06-04 22:12:00,Large pothole on main road,Road,19.08479,72.871776,W003,Resolved,2026-06-04,22,Thursday,6,High
+C0316,2026-05-28 07:20:00,Broken footpath,Road,19.063761,72.893165,W006,Resolved,2026-05-28,7,Thursday,5,High
+C0317,2026-02-21 18:34:00,Dustbin is full,Waste,19.061799,72.892676,W006,Open,2026-02-21,18,Saturday,2,Medium
+C0318,2026-03-16 22:04:00,Pipeline leakage,Water,19.07119,72.874957,W008,Resolved,2026-03-16,22,Monday,3,High
+C0319,2026-03-03 08:42:00,Low water pressure,Water,19.064541,72.871231,W008,Resolved,2026-03-03,8,Tuesday,3,High
+C0320,2026-05-03 18:25:00,Street light flickering,Electricity,19.080344,72.884235,W002,In Progress,2026-05-03,18,Sunday,5,Medium
+C0321,2026-06-29 17:38:00,Waste collection delayed,Waste,19.083382,72.88785,W007,Open,2026-06-29,17,Monday,6,Medium
+C0322,2026-01-12 18:41:00,Dirty water supply,Water,19.066775,72.888996,W006,Resolved,2026-01-12,18,Monday,1,High
+C0323,2026-01-26 08:14:00,Garbage not collected,Waste,19.082107,72.892188,W007,In Progress,2026-01-26,8,Monday,1,Medium
+C0324,2026-04-06 12:29:00,Pipeline leakage,Water,19.062723,72.878886,W010,In Progress,2026-04-06,12,Monday,4,High
+C0325,2026-05-04 03:18:00,Pothole near bus stop,Road,19.08416,72.879617,W003,Open,2026-05-04,3,Monday,5,High
+C0326,2026-03-29 14:50:00,Large pothole on main road,Road,19.082069,72.874829,W003,Resolved,2026-03-29,14,Sunday,3,High
+C0327,2026-03-23 02:19:00,Electric pole damaged,Electricity,19.075447,72.882108,W002,Open,2026-03-23,2,Monday,3,Medium
+C0328,2026-03-04 16:11:00,Garbage overflowing,Waste,19.065519,72.88831,W006,Resolved,2026-03-04,16,Wednesday,3,Medium
+C0329,2026-06-11 05:11:00,Pipeline leakage,Water,19.069405,72.871321,W008,Open,2026-06-11,5,Thursday,6,High
+C0330,2026-06-01 13:24:00,Pipeline leakage,Water,19.055045,72.875148,W010,Resolved,2026-06-01,13,Monday,6,High
+C0331,2026-02-17 11:20:00,Dustbin is full,Waste,19.076971,72.87614,W002,In Progress,2026-02-17,11,Tuesday,2,Medium
+C0332,2026-04-10 19:25:00,Road surface damaged,Road,19.06887,72.870479,W008,Resolved,2026-04-10,19,Friday,4,High
+C0333,2026-06-07 18:05:00,Low water pressure,Water,19.061721,72.876132,W010,Open,2026-06-07,18,Sunday,6,High
+C0334,2026-04-06 22:09:00,Garbage overflowing,Waste,19.090108,72.869182,W005,Open,2026-04-06,22,Monday,4,Medium
+C0335,2026-02-17 15:40:00,Electric pole damaged,Electricity,19.060374,72.882192,W010,Open,2026-02-17,15,Tuesday,2,Medium
+C0336,2026-03-15 04:11:00,Pipeline leakage,Water,19.093146,72.88151,W009,Open,2026-03-15,4,Sunday,3,High
+C0337,2026-02-04 06:52:00,Waste dumped on road,Waste,19.063839,72.890616,W006,In Progress,2026-02-04,6,Wednesday,2,Medium
+C0338,2026-04-17 22:53:00,Electric pole damaged,Electricity,19.067439,72.868673,W008,In Progress,2026-04-17,22,Friday,4,Medium
+C0339,2026-01-09 08:14:00,Low water pressure,Water,19.076376,72.874382,W001,Resolved,2026-01-09,8,Friday,1,High
+C0340,2026-05-11 03:36:00,Street light flickering,Electricity,19.056142,72.880751,W010,Resolved,2026-05-11,3,Monday,5,Medium
+C0341,2026-05-20 06:27:00,Waste dumped on road,Waste,19.091024,72.885301,W009,Open,2026-05-20,6,Wednesday,5,Medium
+C0342,2026-03-09 11:55:00,Waste dumped on road,Waste,19.093167,72.869391,W005,Open,2026-03-09,11,Monday,3,Medium
+C0343,2026-06-26 11:55:00,Dirty water supply,Water,19.072108,72.886328,W004,Open,2026-06-26,11,Friday,6,High
+C0344,2026-02-22 01:36:00,Water supply interruption,Water,19.058508,72.875811,W010,In Progress,2026-02-22,1,Sunday,2,High
+C0345,2026-03-16 18:17:00,Large pothole on main road,Road,19.089524,72.875144,W003,In Progress,2026-03-16,18,Monday,3,High
+C0346,2026-01-16 08:55:00,Pipeline leakage,Water,19.081559,72.882014,W002,Open,2026-01-16,8,Friday,1,High
+C0347,2026-03-05 21:25:00,Low water pressure,Water,19.069895,72.885774,W004,Resolved,2026-03-05,21,Thursday,3,High
+C0348,2026-01-20 20:50:00,Electric pole damaged,Electricity,19.085801,72.887931,W007,In Progress,2026-01-20,20,Tuesday,1,Medium
+C0349,2026-05-05 10:37:00,Broken footpath,Road,19.085025,72.872741,W005,In Progress,2026-05-05,10,Tuesday,5,High
+C0350,2026-01-17 17:25:00,Power line issue,Electricity,19.077178,72.879296,W002,Open,2026-01-17,17,Saturday,1,Medium
+C0351,2026-03-14 10:35:00,Large pothole on main road,Road,19.068779,72.872661,W008,Resolved,2026-03-14,10,Saturday,3,High
+C0352,2026-01-26 20:50:00,Garbage not collected,Waste,19.068367,72.885163,W006,Open,2026-01-26,20,Monday,1,Medium
+C0353,2026-04-20 06:44:00,Street light not working,Electricity,19.072094,72.875821,W008,Resolved,2026-04-20,6,Monday,4,Medium
+C0354,2026-06-17 11:16:00,Pothole near bus stop,Road,19.080824,72.876645,W003,In Progress,2026-06-17,11,Wednesday,6,High
+C0355,2026-06-10 09:46:00,Waste dumped on road,Waste,19.086994,72.872341,W003,In Progress,2026-06-10,9,Wednesday,6,Medium
+C0356,2026-02-24 15:04:00,Garbage not collected,Waste,19.076327,72.877262,W002,In Progress,2026-02-24,15,Tuesday,2,Medium
+C0357,2026-06-28 10:52:00,Garbage not collected,Waste,19.064206,72.875603,W008,In Progress,2026-06-28,10,Sunday,6,Medium
+C0358,2026-02-28 12:05:00,Street light not working,Electricity,19.087308,72.871024,W003,Resolved,2026-02-28,12,Saturday,2,Medium
+C0359,2026-04-08 04:41:00,Road damaged,Road,19.069929,72.886429,W006,In Progress,2026-04-08,4,Wednesday,4,High
+C0360,2026-06-16 05:28:00,Dustbin is full,Waste,19.058512,72.875131,W010,In Progress,2026-06-16,5,Tuesday,6,Medium
+C0361,2026-06-25 14:55:00,Street light flickering,Electricity,19.082172,72.878966,W003,Open,2026-06-25,14,Thursday,6,Medium
+C0362,2026-04-20 10:50:00,Power line issue,Electricity,19.076398,72.87777,W002,Open,2026-04-20,10,Monday,4,Medium
+C0363,2026-06-18 09:13:00,Pothole near bus stop,Road,19.070177,72.885095,W004,In Progress,2026-06-18,9,Thursday,6,High
+C0364,2026-03-03 15:24:00,Pothole near bus stop,Road,19.078127,72.891996,W007,In Progress,2026-03-03,15,Tuesday,3,High
+C0365,2026-03-23 04:24:00,Waste collection delayed,Waste,19.083608,72.880684,W002,Resolved,2026-03-23,4,Monday,3,Medium
+C0366,2026-01-19 00:37:00,Pipeline leakage,Water,19.090675,72.879622,W009,Open,2026-01-19,0,Monday,1,High
+C0367,2026-03-15 20:45:00,Street light flickering,Electricity,19.07601,72.876854,W001,In Progress,2026-03-15,20,Sunday,3,Medium
+C0368,2026-05-18 19:09:00,Dustbin is full,Waste,19.079775,72.890099,W007,In Progress,2026-05-18,19,Monday,5,Medium
+C0369,2026-03-25 12:37:00,Dirty water supply,Water,19.071343,72.888345,W004,In Progress,2026-03-25,12,Wednesday,3,High
+C0370,2026-03-03 01:15:00,Broken footpath,Road,19.075862,72.879345,W002,Resolved,2026-03-03,1,Tuesday,3,High
+C0371,2026-06-20 23:42:00,Waste collection delayed,Waste,19.062407,72.874194,W010,In Progress,2026-06-20,23,Saturday,6,Medium
+C0372,2026-05-08 11:33:00,Garbage overflowing,Waste,19.085172,72.878225,W003,Resolved,2026-05-08,11,Friday,5,Medium
+C0373,2026-03-10 23:56:00,Road damaged,Road,19.081181,72.878999,W003,Resolved,2026-03-10,23,Tuesday,3,High
+C0374,2026-01-17 08:45:00,Road surface damaged,Road,19.086751,72.893275,W007,Resolved,2026-01-17,8,Saturday,1,High
+C0375,2026-05-08 18:10:00,Pothole near bus stop,Road,19.066677,72.869551,W008,Open,2026-05-08,18,Friday,5,High
+C0376,2026-05-11 00:02:00,Garbage overflowing,Waste,19.063587,72.873123,W010,Open,2026-05-11,0,Monday,5,Medium
+C0377,2026-02-08 05:59:00,Broken footpath,Road,19.072603,72.867354,W008,In Progress,2026-02-08,5,Sunday,2,High
+C0378,2026-03-05 13:58:00,Low water pressure,Water,19.084203,72.889713,W007,Open,2026-03-05,13,Thursday,3,High
+C0379,2026-05-09 21:57:00,Pothole near bus stop,Road,19.055527,72.875232,W010,In Progress,2026-05-09,21,Saturday,5,High
+C0380,2026-04-30 09:49:00,Street light not working,Electricity,19.079448,72.875973,W001,In Progress,2026-04-30,9,Thursday,4,Medium
+C0381,2026-02-21 09:36:00,Waste collection delayed,Waste,19.070845,72.874396,W008,Open,2026-02-21,9,Saturday,2,Medium
+C0382,2026-05-07 06:46:00,Road surface damaged,Road,19.072004,72.874605,W008,Open,2026-05-07,6,Thursday,5,High
+C0383,2026-01-07 07:34:00,Waste dumped on road,Waste,19.083464,72.878396,W003,Open,2026-01-07,7,Wednesday,1,Medium
+C0384,2026-03-20 03:13:00,Waste dumped on road,Waste,19.065298,72.887382,W006,Resolved,2026-03-20,3,Friday,3,Medium
+C0385,2026-01-24 01:58:00,Low water pressure,Water,19.073315,72.881155,W001,Resolved,2026-01-24,1,Saturday,1,High
+C0386,2026-05-29 03:32:00,Street light not working,Electricity,19.061335,72.8932,W006,Open,2026-05-29,3,Friday,5,Medium
+C0387,2026-06-19 04:15:00,Waste dumped on road,Waste,19.057917,72.881509,W010,Resolved,2026-06-19,4,Friday,6,Medium
+C0388,2026-03-11 07:04:00,Broken footpath,Road,19.069436,72.886361,W006,In Progress,2026-03-11,7,Wednesday,3,High
+C0389,2026-02-12 14:29:00,Water leakage on road,Water,19.07814,72.876207,W002,Resolved,2026-02-12,14,Thursday,2,High
+C0390,2026-04-29 08:54:00,Power line issue,Electricity,19.066199,72.881576,W004,In Progress,2026-04-29,8,Wednesday,4,Medium
+C0391,2026-03-25 04:05:00,Garbage overflowing,Waste,19.092112,72.874684,W005,Resolved,2026-03-25,4,Wednesday,3,Medium
+C0392,2026-03-08 05:01:00,Waste collection delayed,Waste,19.099521,72.885546,W009,In Progress,2026-03-08,5,Sunday,3,Medium
+C0393,2026-04-29 03:51:00,Water leakage on road,Water,19.097938,72.878215,W009,Open,2026-04-29,3,Wednesday,4,High
+C0394,2026-04-13 11:43:00,Water supply interruption,Water,19.071303,72.886447,W004,In Progress,2026-04-13,11,Monday,4,High
+C0395,2026-01-06 02:12:00,Pothole near bus stop,Road,19.064025,72.877434,W010,Open,2026-01-06,2,Tuesday,1,High
+C0396,2026-01-11 14:03:00,Pothole near bus stop,Road,19.07668,72.880739,W002,In Progress,2026-01-11,14,Sunday,1,High
+C0397,2026-04-08 21:27:00,Street light not working,Electricity,19.078728,72.889147,W007,Open,2026-04-08,21,Wednesday,4,Medium
+C0398,2026-02-08 01:39:00,Broken footpath,Road,19.091192,72.867458,W005,Resolved,2026-02-08,1,Sunday,2,High
+C0399,2026-05-03 01:05:00,Street light flickering,Electricity,19.065798,72.868372,W008,Open,2026-05-03,1,Sunday,5,Medium
+C0400,2026-01-05 12:50:00,Dirty water supply,Water,19.097134,72.881797,W009,Resolved,2026-01-05,12,Monday,1,High
+C0401,2026-03-11 05:01:00,Broken footpath,Road,19.063189,72.88719,W006,Resolved,2026-03-11,5,Wednesday,3,High
+C0402,2026-04-02 18:14:00,Street light flickering,Electricity,19.08074,72.873701,W001,In Progress,2026-04-02,18,Thursday,4,Medium
+C0403,2026-01-15 07:36:00,Road surface damaged,Road,19.073465,72.887974,W004,Resolved,2026-01-15,7,Thursday,1,High
+C0404,2026-06-01 10:51:00,Water supply interruption,Water,19.087381,72.873588,W003,In Progress,2026-06-01,10,Monday,6,High
+C0405,2026-05-25 04:36:00,Road surface damaged,Road,19.080484,72.881067,W001,Resolved,2026-05-25,4,Monday,5,High
+C0406,2026-05-06 01:05:00,Road damaged,Road,19.090562,72.883017,W009,Open,2026-05-06,1,Wednesday,5,High
+C0407,2026-03-26 19:12:00,Street light not working,Electricity,19.098064,72.880408,W009,Open,2026-03-26,19,Thursday,3,Medium
+C0408,2026-02-07 18:45:00,Garbage not collected,Waste,19.069172,72.892744,W006,In Progress,2026-02-07,18,Saturday,2,Medium
+C0409,2026-06-30 21:25:00,Waste collection delayed,Waste,19.06586,72.888366,W006,Resolved,2026-06-30,21,Tuesday,6,Medium
+C0410,2026-06-13 15:41:00,Pipeline leakage,Water,19.083173,72.877072,W003,In Progress,2026-06-13,15,Saturday,6,High
+C0411,2026-06-20 18:52:00,Road damaged,Road,19.056754,72.876068,W010,In Progress,2026-06-20,18,Saturday,6,High
+C0412,2026-01-01 22:36:00,Water supply interruption,Water,19.088916,72.874943,W005,In Progress,2026-01-01,22,Thursday,1,High
+C0413,2026-03-23 19:14:00,Dirty water supply,Water,19.077396,72.873741,W001,Resolved,2026-03-23,19,Monday,3,High
+C0414,2026-03-02 11:20:00,Pothole near bus stop,Road,19.081679,72.878853,W003,Open,2026-03-02,11,Monday,3,High
+C0415,2026-03-09 06:15:00,Street light not working,Electricity,19.066932,72.888505,W006,Open,2026-03-09,6,Monday,3,Medium
+C0416,2026-04-23 23:26:00,Waste dumped on road,Waste,19.080691,72.881546,W001,Resolved,2026-04-23,23,Thursday,4,Medium
+C0417,2026-04-07 03:53:00,Road surface damaged,Road,19.081795,72.895641,W007,In Progress,2026-04-07,3,Tuesday,4,High
+C0418,2026-01-19 01:18:00,Pipeline leakage,Water,19.065201,72.882611,W004,Open,2026-01-19,1,Monday,1,High
+C0419,2026-04-07 05:46:00,Road damaged,Road,19.07575,72.884418,W002,Open,2026-04-07,5,Tuesday,4,High
+C0420,2026-04-21 20:10:00,Street light not working,Electricity,19.066073,72.889342,W006,Open,2026-04-21,20,Tuesday,4,Medium
+C0421,2026-02-18 13:44:00,Road damaged,Road,19.080541,72.884256,W002,In Progress,2026-02-18,13,Wednesday,2,High
+C0422,2026-03-02 03:03:00,Large pothole on main road,Road,19.088929,72.870497,W005,Resolved,2026-03-02,3,Monday,3,High
+C0423,2026-01-01 13:05:00,Waste collection delayed,Waste,19.082945,72.87662,W003,In Progress,2026-01-01,13,Thursday,1,Medium
+C0424,2026-01-07 06:10:00,Water leakage on road,Water,19.069382,72.876771,W008,Resolved,2026-01-07,6,Wednesday,1,High
+C0425,2026-05-01 15:57:00,Broken footpath,Road,19.08161,72.875911,W002,In Progress,2026-05-01,15,Friday,5,High
+C0426,2026-04-08 11:11:00,Low water pressure,Water,19.081458,72.889633,W007,Resolved,2026-04-08,11,Wednesday,4,High
+C0427,2026-05-25 01:09:00,Low water pressure,Water,19.092522,72.871675,W005,Open,2026-05-25,1,Monday,5,High
+C0428,2026-02-28 17:03:00,Street light flickering,Electricity,19.068408,72.893184,W006,Resolved,2026-02-28,17,Saturday,2,Medium
+C0429,2026-03-02 15:19:00,Street light flickering,Electricity,19.09079,72.886028,W009,In Progress,2026-03-02,15,Monday,3,Medium
+C0430,2026-04-25 05:10:00,Water leakage on road,Water,19.080722,72.880785,W001,Open,2026-04-25,5,Saturday,4,High
+C0431,2026-06-24 13:12:00,Street light not working,Electricity,19.080973,72.878972,W001,In Progress,2026-06-24,13,Wednesday,6,Medium
+C0432,2026-01-23 12:35:00,Pothole near bus stop,Road,19.088974,72.868261,W005,Resolved,2026-01-23,12,Friday,1,High
+C0433,2026-06-29 19:37:00,Street light not working,Electricity,19.095226,72.881196,W009,Resolved,2026-06-29,19,Monday,6,Medium
+C0434,2026-05-31 18:48:00,Dirty water supply,Water,19.089648,72.871002,W003,Open,2026-05-31,18,Sunday,5,High
+C0435,2026-05-18 11:56:00,Waste collection delayed,Waste,19.059109,72.87683,W010,Resolved,2026-05-18,11,Monday,5,Medium
+C0436,2026-02-14 08:25:00,Street light not working,Electricity,19.056439,72.879087,W010,In Progress,2026-02-14,8,Saturday,2,Medium
+C0437,2026-03-26 22:15:00,Waste dumped on road,Waste,19.077493,72.891752,W007,Resolved,2026-03-26,22,Thursday,3,Medium
+C0438,2026-03-19 09:17:00,Waste collection delayed,Waste,19.068428,72.893582,W006,In Progress,2026-03-19,9,Thursday,3,Medium
+C0439,2026-03-18 23:28:00,Water supply interruption,Water,19.08274,72.878209,W002,In Progress,2026-03-18,23,Wednesday,3,High
+C0440,2026-04-24 06:58:00,Garbage overflowing,Waste,19.08524,72.894409,W007,In Progress,2026-04-24,6,Friday,4,Medium
+C0441,2026-02-10 02:19:00,Dustbin is full,Waste,19.067096,72.889034,W006,In Progress,2026-02-10,2,Tuesday,2,Medium
+C0442,2026-02-19 06:53:00,Garbage overflowing,Waste,19.055576,72.873331,W010,Open,2026-02-19,6,Thursday,2,Medium
+C0443,2026-04-05 14:32:00,Low water pressure,Water,19.063969,72.894231,W006,In Progress,2026-04-05,14,Sunday,4,High
+C0444,2026-05-06 19:28:00,Low water pressure,Water,19.072776,72.881405,W001,In Progress,2026-05-06,19,Wednesday,5,High
+C0445,2026-02-11 08:47:00,Large pothole on main road,Road,19.098309,72.877904,W009,Open,2026-02-11,8,Wednesday,2,High
+C0446,2026-05-27 06:54:00,Garbage overflowing,Waste,19.079214,72.889251,W007,Open,2026-05-27,6,Wednesday,5,Medium
+C0447,2026-01-06 21:00:00,Street light flickering,Electricity,19.089741,72.866323,W005,Open,2026-01-06,21,Tuesday,1,Medium
+C0448,2026-03-06 19:51:00,Garbage overflowing,Waste,19.06443,72.880127,W010,In Progress,2026-03-06,19,Friday,3,Medium
+C0449,2026-03-31 14:16:00,Electric pole damaged,Electricity,19.087182,72.868021,W005,In Progress,2026-03-31,14,Tuesday,3,Medium
+C0450,2026-01-27 00:32:00,Street light flickering,Electricity,19.064994,72.882665,W010,Resolved,2026-01-27,0,Tuesday,1,Medium
+C0451,2026-06-25 03:30:00,Large pothole on main road,Road,19.090638,72.886884,W009,In Progress,2026-06-25,3,Thursday,6,High
+C0452,2026-06-17 22:57:00,Large pothole on main road,Road,19.066515,72.886884,W006,In Progress,2026-06-17,22,Wednesday,6,High
+C0453,2026-04-14 21:20:00,Dustbin is full,Waste,19.071808,72.887213,W004,In Progress,2026-04-14,21,Tuesday,4,Medium
+C0454,2026-04-18 12:24:00,Large pothole on main road,Road,19.070367,72.87283,W008,In Progress,2026-04-18,12,Saturday,4,High
+C0455,2026-06-25 17:40:00,Road damaged,Road,19.072849,72.889065,W004,In Progress,2026-06-25,17,Thursday,6,High
+C0456,2026-06-18 17:11:00,Road damaged,Road,19.062938,72.889708,W006,In Progress,2026-06-18,17,Thursday,6,High
+C0457,2026-06-17 02:14:00,Low water pressure,Water,19.088553,72.872442,W005,Resolved,2026-06-17,2,Wednesday,6,High
+C0458,2026-03-08 18:18:00,Large pothole on main road,Road,19.081638,72.888178,W007,Open,2026-03-08,18,Sunday,3,High
+C0459,2026-02-19 16:07:00,Waste dumped on road,Waste,19.063675,72.876817,W010,Resolved,2026-02-19,16,Thursday,2,Medium
+C0460,2026-02-05 06:21:00,Garbage overflowing,Waste,19.081092,72.892694,W007,Resolved,2026-02-05,6,Thursday,2,Medium
+C0461,2026-01-21 15:21:00,Road damaged,Road,19.08631,72.871768,W003,In Progress,2026-01-21,15,Wednesday,1,High
+C0462,2026-03-12 06:48:00,Waste dumped on road,Waste,19.078735,72.878463,W001,Open,2026-03-12,6,Thursday,3,Medium
+C0463,2026-06-07 13:40:00,Garbage overflowing,Waste,19.067294,72.87129,W008,Resolved,2026-06-07,13,Sunday,6,Medium
+C0464,2026-05-17 06:46:00,Garbage not collected,Waste,19.080731,72.887141,W007,Resolved,2026-05-17,6,Sunday,5,Medium
+C0465,2026-06-23 00:40:00,Water leakage on road,Water,19.097336,72.879263,W009,Resolved,2026-06-23,0,Tuesday,6,High
+C0466,2026-04-09 16:37:00,Water leakage on road,Water,19.088061,72.865653,W005,Open,2026-04-09,16,Thursday,4,High
+C0467,2026-05-14 19:33:00,Broken footpath,Road,19.088378,72.87388,W005,Open,2026-05-14,19,Thursday,5,High
+C0468,2026-02-18 05:58:00,Power line issue,Electricity,19.069182,72.889034,W006,Open,2026-02-18,5,Wednesday,2,Medium
+C0469,2026-01-06 18:32:00,Water supply interruption,Water,19.06669,72.883666,W004,In Progress,2026-01-06,18,Tuesday,1,High
+C0470,2026-05-17 19:03:00,Power line issue,Electricity,19.076939,72.87318,W001,Open,2026-05-17,19,Sunday,5,Medium
+C0471,2026-04-17 14:24:00,Garbage not collected,Waste,19.072236,72.875227,W001,In Progress,2026-04-17,14,Friday,4,Medium
+C0472,2026-03-19 13:42:00,Water leakage on road,Water,19.08101,72.875203,W003,In Progress,2026-03-19,13,Thursday,3,High
+C0473,2026-01-27 16:46:00,Pipeline leakage,Water,19.061177,72.875827,W010,Open,2026-01-27,16,Tuesday,1,High
+C0474,2026-02-21 08:53:00,Dirty water supply,Water,19.068231,72.869017,W008,In Progress,2026-02-21,8,Saturday,2,High
+C0475,2026-01-11 17:31:00,Road damaged,Road,19.086104,72.893882,W007,Resolved,2026-01-11,17,Sunday,1,High
+C0476,2026-01-04 21:05:00,Water leakage on road,Water,19.069069,72.893352,W006,In Progress,2026-01-04,21,Sunday,1,High
+C0477,2026-05-11 02:46:00,Water leakage on road,Water,19.070236,72.876048,W008,In Progress,2026-05-11,2,Monday,5,High
+C0478,2026-03-09 14:03:00,Power line issue,Electricity,19.065998,72.881747,W004,Open,2026-03-09,14,Monday,3,Medium
+C0479,2026-04-20 23:07:00,Large pothole on main road,Road,19.08595,72.872582,W005,Open,2026-04-20,23,Monday,4,High
+C0480,2026-03-26 11:57:00,Water supply interruption,Water,19.075377,72.878918,W001,In Progress,2026-03-26,11,Thursday,3,High
+C0481,2026-02-16 03:25:00,Large pothole on main road,Road,19.079003,72.879565,W002,Resolved,2026-02-16,3,Monday,2,High
+C0482,2026-01-29 04:44:00,Street light damaged,Electricity,19.070264,72.876816,W008,Open,2026-01-29,4,Thursday,1,Medium
+C0483,2026-05-04 18:43:00,Street light flickering,Electricity,19.079382,72.881113,W002,Resolved,2026-05-04,18,Monday,5,Medium
+C0484,2026-05-04 15:07:00,Garbage overflowing,Waste,19.063876,72.877407,W010,Open,2026-05-04,15,Monday,5,Medium
+C0485,2026-06-30 21:33:00,Pothole near bus stop,Road,19.092675,72.870766,W005,In Progress,2026-06-30,21,Tuesday,6,High
+C0486,2026-05-14 22:44:00,Road surface damaged,Road,19.071182,72.884328,W004,In Progress,2026-05-14,22,Thursday,5,High
+C0487,2026-06-19 21:41:00,Power line issue,Electricity,19.068849,72.88839,W004,In Progress,2026-06-19,21,Friday,6,Medium
+C0488,2026-06-14 05:32:00,Garbage not collected,Waste,19.063488,72.881519,W010,Open,2026-06-14,5,Sunday,6,Medium
+C0489,2026-03-03 10:17:00,Power line issue,Electricity,19.075504,72.877227,W002,In Progress,2026-03-03,10,Tuesday,3,Medium
+C0490,2026-01-21 14:28:00,Street light damaged,Electricity,19.085013,72.891481,W007,Resolved,2026-01-21,14,Wednesday,1,Medium
+C0491,2026-05-08 23:41:00,Pothole near bus stop,Road,19.063178,72.871034,W008,Open,2026-05-08,23,Friday,5,High
+C0492,2026-06-04 19:40:00,Garbage not collected,Waste,19.093046,72.882083,W009,Open,2026-06-04,19,Thursday,6,Medium
+C0493,2026-01-14 07:54:00,Large pothole on main road,Road,19.067545,72.872602,W008,In Progress,2026-01-14,7,Wednesday,1,High
+C0494,2026-04-26 03:06:00,Power line issue,Electricity,19.062593,72.875217,W010,Resolved,2026-04-26,3,Sunday,4,Medium
+C0495,2026-05-14 11:44:00,Road surface damaged,Road,19.061063,72.893969,W006,Resolved,2026-05-14,11,Thursday,5,High
+C0496,2026-03-07 19:12:00,Street light not working,Electricity,19.081875,72.879302,W003,Resolved,2026-03-07,19,Saturday,3,Medium
+C0497,2026-03-28 03:48:00,Street light damaged,Electricity,19.069145,72.889266,W004,In Progress,2026-03-28,3,Saturday,3,Medium
+C0498,2026-04-28 21:37:00,Waste dumped on road,Waste,19.064562,72.874346,W010,Resolved,2026-04-28,21,Tuesday,4,Medium
+C0499,2026-04-21 18:30:00,Dustbin is full,Waste,19.080244,72.880511,W001,Open,2026-04-21,18,Tuesday,4,Medium
+C0500,2026-01-27 12:42:00,Water supply interruption,Water,19.061005,72.881827,W010,In Progress,2026-01-27,12,Tuesday,1,High

@@ -1,0 +1,11 @@
+ward_id,ward_name,zone,latitude,longitude
+W001,Ward A,South,19.076,72.8777
+W002,Ward B,South,19.08,72.88
+W003,Ward C,West,19.085,72.875
+W004,Ward D,Central,19.07,72.885
+W005,Ward E,West,19.09,72.87
+W006,Ward F,Central,19.065,72.89
+W007,Ward G,East,19.082,72.892
+W008,Ward H,West,19.068,72.872
+W009,Ward I,North,19.095,72.882
+W010,Ward J,South,19.06,72.878
