@@ -1,0 +1,418 @@
+openaq_location_id,station_name,urban_ward_code,provider,parameter,parameter_display,unit,value,datetime_from,datetime_to,source
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,,,,19.12,,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,,,,5.0,,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,,,,143.05,,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,,,,26.81,,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,,,,152.38,,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,,,,4230.0,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,0.57,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,11.64,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,18.0,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,52.51,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,18.11,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,0.0,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,0.0,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,0.026260000000000002,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,0.0,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,0.0,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,2.5,,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,,,,14.72,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,29.04,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,31.72,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,1.48,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,0.5,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,59.17,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,31.23,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,9.33,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,91.73,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,2.37,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,0.0103,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,1.71,,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,,,,57.83,,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,,,,104.3,,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,,,,250.0,,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,,,,38.0,,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,,,,0.0,,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,,,,722.78,,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,,,,24.06,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,1.83,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,0.0,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,31.0,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,43.06,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,0.0,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,22.11,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,4.63,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,0.41,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,0.00425,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,0.0,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,0.0,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,8.0,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,1.44,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,370.0,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,0.0,,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,,,,36.65,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,0.15,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,7.6,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,301.19,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,10.7,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,11.0,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,78.54,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,31.2,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,4.26,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,14.83,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,5.49,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,41.07,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,0.0182,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,57.0,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,9.58,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,16.72,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,11.5,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,1070.0,,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,,,,55.0,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,9.06,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,3.69,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,0.82,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,9.01,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,31.17,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,66.68,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,0.93,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,23.47,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,7.22,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,0.006730000000000001,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,1.56,,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,,,,268.26,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,57.14,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,3.14,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,2.37,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,0.32,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,23.515,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,2.24,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,51.01,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,7.36,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,11.0,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,0.34,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,0.009710000000000002,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,303.62,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,116.44,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,0.0,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,11.0,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,1000.0,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,32.74,,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,,,,41.66,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,6.86,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,13.31,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,5.65,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,28.29,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,88.45,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,0.31,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,46.2,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,1.28,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,6.15,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,288.04,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,0.00848,,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,,,,0.64,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,29.9,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,59.21,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,0.31,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,19.71,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,6.73,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,30.71,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,6.18,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,15.8,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,10.62,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,0.71,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,165.77,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,0.03034,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,184.0,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,6.54,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,29.5,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,15.97,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,830.0,,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,,,,44.0,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,6.03,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,1340.0,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,58.79,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,72.16,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,2.49,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,157.8,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,87.75,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,738.75,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,11.16,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,16.76,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,138.0,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,27.3,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,1.12,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,38.39,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,21.9,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,4.08,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,0.04919,,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,,,,232.85,,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,,,,4.43,,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,,,,4.53,,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,,,,0.0,,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,,,,2340.0,,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,,,,75.1,,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,,,,156.78,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,44.61,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,15.0,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,12.55,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,0.85,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,10.34,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,0.0,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,1.67,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,7.8,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,0.0,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,0.04133,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,0.0,,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,,,,0.0,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,0.4,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,45.86,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,98.08,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,28.13,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,21.34,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,3.0,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,30.04,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,6.97,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,1.49,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,0.02141,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,1.8,,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,,,,226.54,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,37.84,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,985.0,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,14.3,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,2186.85,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,26.6,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,0.96,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,50.39,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,43.33,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,28.85,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,113.6,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,0.07219,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,1.6,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,47.5,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,13.64,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,8.57,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,270.0,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,145.42,,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,,,,14.72,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,34.74,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,1.13,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,0.34,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,19.3,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,3.48,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,60.01,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,27.06,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,30.77,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,0.14,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,231.94,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,1.65,,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,,,,0.00209,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,31.19,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,51.48,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,3.86,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,3.55,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,2.88,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,0.36,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,31.23,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,20.13,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,85.93,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,0.99,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,0.0077599999999999995,,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,,,,290.61,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,0.65,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,27.0,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,13.1,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,29.0,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,14.81,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,2.21,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,40.43,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,43.92,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,8.97,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,0.0,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,0.00877,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,0.0,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,5.21,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,460.0,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,1.34,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,22.0,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,0.62,,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,,,,11.81,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,23.41,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,10.08,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,25.2,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,39.22,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,88.18,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,0.5,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,49.14,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,7.08,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,28.01,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,27.59,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,0.01716,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,109.3,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,640.0,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,12.58,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,37.15,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,72.0,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,38.05,,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,,,,67.0,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,25.77,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,0.45,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,0.0,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,8.66,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,2.62,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,3.48,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,11.09,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,5.06,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,0.0,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,0.01,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,0.0044800000000000005,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,0.0,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,3340.0,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,3.99,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,2.0,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,101.09,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,1.96,,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,,,,18.84,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,18.37,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,3.16,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,55.92,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,0.31,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,14.1,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,0.1,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,23.23,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,1.84,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,22.37,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,265.66,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,2.53,,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,,,,0.01001,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,29.4,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,61.62,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,0.19,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,45.59,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,18.43,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,10.23,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,19.32,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,80.09,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,11.45,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,0.13,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,0.040799999999999996,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,98.71,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,9.79,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,13.63,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,86.0,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,18.98,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,640.0,,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,,,,47.69,,,OpenAQ
+8039,Mumbai,L,AirNow,,,,23.0,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,28.71,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,0.58,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,26.0,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,8.75,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,12.5,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,68.9,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,5.55,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,4.88,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,6.96,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,0.01877,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,226.2,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,1.48,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,7.75,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,47.0,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,1320.0,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,20.45,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,28.0,,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,,,,21.29,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,41.49,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,2.96,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,16.31,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,20.52,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,15.85,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,53.99,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,0.51,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,23.52,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,1.22,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,0.84,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,109.3,,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,,,,0.011689999999999999,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,57.95,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,11.53,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,0.01,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,6.49,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,6.35,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,29.64,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,14.53,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,0.31,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,75.96,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,0.00839,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,1.22,,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,,,,264.18,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,2.93,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,0.0,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,0.03,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,32.2,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,7.01,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,15.82,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,0.0,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,28.0,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,0.0,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,0.0,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,0.00841,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,1400.0,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,121.0,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,0.08,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,3.99,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,12.56,,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,,,,66.0,,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,,,,62.24,,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,,,,45.37,,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,,,,19.0,,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,,,,102.6,,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,,,,1740.0,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,0.33,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,0.17771,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,4.3,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,150.24,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,10.2,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,1.36,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,90.64,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,87.07,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,34.03,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,83.49,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,4.13,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,125.37,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,56.7,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,84.9,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,1960.0,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,7.38,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,130.97,,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,,,,9.56,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,1253.51,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,42.85,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,8.7,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,31.0,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,27.93,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,79.1,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,0.76,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,987.0,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,26.82,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,1.49,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,19.43,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,0.05633,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,113.13,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,5.36,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,0.0,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,1080.0,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,56.6,,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,,,,35.09,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,2.0,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,6.0,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,0.82,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,72.0,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,3.9,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,4.8,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,2.9,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,33.5,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,42.0,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,0.0063,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,0.7,,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,,,,136.0,,,OpenAQ

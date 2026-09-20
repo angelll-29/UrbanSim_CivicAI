@@ -1,0 +1,2 @@
+transport_id,object_id,transport_name,transport_type,ward_code_source,gis_ward,latitude,longitude,validation_status
+DEPOT_6262,19,Wadala Depot,BUS_DEPOT,FS,FN,19.014319,72.852157,WARD_MISMATCH

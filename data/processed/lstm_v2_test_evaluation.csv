@@ -1,0 +1,2 @@
+model,test_samples,overall_mae,overall_rmse,overall_r2,persistence_mae,persistence_rmse,persistence_r2,mae_improvement_pct,rmse_improvement_pct
+LSTM-V2,312,8.515056610107422,11.085290912807928,-1.399728536605835,6.025416374206543,8.765149761515595,-0.5003294944763184,-41.31897418008273,-26.470068560370542

@@ -1,0 +1,54 @@
+station_id,station_name,station_type,region,label,fid,object_id,latitude,longitude,source,source_file,coordinate_valid,gis_ward,ward_match_status
+SUBURBAN_053,Mira Road,Suburban Station,WESTERN,,53,53,19.2797406943242,72.8560972045312,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_054,Bhayandar,Suburban Station,WESTERN,,54,54,19.3114392227109,72.8525704477226,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_055,Naigaon,Suburban Station,WESTERN,,55,55,19.3513074099099,72.8462832948645,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_056,Vasai Road,Suburban Station,WESTERN,Vasai Road,56,56,19.3823802721053,72.8321461041926,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_057,Nallasopara,Suburban Station,WESTERN,,57,57,19.4176755166077,72.8189145644195,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_058,Virar,Suburban Station,WESTERN,Virar,58,58,19.4549995182516,72.8119284863236,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_059,Vashi,Suburban Station,HARBOUR,Vashi,59,59,19.0631172207064,72.9988965632495,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_060,Sanpada,Suburban Station,HARBOUR,,60,60,19.0661147788721,73.0093493142319,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_061,Juinagar,Suburban Station,HARBOUR,Juinagar,61,61,19.0556163409323,73.0183903439259,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_062,Nerul,Suburban Station,HARBOUR,,62,62,19.0334707818177,73.0182107815982,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_063,Seawoods,Suburban Station,HARBOUR,Seawoods,63,63,19.0219438755159,73.0191424206458,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_064,CBD Belapur,Suburban Station,HARBOUR,CBD Belapur,64,64,19.0190456436135,73.0390873339028,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_065,Kharghar,Suburban Station,HARBOUR,,65,65,19.0261194215454,73.0593969394587,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_066,Mansarovar,Suburban Station,HARBOUR,,66,66,19.0166539817185,73.0804701854415,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_067,Khandeshwar,Suburban Station,HARBOUR,,67,67,19.0074679867507,73.0947598188553,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_068,Panvel,Suburban Station,HARBOUR,Panvel,68,68,18.9905700254378,73.1213414488358,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_069,Turbhe,Suburban Station,HARBOUR,Turbhe,69,69,19.0760002886039,73.0177166307423,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_070,Kopar Kharine,Suburban Station,HARBOUR,,70,70,19.1032160096145,73.011342315056,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_071,Ghansoli,Suburban Station,HARBOUR,,71,71,19.1164805906164,73.0068894698697,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_072,Rabale,Suburban Station,HARBOUR,,72,72,19.1370192081831,73.0027166938337,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_073,Airoli,Suburban Station,HARBOUR,Airoli,73,73,19.1585309448508,72.9993795687864,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_074,Thane,Suburban Station,CENTRAL,Thane,74,74,19.1861152574207,72.9759337290526,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_075,Kalwa,Suburban Station,CENTRAL,,75,75,19.1969032812792,72.9986747366214,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_076,Mumbra,Suburban Station,CENTRAL,,76,76,19.1902742542868,73.0231397296511,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_077,Diva,Suburban Station,CENTRAL,Diva,77,77,19.1889502669907,73.0429514521207,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_078,Lower Kopar,Suburban Station,CENTRAL,,78,78,19.2106220863616,73.0769788440469,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_079,Dombivili,Suburban Station,CENTRAL,Dombivili,79,79,19.218286062568,73.0868430181902,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_080,Thakurli,Suburban Station,CENTRAL,,80,80,19.2260018478666,73.0979322946715,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_081,Kalyan,Suburban Station,CENTRAL,Kalyan,81,81,19.2351909402425,73.1299711282289,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_082,Vithalwadi,Suburban Station,CENTRAL,,82,82,19.2282722390585,73.1492569841108,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_083,Ulhas Nagar,Suburban Station,CENTRAL,Ulhas Nagar,83,83,19.21808971954,73.1631032188065,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_084,Ambernath,Suburban Station,CENTRAL,Ambernath,84,84,19.2101305480555,73.1844317400222,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_085,Badlapur,Suburban Station,CENTRAL,Badlapur,85,85,19.1668331363957,73.2388025511903,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_086,Vangani,Suburban Station,CENTRAL,,86,86,19.094393395304,73.3007405284918,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_087,Shelu,Suburban Station,CENTRAL,,87,87,19.0634147978046,73.3178011533358,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_088,Neral,Suburban Station,CENTRAL,Neral,88,88,19.0268065536976,73.3185595294996,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_089,Bhivpuri Road,Suburban Station,CENTRAL,,89,89,18.9700072031662,73.3314774682455,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_090,Karjat,Suburban Station,CENTRAL,Karjat,90,90,18.9088351428397,73.3206443228044,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_091,Palasdhari,Suburban Station,CENTRAL,,91,91,18.8842927108596,73.3208308318587,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_092,Kelavali,Suburban Station,CENTRAL,,92,92,18.8456945832501,73.3187810452539,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_093,Dolavali,Suburban Station,CENTRAL,,93,93,18.8342636565215,73.3200621813635,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_094,Lowjee,Suburban Station,CENTRAL,,94,94,18.8086214214537,73.3354354701634,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_095,Khopoli,Suburban Station,CENTRAL,Khopoli,95,95,18.7896170591886,73.3448726092399,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_096,Shahad,Suburban Station,CENTRAL,,96,96,19.2443452121886,73.1583231567416,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_097,Ambivili,Suburban Station,CENTRAL,,97,97,19.267809303216,73.1717128739798,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_098,Titwala,Suburban Station,CENTRAL,,98,98,19.296877134864,73.203247161913,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_099,Khadawali,Suburban Station,CENTRAL,,99,99,19.3568495922065,73.2189216499799,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_100,Vasind,Suburban Station,CENTRAL,,100,100,19.4068464515156,73.2676652674631,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_102,Vaitarna,Suburban Station,WESTERN,,102,121,19.5194475908323,72.8502717197307,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_103,Sagar Sangam,Proposed Suburban Station,HARBOUR,Sagar Sangam,103,30,19.0102840709078,73.0247906779553,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_104,Targhar,Proposed Suburban Station,HARBOUR,Targhar,104,31,18.9904507628536,73.0347210107422,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_105,Bamandongri,Proposed Suburban Station,HARBOUR,,105,32,18.974619535869,73.0240407796519,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED
+SUBURBAN_106,Kharkopar,Proposed Suburban Station,HARBOUR,Kharkopar,106,33,18.9596615707448,73.0140802808399,BMC / OpenCity Mumbai Suburban Network 2025,mumbai_suburban_railway_stations.kml,True,,UNMATCHED

@@ -1,0 +1,43 @@
+ward_code,priority_domain,indicator_rank_within_domain,evidence_level,indicator_name,indicator,normalized_stress
+GS,Sanitation,3,Supporting,Population per public toilet,population_per_public_toilet_stress,83.33333333333334
+FN,Sanitation,4,Supporting,Population per public toilet,population_per_public_toilet_stress,70.83333333333334
+MW,Education,2,Supporting,Students per school,students_per_school_stress,75.0
+MW,Education,3,Supporting,Classrooms per 100 students,classrooms_per_100_students_stress,50.0
+MW,Education,1,Primary,Classrooms requiring repair,classrooms_repair_pct_stress,79.16666666666666
+HW,Civic,6,Supporting,"Civic complaints per 1,000 population",complaints_per_1000_population_stress,87.5
+HW,Civic,9,Supporting,"Unresolved complaints per 1,000 population",unresolved_per_1000_population_stress,70.83333333333334
+HW,Civic,10,Supporting,Average complaint resolution days,avg_resolution_days_2024_stress,66.66666666666666
+GN,Green Space,5,Supporting,Green spaces per km²,green_spaces_per_km2_stress,79.16666666666666
+GN,Green Space,3,Supporting,"Green spaces per 100,000 population",green_spaces_per_100k_population_stress,87.5
+ME,Transport,1,Primary,Transport nodes per km²,transport_nodes_per_km2_stress,91.66666666666666
+E,Sanitation,1,Primary,Population per public toilet,population_per_public_toilet_stress,100.0
+HE,Healthcare,6,Supporting,Population per healthcare facility,population_per_healthcare_facility_stress,79.16666666666666
+RS,Healthcare,3,Supporting,Population per healthcare facility,population_per_healthcare_facility_stress,91.66666666666666
+T,Civic,12,Supporting,"Civic complaints per 1,000 population",complaints_per_1000_population_stress,54.16666666666666
+T,Civic,15,Supporting,"Unresolved complaints per 1,000 population",unresolved_per_1000_population_stress,50.0
+T,Civic,12,Supporting,Average complaint resolution days,avg_resolution_days_2024_stress,54.16666666666666
+N,Healthcare,4,Supporting,Population per healthcare facility,population_per_healthcare_facility_stress,87.5
+PS,Healthcare,5,Supporting,Population per healthcare facility,population_per_healthcare_facility_stress,83.33333333333334
+PN,Green Space,3,Supporting,Green spaces per km²,green_spaces_per_km2_stress,87.5
+PN,Green Space,6,Supporting,"Green spaces per 100,000 population",green_spaces_per_100k_population_stress,70.83333333333333
+B,Civic,1,Primary,"Civic complaints per 1,000 population",complaints_per_1000_population_stress,100.0
+B,Civic,1,Primary,"Unresolved complaints per 1,000 population",unresolved_per_1000_population_stress,100.0
+B,Civic,3,Supporting,Average complaint resolution days,avg_resolution_days_2024_stress,95.83333333333334
+RC,Safety,6,Supporting,Population per police station,population_per_police_station_stress,52.17391304347826
+RC,Safety,2,Supporting,Population per fire station,population_per_fire_station_stress,86.36363636363636
+KE,Civic,10,Supporting,"Civic complaints per 1,000 population",complaints_per_1000_population_stress,66.66666666666666
+KE,Civic,12,Supporting,"Unresolved complaints per 1,000 population",unresolved_per_1000_population_stress,54.16666666666666
+KE,Civic,8,Supporting,Average complaint resolution days,avg_resolution_days_2024_stress,79.16666666666666
+L,Safety,3,Supporting,Population per police station,population_per_police_station_stress,82.6086956521739
+L,Safety,1,Primary,Population per fire station,population_per_fire_station_stress,100.0
+S,Transport,2,Supporting,Transport nodes per km²,transport_nodes_per_km2_stress,75.0
+RN,Safety,4,Supporting,Population per police station,population_per_police_station_stress,78.26086956521739
+RN,Safety,5,Supporting,Population per fire station,population_per_fire_station_stress,72.72727272727273
+KW,Healthcare,2,Supporting,Population per healthcare facility,population_per_healthcare_facility_stress,95.83333333333334
+A,Civic,5,Supporting,"Civic complaints per 1,000 population",complaints_per_1000_population_stress,91.66666666666666
+A,Civic,3,Supporting,"Unresolved complaints per 1,000 population",unresolved_per_1000_population_stress,95.83333333333334
+A,Civic,7,Supporting,Average complaint resolution days,avg_resolution_days_2024_stress,85.41666666666666
+C,Sanitation,2,Supporting,Population per public toilet,population_per_public_toilet_stress,95.83333333333334
+D,Healthcare,1,Primary,Population per healthcare facility,population_per_healthcare_facility_stress,100.0
+FS,Green Space,1,Primary,Green spaces per km²,green_spaces_per_km2_stress,95.83333333333334
+FS,Green Space,2,Supporting,"Green spaces per 100,000 population",green_spaces_per_100k_population_stress,91.66666666666666

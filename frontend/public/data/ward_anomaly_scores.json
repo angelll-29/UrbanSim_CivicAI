@@ -1,0 +1,194 @@
+[
+  {
+    "ward_code": "ME",
+    "reconstruction_mse": 0.493200453934983,
+    "reconstruction_mae": 0.6341633689903549,
+    "anomaly_percentile": 100.0,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": true
+  },
+  {
+    "ward_code": "D",
+    "reconstruction_mse": 0.4760572422699844,
+    "reconstruction_mae": 0.5379420735660891,
+    "anomaly_percentile": 95.83333333333334,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": true
+  },
+  {
+    "ward_code": "C",
+    "reconstruction_mse": 0.3969683676763528,
+    "reconstruction_mae": 0.4264508225625656,
+    "anomaly_percentile": 91.66666666666666,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": true
+  },
+  {
+    "ward_code": "B",
+    "reconstruction_mse": 0.3943750740439243,
+    "reconstruction_mae": 0.4104232418935515,
+    "anomaly_percentile": 87.5,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "RC",
+    "reconstruction_mse": 0.3706530804317855,
+    "reconstruction_mae": 0.4571385593986697,
+    "anomaly_percentile": 83.33333333333334,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "L",
+    "reconstruction_mse": 0.35324486180121,
+    "reconstruction_mae": 0.4499399236037652,
+    "anomaly_percentile": 79.16666666666666,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "RS",
+    "reconstruction_mse": 0.3413703713749195,
+    "reconstruction_mae": 0.4599122774941776,
+    "anomaly_percentile": 75.0,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "S",
+    "reconstruction_mse": 0.3132642811750127,
+    "reconstruction_mae": 0.4368422348320753,
+    "anomaly_percentile": 70.83333333333334,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "GN",
+    "reconstruction_mse": 0.2768619981415119,
+    "reconstruction_mae": 0.4265810549061943,
+    "anomaly_percentile": 66.66666666666666,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "KW",
+    "reconstruction_mse": 0.2649694662072487,
+    "reconstruction_mae": 0.4493057069821496,
+    "anomaly_percentile": 62.5,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "MW",
+    "reconstruction_mse": 0.2352379424562949,
+    "reconstruction_mae": 0.363075646195358,
+    "anomaly_percentile": 58.333333333333336,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "PN",
+    "reconstruction_mse": 0.230183016911551,
+    "reconstruction_mae": 0.3945485525195725,
+    "anomaly_percentile": 54.16666666666666,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "GS",
+    "reconstruction_mse": 0.2287012049428633,
+    "reconstruction_mae": 0.3594601038196152,
+    "anomaly_percentile": 50.0,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "KE",
+    "reconstruction_mse": 0.2174763847306313,
+    "reconstruction_mae": 0.3475288008184666,
+    "anomaly_percentile": 45.83333333333333,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "RN",
+    "reconstruction_mse": 0.2126901201699557,
+    "reconstruction_mae": 0.3595731613930744,
+    "anomaly_percentile": 41.66666666666667,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "HW",
+    "reconstruction_mse": 0.205628987168273,
+    "reconstruction_mae": 0.3332482342672146,
+    "anomaly_percentile": 37.5,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "PS",
+    "reconstruction_mse": 0.2034020484491536,
+    "reconstruction_mae": 0.3574195751028317,
+    "anomaly_percentile": 33.33333333333333,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "HE",
+    "reconstruction_mse": 0.2011399397290732,
+    "reconstruction_mae": 0.3402100338100523,
+    "anomaly_percentile": 29.166666666666668,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "N",
+    "reconstruction_mse": 0.1929238568174379,
+    "reconstruction_mae": 0.3669434897131887,
+    "anomaly_percentile": 25.0,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "FS",
+    "reconstruction_mse": 0.17502061687035,
+    "reconstruction_mae": 0.2866502137839052,
+    "anomaly_percentile": 20.833333333333336,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "A",
+    "reconstruction_mse": 0.1317576211501841,
+    "reconstruction_mae": 0.2691033386922025,
+    "anomaly_percentile": 16.666666666666664,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "T",
+    "reconstruction_mse": 0.1060101890880212,
+    "reconstruction_mae": 0.2256918041910404,
+    "anomaly_percentile": 12.5,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "FN",
+    "reconstruction_mse": 0.0545987737261458,
+    "reconstruction_mae": 0.1954629448495637,
+    "anomaly_percentile": 8.333333333333332,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  },
+  {
+    "ward_code": "E",
+    "reconstruction_mse": 0.0541940955524219,
+    "reconstruction_mae": 0.2000798390263766,
+    "anomaly_percentile": 4.166666666666666,
+    "anomaly_threshold_mse": 0.3961903795866242,
+    "anomaly_candidate": false
+  }
+]

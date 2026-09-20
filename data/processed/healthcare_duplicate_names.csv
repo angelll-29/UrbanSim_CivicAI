@@ -1,0 +1,9 @@
+facility_id,name,service_type,source_ward,gis_ward,latitude,longitude
+HC_00083,Shastri Nagar Dispensary,dispensary,HW,HW,19.09,72.84
+HC_00127,Kajupada Dispensary,dispensary,RC,RC,19.23,72.87
+HC_00132,Shastri Nagar Dispensary,dispensary,RN,RN,19.25,72.85
+HC_00140,Kajupada Dispensary,dispensary,L,L,19.09,72.89
+HC_00291,Shastri Nagar UPHC,uphc,HW,HW,19.09,72.84
+HC_00322,Kajupada UPHC,uphc,RC,RC,19.23,72.87
+HC_00329,Shastri Nagar UPHC,uphc,RN,RN,19.2565,72.8733
+HC_00340,Kajupada UPHC,uphc,L,L,19.09,72.89

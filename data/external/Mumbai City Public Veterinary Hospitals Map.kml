@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+ <Document>
+  <name>
+   mumbai-veterinary-hospitals
+  </name>
+  <Schema id="J_mumbai_veterinary_hospitals_SSSSIS" name="mumbai_veterinary_hospitals">
+   <SimpleField name="BMC_Dept" type="string">
+    <displayName>
+     BMC_Dept
+    </displayName>
+   </SimpleField>
+   <SimpleField name="BRD_LINE_N" type="string">
+    <displayName>
+     BRD_LINE_N
+    </displayName>
+   </SimpleField>
+   <SimpleField name="LOCATION" type="string">
+    <displayName>
+     LOCATION
+    </displayName>
+   </SimpleField>
+   <SimpleField name="NAME" type="string">
+    <displayName>
+     NAME
+    </displayName>
+   </SimpleField>
+   <SimpleField name="OBJECTID" type="int">
+    <displayName>
+     OBJECTID
+    </displayName>
+   </SimpleField>
+   <SimpleField name="Twitter_Handle" type="string">
+    <displayName>
+     Twitter_Handle
+    </displayName>
+   </SimpleField>
+  </Schema>
+  <Style id="mumbai_veterinary_hospitals_style">
+   <BalloonStyle>
+    <text>
+     &lt;table border="0"&gt;
+  &lt;tr&gt;&lt;td&gt;&lt;b&gt;$[mumbai_veterinary_hospitals/BMC_Dept/displayName]&lt;/b&gt;&lt;/td&gt;&lt;td&gt;$[mumbai_veterinary_hospitals/BMC_Dept]&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;&lt;b&gt;$[mumbai_veterinary_hospitals/BRD_LINE_N/displayName]&lt;/b&gt;&lt;/td&gt;&lt;td&gt;$[mumbai_veterinary_hospitals/BRD_LINE_N]&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;&lt;b&gt;$[mumbai_veterinary_hospitals/LOCATION/displayName]&lt;/b&gt;&lt;/td&gt;&lt;td&gt;$[mumbai_veterinary_hospitals/LOCATION]&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;&lt;b&gt;$[mumbai_veterinary_hospitals/NAME/displayName]&lt;/b&gt;&lt;/td&gt;&lt;td&gt;$[mumbai_veterinary_hospitals/NAME]&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;&lt;b&gt;$[mumbai_veterinary_hospitals/OBJECTID/displayName]&lt;/b&gt;&lt;/td&gt;&lt;td&gt;$[mumbai_veterinary_hospitals/OBJECTID]&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;&lt;b&gt;$[mumbai_veterinary_hospitals/Twitter_Handle/displayName]&lt;/b&gt;&lt;/td&gt;&lt;td&gt;$[mumbai_veterinary_hospitals/Twitter_Handle]&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+$[description]
+    </text>
+   </BalloonStyle>
+  </Style>
+  <Placemark>
+   <name>
+    The Bai Sakarbai Dinshaw Petit Veterinary Hospital
+   </name>
+   <name>
+    The Bai Sakarbai Dinshaw Petit Veterinary Hospital
+   </name>
+   <styleUrl>
+    #mumbai_veterinary_hospitals_style
+   </styleUrl>
+   <ExtendedData>
+    <SchemaData schemaUrl="#J_mumbai_veterinary_hospitals_SSSSIS">
+     <SimpleData name="BMC_Dept">
+      Public Health Dept
+     </SimpleData>
+     <SimpleData name="BRD_LINE_N">
+      022-24137518
+     </SimpleData>
+     <SimpleData name="LOCATION">
+      General Nagesh Road, St Xavier Street, Near Maharishi Dayanand College, Parel Mumbai - 400012.
+     </SimpleData>
+     <SimpleData name="NAME">
+      The Bai Sakarbai Dinshaw Petit Veterinary Hospital
+     </SimpleData>
+     <SimpleData name="OBJECTID">
+      1
+     </SimpleData>
+     <SimpleData name="Twitter_Handle">
+      @mybmcHealthDept
+     </SimpleData>
+    </SchemaData>
+   </ExtendedData>
+   <Point>
+    <coordinates>
+     72.843391,18.997713,0
+    </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>
+    The Pet Vet
+   </name>
+   <name>
+    The Pet Vet
+   </name>
+   <styleUrl>
+    #mumbai_veterinary_hospitals_style
+   </styleUrl>
+   <ExtendedData>
+    <SchemaData schemaUrl="#J_mumbai_veterinary_hospitals_SSSSIS">
+     <SimpleData name="BMC_Dept">
+      Public Health Dept
+     </SimpleData>
+     <SimpleData name="BRD_LINE_N">
+      022-2040092/9999112588
+     </SimpleData>
+     <SimpleData name="LOCATION">
+      Shop No.5, Gr. Floor, Vaswani Mansion, Dinshaw Vaccha Road,, Opp K C College, Churchgate, Mumbai, 400020
+     </SimpleData>
+     <SimpleData name="NAME">
+      The Pet Vet
+     </SimpleData>
+     <SimpleData name="OBJECTID">
+      2
+     </SimpleData>
+     <SimpleData name="Twitter_Handle">
+      @mybmcHealthDept
+     </SimpleData>
+    </SchemaData>
+   </ExtendedData>
+   <Point>
+    <coordinates>
+     72.8274614,18.9304004,0
+    </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>
+    Bellevue Multispecialify Hospital
+   </name>
+   <name>
+    Bellevue Multispecialify Hospital
+   </name>
+   <styleUrl>
+    #mumbai_veterinary_hospitals_style
+   </styleUrl>
+   <ExtendedData>
+    <SchemaData schemaUrl="#J_mumbai_veterinary_hospitals_SSSSIS">
+     <SimpleData name="BMC_Dept">
+      Public Health Dept
+     </SimpleData>
+     <SimpleData name="BRD_LINE_N">
+      022-66868600
+     </SimpleData>
+     <SimpleData name="LOCATION">
+      The Link, 1St Floor, Opp. D.N. Nagar Metro Station Gate No 3, Next To Audi Showroom, Opp. Star Bazaar, New Link Road Extension, Andheri, West, Sahakar Nagar, Azad Nagar, Andheri West, Mumbai, Maharashtra 400053
+     </SimpleData>
+     <SimpleData name="NAME">
+      Bellevue Multispecialify Hospital
+     </SimpleData>
+     <SimpleData name="OBJECTID">
+      3
+     </SimpleData>
+     <SimpleData name="Twitter_Handle">
+      @mybmcHealthDept
+     </SimpleData>
+    </SchemaData>
+   </ExtendedData>
+   <Point>
+    <coordinates>
+     72.831908,19.1290806,0
+    </coordinates>
+   </Point>
+  </Placemark>
+ </Document>
+</kml>

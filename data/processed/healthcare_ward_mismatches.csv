@@ -1,0 +1,72 @@
+facility_id,name,service_type,source_ward,gis_ward,validation_status,latitude,longitude
+HC_00002,Saboo Sidique Rd. Dispensary (Paltan Road),dispensary,A,B,mismatch,18.95,72.84
+HC_00006,S B S Road. Dispensary,dispensary,A,,outside_or_unmatched,18.93,72.84
+HC_00007,SVP Road Dispensary,dispensary,B,C,mismatch,18.96,72.83
+HC_00009,Jail Road Dispensary,dispensary,B,C,mismatch,18.95,72.83
+HC_00010,Jail Road Unanai Dispensary,dispensary,B,C,mismatch,18.96,72.83
+HC_00011,Kolsa Mohalla Unani Dispensary,dispensary,B,C,mismatch,18.95,72.83
+HC_00019,R. S. Nimkar Disp,dispensary,D,E,mismatch,18.97,72.82
+HC_00020,R. R.R. Marg Dispensary,dispensary,D,C,mismatch,18.95,72.82
+HC_00021,Tardeo Flat Dispensary,dispensary,D,GS,mismatch,18.98,72.82
+HC_00022,Banganga Dispensary,dispensary,D,,outside_or_unmatched,18.9615,72.8517
+HC_00026,Huzaria Street Dispensary,dispensary,E,C,mismatch,18.96,72.83
+HC_00033,Siddharth Nagar Dispensary,dispensary,E,C,mismatch,18.96,72.83
+HC_00044,Triveni Sadan Dispensary,dispensary,FS,GS,mismatch,18.99,72.83
+HC_00045,L.B.S. Market Dispensary,dispensary,FN,GN,mismatch,19.03,72.85
+HC_00052,Worli Koliwada Dispensary,dispensary,GS,,outside_or_unmatched,18.9615,72.8517
+HC_00072,Transit Camp Dispensary,dispensary,GN,FN,mismatch,19.04,72.86
+HC_00074,Prabhat Colony Dispensary,dispensary,HE,HW,mismatch,19.09,72.84
+HC_00096,Mangala Municipal Nursing Home Dispensary,dispensary,KE,L,mismatch,19.123,72.8886
+HC_00097,N.J.Wadia Dispensary,dispensary,KW,KE,mismatch,19.12,72.85
+HC_00098,Oshiwara Dispensary,dispensary,KW,PS,mismatch,19.15,72.85
+HC_00105,Chincholi Squatter's Dispensary,dispensary,PS,PN,mismatch,19.18,72.85
+HC_00106,Sunder Nagar Dispensary,dispensary,PS,S,mismatch,19.1246,72.8962
+HC_00123,New Centenary Dispensary,dispensary,RS,MW,mismatch,19.05,72.91
+HC_00137,Bibi Fatima Dispensary,dispensary,L,S,mismatch,19.1192,72.92
+HC_00141,Nehru Nagar Dispensary,dispensary,L,MW,mismatch,19.06,72.89
+HC_00142,Chunabhatti Dispensary,dispensary,L,KE,mismatch,19.1315,72.8846
+HC_00158,L. U. Gadkari Dispensary (Vashi Naka),dispensary,ME,L,mismatch,19.09,72.89
+HC_00179,Nahur Dispensary,dispensary,S,KE,mismatch,19.1315,72.8846
+HC_00187,Grant Med.College & J.J. Hospital,hospital,E,C,mismatch,18.96,72.83
+HC_00204,Kasturba Cross Road Hospital,hospital,RC,RN,mismatch,19.24,72.85
+HC_00207,Pt. MMM Centenery Hospital,hospital,ME,MW,mismatch,19.05,72.91
+HC_00210,Sant Muktabai Hospital,hospital,N,L,mismatch,19.1,72.9
+HC_00214,Municipal Eye Hospital,hospital,E,C,mismatch,18.96,72.83
+HC_00226,"Mata Ramabai Ambedkar Maternity Home, Marol (Marol Maternity Home)",maternity_hospital,KE,MW,mismatch,19.05,72.89
+HC_00227,Oshiwara Maternity Home,maternity_hospital,KW,PS,mismatch,19.15,72.85
+HC_00236,"Maasaheb Meenatai Thackeray Maternity Home, Chunabhatti",maternity_hospital,L,KE,mismatch,19.1315,72.8846
+HC_00240,Matoshri Ramabai Thackeray Maternity Home Ghatkopar,maternity_hospital,N,MW,mismatch,19.05,72.89
+HC_00245,The Bai Sakarbai Dinshaw Petit Veterinary Hospital,veterinary_hospital,,FS,source_ward_missing,18.997713,72.843391
+HC_00246,The Pet Vet,veterinary_hospital,,A,source_ward_missing,18.9304004,72.8274614
+HC_00247,Bellevue Multispecialify Hospital,veterinary_hospital,,KW,source_ward_missing,19.1290806,72.831908
+HC_00254,R S Nimkar UPHC,uphc,D,E,mismatch,18.97,72.82
+HC_00269,LBS Marg UPHC,uphc,FN,GN,mismatch,19.03,72.85
+HC_00274,Worli Koliwada UPHC,uphc,GS,,outside_or_unmatched,18.9615,72.8517
+HC_00286,Golibar UPHC,uphc,HE,HW,mismatch,19.07,72.84
+HC_00299,Nusserwanji Jahangirji Wadia UPHC,uphc,KW,KE,mismatch,19.12,72.85
+HC_00300,Oshiwara MH UPHC,uphc,KW,PS,mismatch,19.15,72.85
+HC_00301,Banana Leaf UPHC,uphc,KW,KE,mismatch,19.13,72.85
+HC_00302,Ram Mandir Road UPHC,uphc,PS,KW,mismatch,19.15,72.84
+HC_00303,Sundar Nagar UPHC,uphc,PS,S,mismatch,19.1246,72.8962
+HC_00315,New Centenary UPHC,uphc,RS,MW,mismatch,19.05,72.91
+HC_00335,Bibi Fatima UPHC,uphc,L,S,mismatch,19.1192,72.92
+HC_00341,Maasaheb Meenatai Thackeray MH UPHC,uphc,L,KE,mismatch,19.1315,72.8846
+HC_00345,Nehru Nagar UPHC,uphc,L,MW,mismatch,19.06,72.89
+HC_00346,Vashinaka UPHC,uphc,ME,L,mismatch,19.09,72.89
+HC_00360,Kamraj Nagar UPHC,uphc,N,KE,mismatch,19.1315,72.8846
+HC_00366,Sarvodaya Nagar UPHC,uphc,N,KE,mismatch,19.1315,72.8846
+HC_00374,Subhash Nagar UPHC,uphc,S,KE,mismatch,19.1315,72.8846
+HC_00385,Banganga HP,uphc,D,,outside_or_unmatched,18.9615,72.8517
+HC_00396,Gokhale Road HP.,uphc,GN,GS,mismatch,19.02,72.83
+HC_00410,Sunder Nagar H.P.,uphc,KE,PS,mismatch,19.14,72.87
+HC_00415,Bhardawadi H.P.,uphc,KW,KE,mismatch,19.13,72.85
+HC_00421,Pahadi HP,uphc,PS,PN,mismatch,19.18,72.85
+HC_00424,Dindoshi Vasahat H.P.,uphc,PN,PS,mismatch,19.16,72.84
+HC_00427,Centenary H.P.,uphc,RS,KE,mismatch,19.13,72.88
+HC_00429,Eksar Village H.P.,uphc,RC,RN,mismatch,19.24,72.85
+HC_00430,Borsapada H.P.,uphc,RC,RS,mismatch,19.21,72.84
+HC_00441,Centenary Hosp. HP,uphc,ME,MW,mismatch,19.05,72.91
+HC_00445,Tilak Nagar HP,uphc,MW,L,mismatch,19.07,72.89
+HC_00447,Subhash Nagar HP,uphc,MW,ME,mismatch,19.06,72.91
+HC_00448,Barve Nagar HP,uphc,N,L,mismatch,19.1,72.9
+HC_00449,Varsha Nagar HP,uphc,N,S,mismatch,19.11,72.92

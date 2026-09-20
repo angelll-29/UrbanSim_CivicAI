@@ -1,0 +1,225 @@
+station_id,latitude,longitude,geocode_status,geocode_display_name
+MM-001,19.1693242,72.8587918,MATCHED,"Aarey, Western Express Highway, Yashodham, Goregaon East, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400063, India"
+MM-002,19.1304269,72.8843184,MATCHED,"Aarey JVLR, Adi Sankaracharya Marg, Powai, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400096, India"
+MM-003,18.9978264,72.8177404,MATCHED,"Acharya Atre Chowk, Dr E Moses Marg, Mariammar Nagar, Nehru Nagar, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400018, India"
+MM-004,19.1101296,72.8741844,MATCHED,"Airport Road, Mathuradas Vasanji Road (Andheri Kurla Road), Navpada, Saki Naka, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400099, India"
+MM-005,19.1981585,72.8604905,MATCHED,"Akurli, Western Express Highway, Kandivali East, R/S Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400101, India"
+MM-006,19.0813635,72.8481893,MATCHED,"Anand Nagar, Golibar, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India"
+MM-007,19.1172495,72.833968,MATCHED,"Andheri West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400058, India"
+MM-008,19.1196976,72.8464205,MATCHED,"Andheri, Masjid Galli, Gaondevi Dongri, Andheri West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400069, India"
+MM-009,19.097,72.8945,MATCHED,"Asalpha, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400072, India"
+MM-010,19.0920602,72.8994007,MATCHED,"Azad Nagar, Ghatkopar West, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400086, India"
+MM-011,19.0699627,72.8493601,MATCHED,"Bandra Colony, Sant Dnyaneshwar Marg, RPF Colony, Golibar, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400055, India"
+MM-012,19.0606629,72.8546797,MATCHED,"Bandra Kurla Complex, Ramakrishna Paramahansa Marg, Sant Dnyaneshwar Nagar, Bandra East, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400051, India"
+MM-013,19.1624723,72.8348708,MATCHED,"Bangur Nagar, Link Road, Shastri Nagar, Bangur Nagar, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400090, India"
+MM-014,19.2298129,72.8471376,MATCHED,"Borivali West, Dhaval Apartment, Chandavarkar Lane, Govind Nagar, Shimpoli, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400092, India"
+MM-015,19.112036,72.8676217,MATCHED,"Chakala - J.B. Nagar, Srinivas Bagarka Road, MIDC, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400099, India"
+MM-016,19.054818,72.8979713,MATCHED,"Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India"
+MM-017,,,NOT_FOUND,
+MM-018,19.0935397,72.8537164,MATCHED,"Chhatrapati Shivaji Maharaj International Airport - T1, Air Port Road, Shastri Nagar, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400057, India"
+MM-019,19.1023335,72.8744692,MATCHED,"Chhatrapati Shivaji Maharaj International Airport - T2, Sahar Elevated Road, Navpada, Saki Naka, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400099, India"
+MM-020,18.939856,72.8355191,MATCHED,"Chhatrapati Shivaji Maharaj Terminus, CSMT, Bori Bunder, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400038, India"
+MM-021,18.9354797,72.8271741,MATCHED,"Churchgate, Scarsdale Street, Churchgate, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400020, India"
+MM-022,18.9157866,72.8189036,MATCHED,"Cuffe Parade, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400005, India"
+MM-023,19.1282826,72.8302354,MATCHED,"D. N. Nagar, Jai Prakash Road, Four Bungalows, Dadabhai Naoroji Nagar, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 402205, India"
+MM-024,19.0192269,72.8428479,MATCHED,"Dadar, Ranade Road Extension, Dadar West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400028, India"
+MM-025,19.2062315,72.8348068,MATCHED,"Dahanukarwadi, Link Road, Renuka Nagar, Kandivali West, R/S Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400067, India"
+MM-026,19.2599822,72.8598732,MATCHED,"THAKUR COLLEGE ARTS, DAHISAR EAST, Prataprao Gujjar Rd Road No 3, Avdhut Nagar, Dahisar East, R/N Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400068, India"
+MM-027,19.0475502,72.9051895,MATCHED,"Deonar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400012, India"
+MM-028,,,NOT_FOUND,
+MM-029,19.2243339,72.864192,MATCHED,"Devipada, Western Express Highway, Devipada, Borivali East, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400066, India"
+MM-030,19.044463,72.8586177,MATCHED,"Dharavi, Mumbai Zone 2, Mumbai City District, Maharashtra, India"
+MM-031,19.1740198,72.8695219,MATCHED,"Dindoshi, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400063, India"
+MM-032,19.2403773,72.8434456,MATCHED,"Eksar, Link Road, Ashtavinayak Nagar, Shimpoli, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400091, India"
+MM-033,19.0856928,72.9083668,MATCHED,"Ghatkopar, Station Road, Kapol Wadi, Ghatkopar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400086, India"
+MM-034,18.9609893,72.813628,MATCHED,"J Shankarsheth Marg, Gamdevi, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400036, India"
+MM-035,19.1692623,72.8552548,MATCHED,"Goregaon East, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400063, India"
+MM-036,19.1633281,72.8411995,MATCHED,"Goregaon West, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400090, India"
+MM-037,18.9633549,72.8158261,MATCHED,"Grant Road, N Bharucha Marg, Gamdevi, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400036, India"
+MM-038,19.120531,72.855597,MATCHED,"Gundavali, Service Road, Malpa Dongri, Andheri East, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400069, India"
+MM-039,18.9327405,72.8316318,MATCHED,"Hutatma Chowk, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, India"
+MM-040,18.9699801,72.8212029,MATCHED,"Jagannath Shankar Sheth Metro, Dr Anand Rao Nair Marg, Agripada, Tardeo, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India"
+MM-041,19.0925442,72.9019518,MATCHED,"Jagruti Nagar, Sant Narsee Mehta Marg, Azad Nagar, Ghatkopar West, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400086, India"
+MM-042,19.1429467,72.8551559,MATCHED,"Jogeshwari (East), Western Express Highway, Aarey Milk Colony, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400060, India"
+MM-043,18.9492575,72.8279382,MATCHED,"Kalbadevi, C Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400002, India"
+MM-044,19.2566384,72.8506245,MATCHED,"Rushi Sankul, Link Road, Kandarpada, Dahisar West, R/N Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400068, India"
+MM-045,19.2006415,72.8485534,MATCHED,"Khm Medical Centre Shree Kandivli Hitwardhak Mandal Kandivali, Shantilal Modi Road, Kandivali West, R/S Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400067, India"
+MM-046,,,NOT_FOUND,
+MM-047,19.1878187,72.8641984,MATCHED,"Kurar, Malad East, P/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400097, India"
+MM-048,19.1730984,72.8364801,MATCHED,"Lower Malad, Link Road, Ram Nagar, Bangur Nagar, P/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400090, India"
+MM-049,19.1401805,72.8318459,MATCHED,"Lower Oshiwara, Link Road, Adarsh Nagar, Jogeshwari West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 402205, India"
+MM-050,19.2167968,72.8668012,MATCHED,"Magathane, Western Express Highway, Borivali East, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400066, India"
+MM-051,18.9825203,72.8242196,MATCHED,"Mahalaxmi, Mahalakshmi Station Flyover, Shantinagar, Mahalakshmi, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400027, India"
+MM-052,,,NOT_FOUND,
+MM-053,19.1852851,72.8358611,MATCHED,"Malad (West), Link Road, Malad West, P/N Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400064, India"
+MM-054,19.2495764,72.8457622,MATCHED,"Mandapeshwar - I.C. Colony, Link Road, I C Colony, Dahisar West, R/N Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400092, India"
+MM-055,19.0482086,72.9317136,MATCHED,"Mankhurd, Mankhurd Station Road, Mankhurd Village, Mankhurd, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400088, India"
+MM-056,19.1081008,72.87963,MATCHED,"Marol Naka, Marol Naka Metro Stn, Chimatpada, Saki Naka, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400072, India"
+MM-057,19.1172867,72.8742053,MATCHED,"MIDC - Andheri, Road Number 7, Kondivita Village, MIDC, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400096, India"
+MM-058,,,NOT_FOUND,
+MM-059,19.1284481,72.8554647,MATCHED,"Mogra, Western Express Highway, Aghadi Nagar, MIDC, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400029, India"
+MM-060,19.1502437,72.8342294,MATCHED,"Oshiwara, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400102, India"
+MM-061,19.2429398,72.8641964,MATCHED,"Ovaripada, Western Express Highway, Ovaripada, Dahisar East, R/N Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400068, India"
+MM-062,19.2600826,72.8726532,MATCHED,"Pandurang Wadi, Western Express Highway, Ketkipada, Dahisar East, R/N Ward, Mumbai Zone 4, Mira-Bhayander, Thane Subdistrict, Mumbai Suburban District, Maharashtra, 401104, India"
+MM-063,19.2037581,72.8633393,MATCHED,"Mahindra & Mahindra, Western Express Highway, Kandivali East, R/S Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400101, India"
+MM-064,19.2346141,72.8631372,MATCHED,"Rashtriya Udyan, Western Express Highway, Devipada, Borivali East, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400066, India"
+MM-065,19.1155449,72.8473272,MATCHED,"Sahar Road, Andheri East, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400069, India"
+MM-066,19.108206,72.8828404,MATCHED,"Saki Naka, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400072, India"
+MM-067,19.0789383,72.8446344,MATCHED,"M R Medical, Santacruz, Road No 11, Anand Nagar, Golibar, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400055, India"
+MM-068,18.9908949,72.8213521,MATCHED,"Science Centre, Dr E Moses Marg, Mariammar Nagar, Mahalakshmi, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400018, India"
+MM-069,19.1253556,72.8751702,MATCHED,"SEEPZ, MIDC, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India"
+MM-070,19.2238836,72.8476854,MATCHED,"Shimpoli, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400091, India"
+MM-071,,,NOT_FOUND,
+MM-072,19.0587317,72.8384547,MATCHED,"Siddhivinayak, R. B. Vasudevrao Anant Bambardekar Road, Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India"
+MM-073,19.1968293,72.8337752,MATCHED,"Valnai-Meeth Chowky, Link Road, Orlem, P/N Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400064, India"
+MM-074,19.1302521,72.8213775,MATCHED,"Versova, Balasaheb Sawant Road, Seven Bungalows, Versova, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400061, India"
+MM-075,18.9262345,72.8241734,MATCHED,"Vidhan Bhavan, Jamnalal Bajaj Road, Nariman Point, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400021, India"
+MM-076,19.0675032,72.8465996,MATCHED,"Western Express Highway, RPF Colony, Kherwadi, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400055, India"
+MM-077,19.0117388,72.8178706,MATCHED,"Worli, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400030, India"
+MM-078,19.140617,72.8312817,MATCHED,"State Bank of India, State bank of India, Link Road, Adarsh Nagar, Jogeshwari West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400053, India"
+MM-079,19.1049416,72.8558663,MATCHED,"New Airport Colony, Andheri East, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India"
+MM-080,19.0651692,72.8990601,MATCHED,"Amar Mahal Junction Flyover, Jyoti Nagar, Chheda Nagar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India"
+MM-081,,,NOT_FOUND,
+MM-082,,,NOT_FOUND,
+MM-083,19.0663722,72.8328501,MATCHED,"Apollo, 466, 14th Road, Linking Road Shopping area, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India"
+MM-084,19.0618979,72.9249694,MATCHED,"Baiganwadi, Plot No.11, Shivaji Nagar, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400043, India"
+MM-085,,,NOT_FOUND,
+MM-086,,,NOT_FOUND,
+MM-087,19.0549792,72.8402203,MATCHED,"Bandra, Gurunanak Marg (Turner Road), Lal Mati (Lal Mitti), Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India"
+MM-088,19.142757,72.9376543,MATCHED,"Bhandup, Bhandup Station Road, Bhandup West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400078, India"
+MM-089,19.1387605,72.9307295,MATCHED,"Bhandup Mahapalika Station, Lal Bahadur Shastri Marg, Bhandup East, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400042, India"
+MM-090,18.9579427,72.8317816,MATCHED,"Bhendi Bazaar, Bhuleshwar, C Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400003, India"
+MM-091,,,NOT_FOUND,
+MM-092,19.0128573,72.8614703,MATCHED,"BPT Hospital, LM Nadkarni Road, Sadbhavana Nagar, Sewri, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400031, India"
+MM-093,18.9766219,72.8327936,MATCHED,"Byculla, N M Joshi Marg, Byculla West, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400027, India"
+MM-094,,,NOT_FOUND,
+MM-095,19.0295314,72.8693989,MATCHED,"CGS Colony, Antop Hill, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400037, India"
+MM-096,18.9815598,72.8501568,MATCHED,"Coal Bunder, Fosbery Road, Sewri Dockyard, Sewri, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400001, India"
+MM-097,18.9473499,72.8345108,MATCHED,"Crawford Market, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, India"
+MM-098,,,NOT_FOUND,
+MM-099,,,NOT_FOUND,
+MM-100,,,NOT_FOUND,
+MM-101,,,NOT_FOUND,
+MM-102,19.1693779,72.966883,MATCHED,"Eastern Express Highway, MHADA Colony, Mulund East, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400081, India"
+MM-103,19.116574,72.8298593,MATCHED,"ESIC Nagar, Kamalakar Pant Walawalkar Marg, Andheri West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400058, India"
+MM-104,19.0150243,73.0155516,MATCHED,"Gaimukh Chowkh, Sector-44, Seawoods West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India"
+MM-105,,,NOT_FOUND,
+MM-106,,,NOT_FOUND,
+MM-107,,,NOT_FOUND,
+MM-108,19.1515483,72.9300624,MATCHED,"Ganesh Nagar, Bhandup West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400078, India"
+MM-109,19.0741334,72.9085221,MATCHED,"Garodia Nagar, Vidya Vihar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400077, India"
+MM-110,19.1047588,72.921816,MATCHED,"Godrej Company (W), Lal Bahadur Shastri Marg, Pirojsha Godrej Nagar, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400079, India"
+MM-111,,,NOT_FOUND,
+MM-112,19.0066978,72.8236294,MATCHED,"Gopal Nagar, Nehru Nagar, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400013, India"
+MM-113,,,NOT_FOUND,
+MM-114,,,NOT_FOUND,
+MM-115,18.9902824,72.8543197,MATCHED,"Hay Bunder, Fosbery Road, Sewri Dockyard, Sewri, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400001, India"
+MM-116,,,NOT_FOUND,
+MM-117,18.9320095,72.8350198,MATCHED,"Horniman Circle, Kala Ghoda, Fort, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400038, India"
+MM-118,19.1326186,72.9149702,MATCHED,"Indian Institute of Technology Bombay, Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India"
+MM-119,,,NOT_FOUND,
+MM-120,19.0589931,72.8547228,MATCHED,"Income Tax Office, Bandra Kurla Complex Road, Kalanagar, Bandra East, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400051, India"
+MM-121,19.1028878,72.8368664,MATCHED,"Indira Nagar, Gulmohar Road, Vile Parle West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400057, India"
+MM-122,19.0418711,72.8786654,MATCHED,"Inter State Bus Terminal-ISBT, Padmabushan Vasantdada Patil Marg, Anik Nagar, Wadala, F/N Ward, Mumbai Zone 2, Mumbai, Mumbai City District, Maharashtra, 400022, India"
+MM-123,19.136394,72.8373817,MATCHED,"Jogeshwari West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400047, India"
+MM-124,19.0559456,73.0182495,MATCHED,"Juinagar, Juinagar Station Road, Sanpada, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India"
+MM-125,19.1254075,72.9244226,MATCHED,"Gandhinagar Junction Flyover, Ramabai Ambedkar Nagar, Kanjur West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400059, India"
+MM-126,,,NOT_FOUND,
+MM-127,,,NOT_FOUND,
+MM-128,,,NOT_FOUND,
+MM-129,19.1321315,72.9272826,MATCHED,"Dockyard kanjurmarg St, Lal Bahadur Shastri Marg, Kanjur West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400042, India"
+MM-130,,,NOT_FOUND,
+MM-131,,,NOT_FOUND,
+MM-132,,,NOT_FOUND,
+MM-133,,,NOT_FOUND,
+MM-134,19.0883124,72.8369382,MATCHED,"Khira Nagar, Vile Parle West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India"
+MM-135,,,NOT_FOUND,
+MM-136,,,NOT_FOUND,
+MM-137,19.0652797,72.8793805,MATCHED,"Kurla, Kurla FOB 4, Naware Baug Jagruti Nagar, Kurla East, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400024, India"
+MM-138,19.0628944,72.8825604,MATCHED,"Kurla East, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400024, India"
+MM-139,19.0908037,72.9167981,MATCHED,"Laxmi Nagar, Ghatkopar, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400075, India"
+MM-140,19.0694658,72.8919779,MATCHED,"Lokmanya Tilak Terminus, Lokmanya Tilak Terminus Road, Vidya Vihar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India"
+MM-141,19.1171929,72.9142035,MATCHED,"Loop Road, Hiranandani Gardens, Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India"
+MM-142,19.1306093,72.8738165,MATCHED,"Mahakali Caves, Mahakali Caves Road, Takshila Colony, MIDC, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400096, India"
+MM-143,18.9429649,72.8314839,MATCHED,"St.Xavier's College, 5, Mahapalika Marg, Dhobi Talao, Corporation Street, Bori Bunder, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400001, India"
+MM-144,,,NOT_FOUND,
+MM-145,,,NOT_FOUND,
+MM-146,19.2356062,72.9583946,MATCHED,"Manpada Waterfall मानपाडा वॉटरफॉल, Thane-Borivali Twin Tunnel, Yeoor, Mumbai Zone 4, Thane, Thane Subdistrict, Thane, Maharashtra, 200014, India"
+MM-147,,,NOT_FOUND,
+MM-148,18.9333205,72.8308465,MATCHED,"MTNL, Mahatma Gandhi Road, Kala Ghoda, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400001, India"
+MM-149,19.1757013,72.9425157,MATCHED,"Mulund Fire Station, Lal Bahadur Shastri Marg, Veer Sambhaji Nagar, Mulund Colony, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400082, India"
+MM-150,19.1836341,72.9545197,MATCHED,"Mulund Octroi Naka, Mulund West, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, India"
+MM-151,18.966683,72.8287414,MATCHED,"Nagpada Junction, Maulana Azad Road (Duncan Road), Kamathipura, Nagpada, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India"
+MM-152,19.1002773,72.8395808,MATCHED,"Nanavati Hospital, Swami Vivekanand Road, JEEVAN SHANTI COLONY, Vile Parle West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400057, India"
+MM-153,,,NOT_FOUND,
+MM-154,,,NOT_FOUND,
+MM-155,19.0648223,72.8373113,MATCHED,"National College, Swami Vivekanand Road, Linking Road Shopping area, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India"
+MM-156,19.1320841,72.923492,MATCHED,"Naval Civillian Housing Colony, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, India"
+MM-157,19.0335938,73.018164,MATCHED,"Nerul, Mata Amritanandamayi Marg, Nerul Village, Nerul West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India"
+MM-158,,,NOT_FOUND,
+MM-159,19.0833305,72.9115042,MATCHED,"Pant Nagar, Ghatkopar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400075, India"
+MM-160,19.0862777,72.8892153,MATCHED,"Phoenix Marketcity Kurla, Lal Bahadur Shastri Marg, Sunder Baug, Asalpha, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400070, India"
+MM-161,,,NOT_FOUND,
+MM-162,,,NOT_FOUND,
+MM-163,,,NOT_FOUND,
+MM-164,19.1277203,72.9062142,MATCHED,"Powai Lake, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India"
+MM-165,19.1092295,72.8396305,MATCHED,"Prem Nagar, Vile Parle West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India"
+MM-166,19.1040963,72.8362766,MATCHED,"Purna Urmi, N. S. Road No. 2, Vile Parle West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400056, India"
+MM-167,,,NOT_FOUND,
+MM-168,,,NOT_FOUND,
+MM-169,18.9775506,72.8441011,MATCHED,"Reay Road, Barrister Nath Pai Marg, Anjeer Wadi, Darukhana, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400027, India"
+MM-170,19.0780655,73.0059891,MATCHED,"RTO Ground, Turbhe, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India"
+MM-171,19.0609334,72.8844893,MATCHED,"SG Barve Marg, Nehru Nagar, Kurla East, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400024, India"
+MM-172,,,NOT_FOUND,
+MM-173,19.0466943,72.8268434,MATCHED,"Sagar Sangam, 28, Padmabhushan Jagjit Singh Chowk, Mount Mary, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India"
+MM-174,,,NOT_FOUND,
+MM-175,19.0627075,72.8910418,MATCHED,"Sai Baba Nagar, Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India"
+MM-176,19.1285833,72.8958527,MATCHED,"Saki Vihar Road, Paspoli Village, Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400087, India"
+MM-177,19.0659774,73.0095329,MATCHED,"Sanpada, Sanpada Station Road, Sanpada, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India"
+MM-178,19.0746681,72.8375532,MATCHED,"Saraswat Nagar, Swami Vivekanand Road, Ram Krishna Nagar, Santacruz West, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400052, India"
+MM-179,19.0216748,73.0186236,MATCHED,"Seawoods Grand Central Mall, Seawoods, Seawoods Station Road, Sector-42, Seawoods East, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India"
+MM-180,19.1304889,72.8749334,MATCHED,"SEEPZ Village Bus Stn(Temporary), SEEPZ VILLAGE, MIDC, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India"
+MM-181,18.9987796,72.8544218,MATCHED,"Sewri, Eastern Freeway, Sadbhavana Nagar, Sewri, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400015, India"
+MM-182,,,NOT_FOUND,
+MM-183,19.0627427,72.8321013,MATCHED,"Shangrila, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400050, India"
+MM-184,,,NOT_FOUND,
+MM-185,19.0929825,72.9123967,MATCHED,"Shreyas Cinema, Lal Bahadur Shastri Marg, Damodar Park, Ghatkopar West, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400075, India"
+MM-186,19.137156,72.8614676,MATCHED,"Shyam Nagar, MIDC, K/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400060, India"
+MM-187,19.0578284,72.8920609,MATCHED,"Siddharth Colony, Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India"
+MM-188,19.1628583,72.934172,MATCHED,"Sonapur, Nahur, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400082, India"
+MM-189,,,NOT_FOUND,
+MM-190,,,NOT_FOUND,
+MM-191,,,NOT_FOUND,
+MM-192,19.0530165,72.8837675,MATCHED,"Suman Nagar, Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400024, India"
+MM-193,19.1190441,72.9234984,MATCHED,"Surya Nagar, Vikhroli West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400059, India"
+MM-194,19.142681,72.8262715,MATCHED,"Basera Air India, 1st Cross Road, Lokhandwala Complex, Oshiwara, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400053, India"
+MM-195,,,NOT_FOUND,
+MM-196,18.9901343,73.0344023,MATCHED,"Targhar, NMIA West Entry Road, Moha Village, Targhar, Navi Mumbai, Panvel Subdistrict, Raigad, Maharashtra, 400706, India"
+MM-197,,,NOT_FOUND,
+MM-198,,,NOT_FOUND,
+MM-199,,,NOT_FOUND,
+MM-200,19.0761648,73.0176615,MATCHED,"Turbhe, Turbhe Station Road, Turbhe, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India"
+MM-201,,,NOT_FOUND,
+MM-202,,,NOT_FOUND,
+MM-203,19.0632481,72.9987966,MATCHED,"Vashi, Vashi Station Road, Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India"
+MM-204,19.1711785,72.9522552,MATCHED,"Vijay Nagar Garden, Mulund West, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400080, India"
+MM-205,,,NOT_FOUND,
+MM-206,19.1114795,72.928021,MATCHED,"Vikhroli, P. Soman Marg, Hariyali, Vikhroli West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400059, India"
+MM-207,,,NOT_FOUND,
+MONO-001,19.054818,72.8979713,MATCHED,"Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India"
+MONO-002,,,NOT_FOUND,
+MONO-003,,,NOT_FOUND,
+MONO-004,19.0352839,72.8955553,MATCHED,"Bharat Petroleum, Ramakrishna Chemburkar Marg (Ghatkopar Mahul Road), Anik Gaon, Fertilizer Colony, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400074, India"
+MONO-005,19.0277168,72.8914397,MATCHED,"Mysore Colony, Mysore Colony Connector, Sri Ganesh Patel Nagar, Mahul, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400074, India"
+MONO-006,19.028972,72.8775722,MATCHED,"Bhakti Park, Ajmera l-Land Road, Bhakti Park, Mahul, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400037, India"
+MONO-007,19.0388244,72.8740249,MATCHED,"Wadala Depot, Kokri Agar Road, Sardar Vallabhbhai Patel Nagar, Indira Nagar, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400022, India"
+MONO-008,19.0380048,72.8643455,MATCHED,"Guru Tegh Bahadur Nagar, M Ambedkar Marg, Agarwada Colony, Indira Nagar, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400022, India"
+MONO-009,19.0301805,72.8669504,MATCHED,"Antop Hill, M Ambedkar Marg, CGS Colony, Indira Nagar, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400037, India"
+MONO-010,19.0236472,72.8637994,MATCHED,"Acharya Atre Nagar, Sheikh Misari Road, CGS Colony, Antop Hill, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400037, India"
+MONO-011,19.0174644,72.8593233,MATCHED,"Wadala Bridge, Rafi Ahmed Kidwai Marg, New BPT Colony, Matunga East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400019, India"
+MONO-012,19.0162531,72.8522274,MATCHED,"Dadar East, Katrak Road, Dadar Parsi Colony, Matunga East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400031, India"
+MONO-013,19.0095393,72.8478709,MATCHED,"Naigaon, G.D. Ambedkar Marg, Naigaon, Parel, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400014, India"
+MONO-014,19.0708218,72.8288647,MATCHED,"Ambedkar Nagar, Khar, Bandra West, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India"
+MONO-015,18.9953457,72.8446326,MATCHED,"Mint Colony, G.D. Ambedkar Marg, Dosti Belleza, Lal Baug, F/S Ward, Mumbai Zone 2, Mumbai, Mumbai City District, Maharashtra, 400033, India"
+MONO-016,18.99568,72.8302756,MATCHED,"Lower Parel, Delisle Road ROB, BDD Chawl, Lower Parel, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400013, India"
+MONO-017,18.9810531,72.8267863,MATCHED,"Sant Gadge Maharaj Chowk, Byculla West, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, India"

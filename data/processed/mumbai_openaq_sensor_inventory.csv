@@ -1,0 +1,418 @@
+openaq_location_id,station_name,urban_ward_code,provider,sensor_id,parameter_name,parameter_display,parameter_units,sensor_name,sensor_units,source
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,39408,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,12708241,co,CO,ppb,co ppb,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,12708242,no,NO,ppb,no ppb,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,39406,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,12708243,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,14342047,nox,NOX,ppb,nox ppb,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,39409,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,12708244,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,39405,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,12708245,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,39404,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,12708246,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,12708247,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+11602,"Bandra Kurla Complex, Mumbai - IITM",HE,caaqm,39407,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,12708248,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,12708249,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,14342048,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,CPCB,14342049,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,12238370,co,CO,ppb,co ppb,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,12238371,no,NO,ppb,no ppb,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,12238372,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,14341573,nox,NOX,ppb,nox ppb,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,12238373,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,12238374,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,12238375,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,12238376,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,12238377,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,12238378,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,14341574,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,CPCB,14341575,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,36455,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,36453,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,36451,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,22798,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,36447,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+7850,"Bandra, Mumbai - MPCB",HE,caaqm,36446,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,12236413,co,CO,ppb,co ppb,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,39431,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,12236414,no,NO,ppb,no ppb,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,12236415,no2,NO₂,ppb,no2 ppb,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,39430,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,14341020,nox,NOX,ppb,nox ppb,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,12236416,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,39432,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,12236417,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,39429,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,12236418,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,39428,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,12236419,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,12236420,temperature,Temperature (C),c,temperature c,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,14342059,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+11606,"Borivali East, Mumbai - IITM",RC,CPCB,14342060,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,12252653,co,CO,ppb,co ppb,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,20075,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,12252654,no,NO,ppb,no ppb,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,12252655,no2,NO₂,ppb,no2 ppb,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,20081,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,14341949,nox,NOX,ppb,nox ppb,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,12252656,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,20084,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,12252657,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,20085,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,12252658,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,20087,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,12252659,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,12252660,so2,SO₂,ppb,so2 ppb,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,20090,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,12252661,temperature,Temperature (C),c,temperature c,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,14341950,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",RC,CPCB,14341951,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,12238562,co,CO,ppb,co ppb,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,12238563,no,NO,ppb,no ppb,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,12238564,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,14341639,nox,NOX,ppb,nox ppb,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,12238565,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,12238566,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,12238567,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,12238568,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,12238569,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,12238570,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,14341640,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409510,"Byculla, Mumbai - BMC",E,CPCB,14341641,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,12236406,co,CO,ppb,co ppb,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,40569,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,12236407,no,NO,ppb,no ppb,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,12236408,no2,NO₂,ppb,no2 ppb,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,40574,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,14341017,nox,NOX,ppb,nox ppb,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,12236409,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,40570,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,12442195,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,40572,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,12442196,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,40571,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,12236410,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,12236411,so2,SO₂,ppb,so2 ppb,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,40573,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,12236412,temperature,Temperature (C),c,temperature c,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,14341018,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,CPCB,14341019,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,12238379,co,CO,ppb,co ppb,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,12238380,no,NO,ppb,no ppb,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,12238381,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,14341576,nox,NOX,ppb,nox ppb,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,12238382,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,12238383,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,12238384,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,12238385,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,12238386,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,12238387,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,14341577,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",ME,CPCB,14341578,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,12235855,co,CO,ppb,co ppb,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,19976,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,12235856,no,NO,ppb,no ppb,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,12235857,no2,NO₂,ppb,no2 ppb,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,19977,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,14340928,nox,NOX,ppb,nox ppb,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,12235858,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,19979,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,12235859,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,19980,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,12235860,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,19981,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,12235861,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,12235862,so2,SO₂,ppb,so2 ppb,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,19982,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,12235863,temperature,Temperature (C),c,temperature c,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,14340929,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,CPCB,14340930,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,20137,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,12235921,co,CO,ppb,co ppb,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,12235922,no,NO,ppb,no ppb,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,19892,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,12235923,no2,NO₂,ppb,no2 ppb,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,14341960,nox,NOX,ppb,nox ppb,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,20139,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,12235924,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,20142,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,12235925,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,20143,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,12235926,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,12235927,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,20144,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,12235928,so2,SO₂,ppb,so2 ppb,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,12235929,temperature,Temperature (C),c,temperature c,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,14341961,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+6927,"Colaba, Mumbai - MPCB",A,CPCB,14341962,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,39420,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,12236380,co,CO,ppb,co ppb,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,12236381,no,NO,ppb,no ppb,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,39418,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,12236382,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,14341011,nox,NOX,ppb,nox ppb,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,39421,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,12236383,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,39417,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,12236384,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,39416,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,12236385,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,12236386,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+11604,"Deonar, Mumbai - IITM",ME,caaqm,39419,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,12236387,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,12236388,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,14341012,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409329,"Deonar, Mumbai - IITM",ME,CPCB,14341013,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,12238598,co,CO,ppb,co ppb,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,12238599,no,NO,ppb,no ppb,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,12238600,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,14341645,nox,NOX,ppb,nox ppb,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,12238601,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,12238602,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,12238603,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,12238604,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,12238605,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,12238606,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,14341646,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",N,CPCB,14341647,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,12236467,co,CO,ppb,co ppb,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,40616,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,12236468,no,NO,ppb,no ppb,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,12236469,no2,NO₂,ppb,no2 ppb,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,40624,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,14341025,nox,NOX,ppb,nox ppb,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,12236470,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,40627,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,12236471,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,40652,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,12236472,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,40650,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,12236473,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,12236474,so2,SO₂,ppb,so2 ppb,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,40620,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,12236475,temperature,Temperature (C),c,temperature c,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,14342080,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",RS,CPCB,14342081,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,12238580,co,CO,ppb,co ppb,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,12238581,no,NO,ppb,no ppb,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,12238582,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,14342261,nox,NOX,ppb,nox ppb,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,12238583,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,12238584,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,12238585,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,12238586,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,12238587,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,12238588,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,14342262,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",RC,CPCB,14342263,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,12238406,co,CO,ppb,co ppb,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,12238407,no,NO,ppb,no ppb,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,12238408,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,14341585,nox,NOX,ppb,nox ppb,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,12238409,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,12238410,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,12238411,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,12238412,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,12238413,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,12238414,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,14341586,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,CPCB,14341587,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,12236389,co,CO,ppb,co ppb,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,40636,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,12236390,no,NO,ppb,no ppb,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,12236391,no2,NO₂,ppb,no2 ppb,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,40639,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,14342056,nox,NOX,ppb,nox ppb,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,12236392,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,40634,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,12236393,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,40615,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,12236394,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,40608,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,12236395,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,12236396,so2,SO₂,ppb,so2 ppb,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,40617,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,12236397,temperature,Temperature (C),c,temperature c,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,14342057,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,CPCB,14342058,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,12235829,co,CO,ppb,co ppb,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,19993,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,12235830,no,NO,ppb,no ppb,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,12235831,no2,NO₂,ppb,no2 ppb,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,20076,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,14340922,nox,NOX,ppb,nox ppb,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,12235832,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,19968,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,12235833,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,19975,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,12235834,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,19978,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,12235835,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,12289836,so2,SO₂,ppb,so2 ppb,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,19987,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,12235836,temperature,Temperature (C),c,temperature c,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,14340923,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+6945,"Kurla, Mumbai - MPCB",L,CPCB,14340924,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,12236421,co,CO,ppb,co ppb,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,39458,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,12236422,no,NO,ppb,no ppb,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,12236423,no2,NO₂,ppb,no2 ppb,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,39456,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,14341021,nox,NOX,ppb,nox ppb,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,12236424,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,39459,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,12236425,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,39455,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,12236426,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,39454,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,12236427,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,12236428,so2,SO₂,ppb,so2 ppb,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,39457,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,12236429,temperature,Temperature (C),c,temperature c,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,14342063,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+11611,"Malad West, Mumbai - IITM",PN,CPCB,14342064,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,12238343,co,CO,ppb,co ppb,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,12238344,no,NO,ppb,no ppb,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,12238345,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,14341564,nox,NOX,ppb,nox ppb,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,12238346,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,12238347,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,12238348,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,12238349,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,12238350,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,12238351,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,14341565,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,CPCB,14341566,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,12236476,co,CO,ppb,co ppb,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,40609,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,12236477,no,NO,ppb,no ppb,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,12236478,no2,NO₂,ppb,no2 ppb,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,40612,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,14342082,nox,NOX,ppb,nox ppb,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,12236479,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,40644,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,12236480,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,40628,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,12236481,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,40641,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,12236482,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,12236483,so2,SO₂,ppb,so2 ppb,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,40640,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,12236484,temperature,Temperature (C),c,temperature c,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,14342083,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",T,CPCB,14342084,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+8039,Mumbai,L,AirNow,23320,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,12235891,co,CO,ppb,co ppb,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,20125,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,12235892,no,NO,ppb,no ppb,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,12235893,no2,NO₂,ppb,no2 ppb,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,20083,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,14340934,nox,NOX,ppb,nox ppb,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,12235894,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,20054,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,12235895,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,20010,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,12235896,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,20079,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,12235897,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,12235898,so2,SO₂,ppb,so2 ppb,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,20101,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,12235899,temperature,Temperature (C),c,temperature c,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,14340935,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+6956,"Powai, Mumbai - MPCB",S,CPCB,14340936,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,12238589,co,CO,ppb,co ppb,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,12238590,no,NO,ppb,no ppb,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,12238591,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,14342264,nox,NOX,ppb,nox ppb,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,12238592,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,12238593,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,12238594,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,12238595,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,12238596,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,12238597,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,14342265,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409513,"Sewri, Mumbai - BMC",FS,CPCB,14342266,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,12238571,co,CO,ppb,co ppb,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,12238572,no,NO,ppb,no ppb,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,12238573,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,14341642,nox,NOX,ppb,nox ppb,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,12238574,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,12238575,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,12238576,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,12238577,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,12238578,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,12238579,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,14341643,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,CPCB,14341644,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,12236430,co,CO,ppb,co ppb,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,20029,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,389760,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,12236431,no,NO,ppb,no ppb,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,12236432,no2,NO₂,ppb,no2 ppb,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,20030,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,389767,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,14342065,nox,NOX,ppb,nox ppb,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,12236433,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,20031,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,389777,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,12236434,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,20032,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,389771,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,12236435,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,20033,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",GS,caaqm,389761,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,12236436,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,20034,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,12236437,temperature,Temperature (C),c,temperature c,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,14342066,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,CPCB,14342067,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,12243925,co,CO,ppb,co ppb,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,20109,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,12243926,no,NO,ppb,no ppb,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,12243927,no2,NO₂,ppb,no2 ppb,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,20107,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,14340938,nox,NOX,ppb,nox ppb,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,12243928,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,20098,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,12243929,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,20097,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,12243930,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,20096,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,12243931,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,12243932,so2,SO₂,ppb,so2 ppb,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,20095,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,12243933,temperature,Temperature (C),c,temperature c,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,14340939,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+6967,"Sion, Mumbai - MPCB",FN,CPCB,14340940,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,12235846,co,CO,ppb,co ppb,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,20236,co,CO mass,µg/m³,co µg/m³,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,12235847,no,NO,ppb,no ppb,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,12235848,no2,NO₂,ppb,no2 ppb,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,20239,no2,NO₂ mass,µg/m³,no2 µg/m³,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,14340925,nox,NOX,ppb,nox ppb,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,12235849,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,20240,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,12235850,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,20243,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,12235851,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,20251,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,12235852,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,12235853,so2,SO₂,ppb,so2 ppb,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,20254,so2,SO₂ mass,µg/m³,so2 µg/m³,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,12235854,temperature,Temperature (C),c,temperature c,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,14340926,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",KW,CPCB,14340927,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,12235909,co,CO,ppb,co ppb,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,12235910,no,NO,ppb,no ppb,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,12235911,no2,NO₂,ppb,no2 ppb,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,14341954,nox,NOX,ppb,nox ppb,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,12235912,o3,O₃ mass,µg/m³,o3 µg/m³,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,12235913,pm10,PM10,µg/m³,pm10 µg/m³,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,12235914,pm25,PM2.5,µg/m³,pm25 µg/m³,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,12235915,relativehumidity,RH,%,relativehumidity %,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,12235916,so2,SO₂,ppb,so2 ppb,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,12235917,temperature,Temperature (C),c,temperature c,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,14341955,wind_direction,Wind direction,deg,wind_direction deg,,OpenAQ
+3409323,"Worli, Mumbai - MPCB",GS,CPCB,14341956,wind_speed,Wind speed,m/s,wind_speed m/s,,OpenAQ

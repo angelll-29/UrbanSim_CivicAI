@@ -1,7 +1,82 @@
+﻿# ================================
+# Python
+# ================================
 .venv/
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
 
+# ================================
+# Environment / Secrets
+# ================================
+.env
+.env.*
+!.env.example
+
+# ================================
+# Logs / Runtime
+# ================================
+logs/
+*.log
+
+# ================================
+# Local databases / user data
+# ================================
+*.db
+*.sqlite
+*.sqlite3
+data/urbansim_users.db
+
+# ================================
+# Encryption / security artifacts
+# ================================
+*.key
 data/processed/encryption.key
 
-logs/*.log
+# ================================
+# OS / IDE
+# ================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ================================
+# Node / Frontend
+# ================================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.npm/
+*.tsbuildinfo
+
+# ================================
+# Python build artifacts
+# ================================
+build/
+dist/
+*.egg-info/
+
+# ================================
+# Jupyter
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# Temporary files
+# ================================
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# ML training experiments / large artifacts
+data/processed/lstm/
+data/processed/lstm_v2/
+data/processed/multivariate_lstm/
+data/processed/stgnn/
+data/processed/stgnn_residual/
+data/processed/*.npz
+data/processed/*.pt

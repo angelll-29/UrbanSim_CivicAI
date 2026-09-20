@@ -1,0 +1,28 @@
+openaq_location_id,station_name,urban_ward_code,parameter_name,has_pm25,has_temperature,has_relativehumidity,has_wind_speed,has_wind_direction,has_no2,has_o3,has_so2,has_co,parameter_count
+6927,"Colaba, Mumbai - MPCB",A,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409510,"Byculla, Mumbai - BMC",E,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+6967,"Sion, Mumbai - MPCB",FN,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409513,"Sewri, Mumbai - BMC",FS,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",GS,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409323,"Worli, Mumbai - MPCB",GS,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409328,"Bandra Kurla Complex, Mumbai - IITM",HE,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",HE,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",HE,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",KE,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+12024,"Chakala-Andheri East, Mumbai - IITM",KE,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+6987,"Vile Parle West, Mumbai - MPCB",KW,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+6945,"Kurla, Mumbai - MPCB",L,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+8039,Mumbai,L,['pm25'],True,False,False,False,False,False,False,False,False,1
+3409329,"Deonar, Mumbai - IITM",ME,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409483,"Chembur, Mumbai - MPCB",ME,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409511,"Shivaji Nagar, Mumbai - BMC",ME,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409514,"Ghatkopar, Mumbai - BMC",N,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+11611,"Malad West, Mumbai - IITM",PN,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+3409479,"Mindspace-Malad West, Mumbai - MPCB",PN,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+6965,"Borivali East, Mumbai - MPCB",RC,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+11606,"Borivali East, Mumbai - IITM",RC,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,False,True,8
+3409512,"Kandivali West, Mumbai - BMC",RC,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+12044,"Kandivali East, Mumbai - MPCB",RS,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+6956,"Powai, Mumbai - MPCB",S,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+12039,"Khindipada-Bhandup West, Mumbai - IITM",T,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9
+12040,"Mulund West, Mumbai - MPCB",T,"['co', 'no2', 'o3', 'pm25', 'relativehumidity', 'so2', 'temperature', 'wind_direction', 'wind_speed']",True,True,True,True,True,True,True,True,True,9

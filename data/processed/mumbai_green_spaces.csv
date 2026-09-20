@@ -1,0 +1,990 @@
+green_space_id,green_space_name,address,bmc_department,ward_code_source,twitter_handle,website,latitude,longitude,source_file,source,coordinate_valid
+1,Colaba Woods Garden,"Colaba Wood Garden, Capt.Prakash Pethe Marg, behind Cuffe Parade Police Station. Cuffe Parade",Garden & Trees,A,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,18.9123,72.8183,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2,Priyadarshini Park,"Napeansea Road, Malabar Hill D ward",Garden & Trees,D,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,18.9572,72.799,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+3,Amerson Garden,"Bhulabhai Desai Road, Near Breach candy hospital",Garden & Trees,D,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,18.9695,72.8022,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+4,Slop Behind Babulnath Temple,"Behind Babulnath Temple , New Khareghat Colony , Babulanath Road",Garden & Trees,D,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,18.9579,72.808,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+5,"Welington Club , Keshavrao khade Road, Mahalaxmi","Welington Sprot club , Mahalaxmi , Mumbai",Garden & Trees,D,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,18.9772,72.8166,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+6,"RG at 358 Tenements, Narayan Pujari Nagar, KAG Marg ,worli",,Garden & Trees,GS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,18.5935,72.485,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+7,Shahid Ashok Kamate Manoranjan Maidan,"Shahid Ashok Kamate Manoranjan Maidan , Shivajinagar",Garden & Trees,ME,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.0667,72.9227,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+8,Eastern freeway Tunnel top Panjarapol,"Eastern freeway tunnel Top, Panjarapol",Garden & Trees,ME,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,18.6454,73.8523,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+9,Bhakti park Garden,"Bhakti park Garden CTS no. 1A/4, 1A/10",Garden & Trees,MW,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.0285,72.8807,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+10,Bhakti Park,"Bhakti Park, C.T.S No. 1A/14, near MHADA building, free way, Chembur,",Garden & Trees,MW,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.0285,72.8807,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+11,Dr. Keshav Baliram Hedgewar Udyan,"Dr. Keshav Baliram Hedgewar Udyan, Ghatkopar (E)in 'N' ward",Garden & Trees,N,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.073,72.9058,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+12,Nana nani Park,"Nana nani Park , 194 Ghatkopar East",Garden & Trees,N,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.0778,72.8997,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+13,RG Plot bearing CTS no. 50B,"RG plot no. 50 B, LBS Road, Ghatkopar West",Garden & Trees,N,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.0856,72.9082,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+14,BMC Playground,"Playground plot – CTS No. 2452 & 2955, Village Manori, Malad (W)",Garden & Trees,PN,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.2069,72.7775,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+15,Dr Abdul Kalam azad garden,"bdul Kalam azad garden,aksa village,marve road,malad(w)",Garden & Trees,PN,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1777,72.8625,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+16,Shree Mahant Rambalak Dasaji Mahatyagi udyan,"Dr Abdul kalam aazad garden , aksa village,madh marve road,malad(W)",Garden & Trees,PN,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1816,72.8596,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+17,Chacha Nehru Udyan,"Chacha Nehru Udyan,C.T.S. No. 756, 757, Behind Swatantrata Udyan, Malad (W)",Garden & Trees,PN,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1885,72.8403,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+18,Swatantraveer Sawarkar manorajan maidan,"Swatantraveer Sawarkar manorajan maidan, CTS No. 1406/A/21, Goregaon (W), (mind space garden)",Garden & Trees,PS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.155,72.85,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+19,"TDR Plot CTS No. 1230/B (pt), near Infant Jesus School,village Malad South Malad West","TDR Plot CTS No. 1230/B (pt), near Infant Jesus School,village Malad South Malad West",Garden & Trees,PS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1547,72.8574,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+20,"CTS No. 586/7/A, S. No. 139, Near Hub Mall, W. E. Highway, Goregaon (E)","CTS No. 586/7/A, S. No. 139, Near Hub Mall, W. E. Highway, Goregaon (E)",Garden & Trees,PS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1713,72.8725,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+21,"CTS No. 620/F, Village Chincholi, Gokuldham, Opp. Santosh Nagar, Goregaon (E)","CTS No. 620/F, Village Chincholi, Gokuldham, Opp. Santosh Nagar, Goregaon (E)",Garden & Trees,PS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.178,72.8398,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+22,"Plot CTS No.184/G,S.No.61,71,74 village pahadi,gogtewadi/opp. Walia terrace Goregaon East","Plot CTS No.184/G,S.No.61,71,74 village pahadi,gogtewadi/opp. Walia terrace Goregaon East",Garden & Trees,PS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1681,72.8522,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+23,"Sant Nirankari Garden TDR plot no. 1195/1, 1217 of Village Malad (South), Goregaon (W)","Sant Nirankari Garden TDR plot no. 1195/1, 1217 of Village Malad (South), Goregaon (W)",Garden & Trees,PS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1738,72.8408,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+24,Plot CTS No. 97/A/23/B Upper Govind nagar Malad East,Plot CTS No. 97/A/23/B Upper Govind nagar Malad East,Garden & Trees,PS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1753,72.8537,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+25,BMC Garden,"Plot bearing CTS NO. 1C/1 at Link road, near Mahaveer nagar signal, borivali west in R/Central west",Garden & Trees,RC,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.2173,72.8396,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+26,"CTS NO. 384, Rajmata Jijau udyan, Borivali west R CENTRAL WARD","Amarkant Zha Road, Borivali west",Garden & Trees,RC,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.2252,72.8444,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+27,"Shahid Tukaram Ombale Garden, Dahisar west",Plantation of trees by Miyawaki method at Tukaram Ombale Garden Dahisar west in R/N ward,Garden & Trees,RN,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.237,72.8317,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+28,"cts no 108,109,110 at Dahisar west","Plantation of trees by Miyawaki method atPlot bearing cts no 108,109,110 at Dahisar west in R/N ward",Garden & Trees,RN,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.2595,72.8538,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+29,Dahisar cemetry Dahisar west,Plantation of trees by Miyawaki method atDahisar cemetry Dahisar west in R/N ward,Garden & Trees,RN,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.2605,72.8553,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+30,Green Park Garden,"Plantation of trees by Miyawaki method atGreen park Garden, I.C. Colony, Dahisar west in R/North ward",Garden & Trees,RN,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.2515,72.8475,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+31,Pramod Navalkar udyan,"Pramod Navalkar udyan,Garden plot at Thakur Complex bearing CTS No.744/4, 748/4, Kandivali(E) Mumbai 400101.",Garden & Trees,RS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.2126,72.8188,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+32,"Veer Abdul hamid udyan, CTS No. 171/1A/4(pt)","Veer Abdul hamid udyan, CTS No. 171/1A/4(pt) Village Akurli, At Akurli Road, Kandivali(E) Mumbai 400101",Garden & Trees,RS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1983,72.8685,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+33,Sahitya Samrat Aanabhau Sathe Manoranjan Maidan,"Sahitya Samrat Aanabhau Sathe Manoranjan Maidan,Plot bearing C.T.S. No. 171/1A/09, Lokhandwala Complex, Kandivali (E)Mumbai 400101",Garden & Trees,RS,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1976,72.8699,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+34,Lakefront of Powai Lake,Lakefront of Powai Lake,Garden & Trees,S,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1273,72.9048,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+35,Hiranandani Gardens,"C.T.S. no. 7/2, Hiranandani Gardens, Powai",Garden & Trees,S,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1154,72.9091,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+36,Bharatratna Atal Bihari Vajpeyee Udyan,"Bharatratna Atal Bihari Vajpeyee Udyan, Cliff Avenue, Hiranandani Gardens, Powai",Garden & Trees,S,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1154,72.9091,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+37,"Bhandup Complex,Darga rd,khindipada,Mulund (w),Mumbai-400082","Behind Inspection Bungalow Bhandup Complex Water Treatment Plant,Khindipada Bhandup west, Mumbai 400 078.",Garden & Trees,S,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,,,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",False
+38,Dr. A.P.J. abdul Kalam Garden,miyawaki method at Dr. A.P.J. abdul Kalam Garden Mulund (E) in T ward,Garden & Trees,T,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1757,72.9721,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+39,R.R. Patil garden,"R.R. Patil garden, Hariom Nagar Mulund East in T ward",Garden & Trees,T,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,19.1985,72.9748,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+40,Strip Garden at Lala lajpatrai road,"Strip Garden at Lala lajpatrai road, near Government Colony, Haji Ali",Garden & Trees,G/S,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,18.98,72.81,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+41,Colaba Woods Garden,"Colaba Wood Garden, Capt.Prakash Pethe Marg, behind Cuffe Parade Police Station. Cuffe Parade",Garden & Trees,A,@mybmcGardens,https://portal.mcgm.gov.in/irj/portal/anonymous/qlgardenauth,18.9123,72.8183,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1892,"Veermalji Makaji Bohra Maidan,",,,,,,18.966105,72.825859,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1893,R.G. Plot at 10th lane Kamathipura,,,,,,18.966269,72.825639,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1894,"Tank Square Maidan,",,,,,,18.970946,72.81104,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1895,"Sant Rohidas Udyan,",,,,,,18.9798457,72.8278889,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1896,"R.G. Plot at 5th Sankhali Street,",,,,,,18.973295,72.828427,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1897,"R.G. Plot In between BIT chawl no.6 & 7,",,,,,,18.967311,72.838311,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1898,"Suresh Vishwanath Acharekar Maidan,",,,,,,18.987966,72.83508,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1899,"R.G. Plot at N. M. Joshi Marg,",,,,,,18.9802357,72.8309298,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1900,"R.G. Plot at Maulana Azad Road,",,,,,,18.97663,72.827081,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1901,"R.G. Plot at Vaishali Nagar,",,,,,,18.980096,72.824071,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1902,"R.G. Plot at Gel Street,",,,,,,18.976833,72.825145,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1903,"Batliboy Compound Maidan,",,,,,,18.984826,72.840546,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1904,"P.G. Plot at Laxmiwadi,",,,,,,18.985135,72.836598,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1905,"Kai. Eknath (Bhai) Maruti Bandhal Maidan, (Nawab Tank Maidan),",,,,,,18.966027,72.845135,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1906,नवलचंद शहा उद्यान,,,,,,19.062651,72.885452,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1907,,,,,,,19.062684,72.882077,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1908,हुसैनी मनोरंजन मैदान,,,,,,19.060588,72.876798,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1909,छत्रपती शिवाजी महाराज उद्यान,,,,,,19.0531255,72.869785,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1910,मॉँसाहेब मीनाताई ठाकरे बॉटेनिकल उद्यान,,,,,,19.05162,72.879992,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1911,गांधी मैदान,,,,,,19.077407,72.881586,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1912,राम गणेश गडकरी मैदान,,,,,,19.067449,72.875822,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1913,छत्रपती शिवाजी महाराज मैदान,,,,,,19.061887,72.881222,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1914,स्वातंत्र्यवीर विनायक दामोदर सावरकर क्रीडांगण,,,,,,19.058054,72.881267,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1915,छत्रपती शिवाजी महाराज पार्क,,,,,,19.091908,72.885747,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1916,119F/4,,,,,,19.120071,72.895958,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1917,पुण्यश्लोक अहिल्याबाई होळकर मैदान,,,,,,19.117303,72.892425,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1918,संत शिरोमणी रोहिदास मैदान,,,,,,19.117934,72.892434,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1919,डॉ दत्ता सामंत मैदान,,,,,,19.118019,72.88752,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1920,वीरमाता जिजाबाई भोसले मैदान,,,,,,19.113608,72.896539,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1921,समाजसेविका सावित्रीबाई फूले मैदान,,,,,,19.112854,72.896264,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1922,डॉ बाबासाहेब आंबेडकर मैदान,,,,,,19.0639706,72.8836458,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1923,गंगाराम गोविंद साळगावकर उद्यान,,,,,,19.0635059,72.8836599,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1924,श्री छत्रपती शिवाजी महाराज क्रीडांगण,,,,,,19.054356,72.870214,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1925,मुक्तादेवी मनोरंजन मैदान,,,,,,19.054483,72.875096,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1926,एकनाथ रामचंद्र कोपर्डे मनोरंजन मैदान,,,,,,19.067434,72.876998,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1927,मीनाताई ठाकरे मनोरंजन मैदान,,,,,,19.11063,72.894455,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1928,,,,,,,19.1171186,72.903146,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1929,,,,,,,19.116072,72.903708,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1930,श्रावण बाळ मनोरंजन मैदान,,,,,,19.090687,72.8941,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1931,वीरमाता जिजाऊ भोसले मनोरंजन मैदान,,,,,,19.094156,72.894483,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1932,,,,,,,19.11043,72.900671,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1933,राजे शिव छत्रपती मनोरंजन मैदान,,,,,,19.070842,72.877691,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1934,प्रमोदजी महाजन मनोरंजन मैदान,,,,,,19.086717,72.891312,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1935,sheetal talav,,,,,,19.084125,72.88181,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1936,श्रीमती आनंदीबाई सुर्वे उद्यान,,,,,,19.102106,72.900255,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1937,साईबाबा पार्क,,,,,,19.100602,72.892938,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1938,"Late. Bacchu Khan Maidan,",,,,,,18.965281,72.831179,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1939,"Mastan Talav Maidan,",,,,,,18.9650277,72.8253854,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1940,"Lucky Compound, Maidan,",,,,,,18.974335,72.828797,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1941,"Tank Pakhadi Maidan,",,,,,,18.975693,72.829525,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1942,"Garden Near Ashirwad Building,",,,,,,18.983411,72.832479,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1943,"Maidan adjoining to VJBU at the Junction of E.S. Patanwala and Dr. Babasaheb Ambedkar Marg,",,,,,,18.9801424,72.8344321,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1944,"Garden at Vaikuntdham Cemetry,",,,,,,18.977441,72.847353,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1945,V R Tulla Maidan,,,,,,18.966085,72.826843,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1946,राजमाता अहिल्याबाई होळकर उद्यान,,,,,,19.060903,72.872098,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1947,राम गणेश गडकरी उद्यान,,,,,,19.067728,72.875806,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1948,भारतरत्न प्रियदर्शनी इंदिरा गांधी उद्यान,,,,,,19.074929,72.885502,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1949,परमवीर शहिद अब्दुल हमीद उद्यान,,,,,,19.077964,72.881332,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1950,नलिनी मोहनराव सावंत उद्यान,,,,,,19.079998,72.880137,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1951,जय जवान उद्यान,,,,,,19.085986,72.881412,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1952,गंगाराम धोंडू साटम उद्यान,,,,,,19.0903113,72.887238,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1953,काशीनाथ पांडुरंग शिर्के मैदान,,,,,,19.099524,72.893558,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1954,Padmakar Tukaram Mane Udyan,,,,,,18.969629,72.829858,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1955,Baby Garden,,,,,,18.9735897,72.8239576,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1956,Abdulla Brelvi Garden,,,,,,18.985978,72.832438,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1957,Shahid Nete Bhai Sangare Udyan,,,,,,18.980976,72.82731,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1958,"Sant Gadge Maharaj Udyan,",,,,,,18.980986,72.82689,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1959,"Dayan Baug Khandia Street Udyan,",,,,,,18.963173,72.829586,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1960,"Police Inspector Shahid Shashank Shinde Udyan,",,,,,,18.969545,72.842699,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1961,"Mohammad Hussein Maidan,",,,,,,18.9721213,72.824776,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1962,"Abdul Rehman Soofi Maidan. (Zullha Maidan),",,,,,,18.974416,72.827158,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1963,"R.G. plot at National Textile Mill No. 2 & 3,",,,,,,18.986772,72.839479,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1964,"R.G. plot at Ghass gully,",,,,,,18.978142,72.823823,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1965,Garlic compound,,,,,,18.9795693,72.8282101,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1966,R.G. Plot at Laxmi building,,,,,,18.979211,72.83161,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1967,"Garden plot at Nariman Point, J. Bajaj road,",,,,,,18.9238694,72.8217029,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1968,"Garden at C.T.S.No.807, Mount Mary Road, Bandra (W), Mumbai - 50.",,,,,,19.049,72.822,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1969,"Sadhu Vaswani Garden, Junction of S.V.Road and Turner Road, Bandra (W), Mumbai- 50.",,,,,,19.0597266,72.8372402,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1970,"Madhukar Kulkarni Udyan Junction at Ramdas Naik Marg and Carmel Road, Bandra (W), Mumbai- 50.",,,,,,19.052,72.824,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1971,"Garden CTS No. 899/B, near Taj Land End hotel, Band Stand, B.J.Road, Bandra (W) Mumbai- 50.",,,,,,19.0426054,72.8182635,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1972,"Garden Plot No.906-B, Behind Taj Land End, B.J.Road, Bandra (W), Mumbai - 50.",,,,,,19.0421867,72.8190277,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1973,"Garden near Shatranj Hotel, Union Park, Bandra (West), Mumbai- 50.",,,,,,19.071,72.824,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1974,"Garden at the junction of Dadabhai X Road No.1 & 2, Santacruz (W), Mumbai- 54.",,,,,,19.086,72.833,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1975,"Garden adjacent to Glaxo Apt., St.John Baptista Road, Bandra (W), Mumbai- 50.",,,,,,19.047,72.823,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1976,"Garden at Boran Road, Bandra (W), Mumbai- 50.",,,,,,19.055,72.833,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1977,"Plot No. 78, TPS, Khari Village, S.V.Road, Khar (W), Mumbai- 50.",,,,,,19.065,72.837,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1978,"R.G of St Joseph Road Opp Chimbai Municipal School Play ground at St Joseph Road Bandra (W), Mumbai- 50.",,,,,,19.057,72.824,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1979,"Swami Vivekanand Sarovar S.V Road Bandra (W), Mumbai- 50.",,,,,,19.0561176,72.8376575,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1980,"R.G. Of the Junction Of St.Martins Road & Raghunath Road, Bandra West, Mumbai- 50.",,,,,,19.058,72.835,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1981,"Madhu Park at C.D Road Khar (W), Mumbai- 52",,,,,,19.0714692,72.8356797,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1982,"General Arunkumar Vaidya Garden,Off.Gen.Arrunkumar Vaidya Road,Bandra Reclamation, Bandra W (Part of plot used as garden",,,,,,19.0525293,72.8306934,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1983,"Step garden at Mount Mary road Bandra west, Mumbai- 50.",,,,,,19.048,72.822,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1984,"Garden below milan flyover, Santacruz (W), Mumbai- 54",,,,,,19.090328,72.8407843,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1985,"Garden at B.J Road, Opp.Father Agnel Ashram ,Bandstand, Bandra West, Mumbai- 50. (Gazebo plot)",,,,,,19.045,72.819,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1986,"Nilgiri Forest Garden at Linking Road, Bandra West, Mumbai- 50.",,,,,,19.062,72.835,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1987,"Joggers park near Otters club, Bandra (W), Mumbai -50",,,,,,19.059,72.821,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1988,"Nandadeep Udyan, Opp. Kalanagar, W.E. Highway, Bandra (East) Mumbai- 400 051.",,,,,,19.05337,72.84629,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1989,"Garden at Shivaji Nagar Mun. Tenament, Bandra (East) , Mumbai 400 051.",,,,,,19.060786,72.84268,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1990,"Late Shri Madhukar Sarpotdar Udyan, Kadamwadi, Near Mathuradas Colony, Santacruz (East), Mumbai 400 055.",,,,,,19.078339,72.859767,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1991,"A. C. Keluskar Udyan , Beside Western Express Highway , Below Vakola Bridge, Santacruz (East), Mumbai-400055",,,,,,19.0812,72.8464,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1992,Garden at plot bearing CTS No. 5013 A/2(pt) located at the junction of CST road and Huns bugra road,,,,,,19.07459,72.86073,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1993,"Savitribai phule garden Opp. Saint merry High school , Kalina , Santacruz(E)",,,,,,19.07811,72.86817,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1994,"Dinkar J. Patel Udyan,Opposite V.N.Desai Hospital, Santacruz/East, Mumbai-400055.",,,,,,19.07916,72.84407,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1995,"Dr. Bhabasaheb Ambedkar Udyan, Near Kherwadi Junction, Bandra (E), Mumbai- 400 051.",,,,,,19.06058,72.8493,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1996,"Garden at CTS No. 4875/C, 5613(Pt), 5614/A, 5648/A at Sunder Nagar, Kalina, Santacruz/East,Mumbai-400098",,,,,,19.07421,72.86414,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1997,"Chh. Shivaji Maharaj Kridangan, Kherwadi, Bandra/East Mumbai-400051.",,,,,,19.0599,72.84414,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1998,,,,,,,19.05974,72.84526,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+1999,"Dindayal Upadyay Kridangan, Dhobighat Road, Vakola, Santacruz/East,Mumbai-400055.",,,,,,19.08074,72.84954,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2000,"Kalina Tank Land, CTS No. 6544,opp. St. Anthony High School, Kalina, Santacruz/East, Mumbai-400098.",,,,,,19.07756,72.86861,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2001,"School attached PG near Kalina Municipal School , Near Gurudwara, Santacruz(E)",,,,,,19.07705,72.86092,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2002,"P.G at Manipada, Sundernagar, Kalina, Santacruz/East, Mumbai - 400098.",,,,,,19.07451,72.86254,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2003,"Narali baug garden, Govt colony, near Kherwadi Police station, Santacruz E , Mumbai-400 051",,,,,,19.06614,72.85014,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2004,"Prabodhankar thakre udyan , CTS No 169/4 & 168/9, SNo 42, H.No 2 (P)",,,,,,19.136,72.865,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2005,"Shahid Major Sandeep Unnikrishnan Udyan,",,,,,,19.1356254,72.8649902,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2006,CTS No. 244 B,,,,,,19.1130188,72.8669798,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2007,"Sant Nrankari baba Hardev Sihaji Maharaj Udyan,CTS No. 245 A(Pt), 179 (E)",,,,,,19.1138171,72.8678389,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2008,"Shree Sai Leela Udyan, CTS No. 382 (D)",,,,,,19.1279219,72.8598675,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2009,"Hemant Karkare Udyan, CTS NO 167 A part, A2 - G2, A1 - G3, C1 - G4, C3 - G5, Hissa No 2, Mumbai-60.",,,,,,19.136,72.866,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2010,"Chhatrapati Rajaram Maharaj Udyan, CTS no. 102 & 99(P) Tikka no 24 ,",,,,,,19.1359773,72.8544984,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2011,"Nana Nani Park, CTS No FP 186 TPS V Garden",,,,,,19.0929966,72.8480693,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2012,"Garden at the junction of Linking Road & Water Field Road, Opp. National College, Bandr (W), Mumbai- 50.",,,,,,19.064,72.834,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2013,"P.G.of St.Pual Road, Bandra (W)Mumbai-50",,,,,,19.058,72.824,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2014,"P.G.of St.Andrews Road, Bandra (W) Mumbai-50",,,,,,19.056,72.826,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2015,"Dharamaveer Sambhaji udyan and Kreedangan , Khotwadi,TPS VI, Santacruz (W), Mumbaibai -54",,,,,,19.0885153,72.8409994,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2016,"Veermata Jijabai Bhosale Kridangan at St. John Baptista Road, Bandra (W) Mumbai-50",,,,,,19.048,72.824,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2017,"P.G. Near St.Elias High School, Dr. Ambedkar Road Bandra (W) Mumbai-50",,,,,,19.073,72.827,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2018,"Mother Teressa Playground at 2nd Hasnabad Lane, Khar (W) Mumbai-54",,,,,,19.074,72.839,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2019,"P.G.at Pali Mala Road,adjacent, St.Anne High School. Bandra (W) Mumbai-50",,,,,,19.0635035,72.825972,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2020,"P.G. at Khar Gymkhana on 16th Road, Khar (W) Mumbai-52",,,,,,19.069,72.831,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2021,"Swami Muktanand Park, Saraswati Road, Santacruz (W), Mumbai- 50.",,,,,,19.082,72.831,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2022,"Guru nanak park at 16th Road Bandra(w), Mumbai- 50.",,,,,,19.0607154,72.830764,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2023,"Chhatrapati Sambhaji Udyan Union Park. Opp. Dr Ambedkar Road. Khar.(w), Mumbai- 52",,,,,,19.0709712,72.8273224,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2024,"Jamshedji Hasnji Katrak Udyan Pery Cross Road Bandra(w), Mumbai- 50.",,,,,,19.0605212,72.8230054,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2025,"Raosaheb Patwardhan Udyan,32nd Road Bandra (w), Mumbai- 50.",,,,,,19.064,72.834,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2026,"Vishanu Buva K.Udyan, S.V Road,Khar (W), Mumbai- 52",,,,,,19.0732476,72.8377194,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2027,"Rotary Park Main Avenue Road & 16th Road Khar (w), Mumbai- 52",,,,,,19.0773482,72.8306164,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2028,"Lions Juhu Municipal Children Park at Juhu Road & Linking,Santacruz(w), Mumbai- 54",,,,,,19.0839729,72.834073,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2029,"RG plot at Kantawadi D'Monte Park ,Bandra (w), Mumbai- 50.",,,,,,19.06,72.825,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2030,"Dr. Norman Francis Levis R.G Supari Tank Juncation Of Rebello Road & Mount Carmello Road Bandra(w), Mumbai- 50.",,,,,,19.0513763,72.8264518,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2031,"R.G. plot at D'Monte park Road, Bandra (W), Mumbai- 50.",,,,,,19.0578216,72.825806,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2032,"R.G of the Juncation of B.J.Road & Bhabha Road Bandra (w), Mumbai- 50. (Sea harrier Jet plot)",,,,,,19.0499796,72.8210907,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2033,"R.G of the Juncation of B.J.Road & Bhabha Road Bandra (w), Mumbai- 50. (Fish garden)",,,,,,19.0510836,72.8218031,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2034,"Dr. Babasaheb Ambedkar Recreation Ground Kantawadi Road Plot No 787 Bandra (w), Mumbai- 50.",,,,,,19.0614538,72.8247696,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2035,"Prof. Almeida Park, Prof. Almeida Road, Near Bhabha Hospital, Bandra (W), Mumbai- 50.",,,,,,19.0574271,72.8313997,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2036,"Late Shridhar G. Bagve Udyan Poddar Road Santacruz (w), Mumbai- 54",,,,,,19.085,72.838,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2037,छत्रपती शिवाजी महाराज पार्क,,,,,,19.100174,72.893129,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2038,साहित्यरत्न लोकशाहिर अण्णाभाऊ साठे मैदान,,,,,,19.091928,72.896249,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2039,स्वर्गीय अलका सागर मनोरंजन मैदान,,,,,,19.113255,72.899539,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2040,श्री जगन्नाथ मंदिर क्रीडांगण,,,,,,19.0998299,72.8868326,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2041,भारतरत्न ए.पी.जे. अब्दुल कलाम खेळाचे मैदान,,,,,,19.07466,72.885931,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2042,सेंट मदर तेरेसा उद्यान,,,,,,19.0823319,72.8851442,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2043,चाचा नेहरु मनोरंजन मैदान,,,,,,19.077775,72.884595,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2044,,,,,,,19.077771,72.884382,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2045,,,,,,,19.112444,72.90158,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2046,,,,,,,19.112444,72.90158,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2047,,,,,,,19.112444,72.90158,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2048,,,,,,,19.108901,72.899764,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2049,,,,,,,19.107374,72.900531,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2050,,,,,,,19.106184,72.895611,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2051,गणेश मैदान,,,,,,19.111052,72.89634,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2052,,,,,,,19.077928,72.884345,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2053,Garden plot infront of Markaz masjid,,,,,,19.070484,72.880643,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2054,L. R. Tersee Bhatia Udyan,,,,,,18.9387131,72.8353286,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2055,Horniman Circle Garden,,,,,,18.9320315,72.8349962,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2056,Walter D’souza Garden,,,,,,18.9424735,72.8274487,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2057,Saboo Siddhique Playground,,,,,,18.9482612,72.8376592,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2058,"Chhatrapati Shivaji Maharaj Udyan, Gateway of India",,,,,,18.9228188,72.833872,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2059,"Cooperage Bandstand garden,",,,,,,18.9258086,72.8282763,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2060,"Sabina Chandrashekhar Recreation Ground,",,,,,,18.9245355,72.8303113,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2061,Garden plot at junction of N. Parekh marg & J. Bhosle marg,,,,,,18.9212991,72.826879,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2062,DSK Garden,,,,,,18.9132928,72.8210062,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2063,Pasta lane I Garden,,,,,,18.9188189,72.8278857,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2064,Hutatma Chowk Garden.,,,,,,18.9325483,72.8316973,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2065,"Suraksha Garden,",,,,,,18.9172579,72.8236488,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2066,"CPRA Garden, Cuffe parade",,,,,,18.9149164,72.8216137,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2067,"Colaba Woods Garden, Cuffe parade",,,,,,18.9132387,72.8201146,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2068,"Vikas Garden , Cuffe Parade",,,,,,18.9159061,72.816625,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2069,"F P No 108, TPS 1",,,,,,19.102,72.854,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2070,"Shahid Rajguru Udyan ,CTS No. 1498 A/5",,,,,,19.1020004,72.8790327,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2071,Shahid Bhagat Singh Udyan CTS No. 1498 A/6,,,,,,19.1025163,72.8788993,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2072,"Devidas Vitthal Salsingikar Udyan, CTS No. 175 A (pt)",,,,,,19.1350052,72.8694462,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2073,"Vicharwant Sadguru Wamanrao Pai, CTS.No.453/B/3",,,,,,19.1079882,72.859992,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2074,CTS No. 70 D,,,,,,19.15,72.851,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2075,"CTS No 273,274",,,,,,19.109,72.87,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2076,CTS NO.710 C (P) & 710 D(P),,,,,,19.1106308,72.8844076,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2077,Shahid Ashok Kamate Manoranjan Maidan,,,,,,19.138,72.868,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2078,CTS NO 345A/6,,,,,,19.1134929,72.8852748,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2079,CTS No.379/2 of Chakala,,,,,,19.109,72.859,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2080,"CTS no.115 B,115C,119A/1",,,,,,19.1205123,72.8839011,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2081,CTS no.122A/1,,,,,,19.1200464,72.8846864,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2082,CTS No. 119 A/1,,,,,,19.1211502,72.8815546,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2083,CTS No. FP NO 16 16/1 to 24 and 17,,,,,,19.115,72.862,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2084,"Mother Teresa Udyan, CTS No 398/C and 398/D part Park, Survey No 89 A1",,,,,,19.1086539,72.8616825,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2085,"Ramesh More Park, CTS NO 523, 522, 524 Hissa No 8",,,,,,19.1189002,72.8503587,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2086,"Prabhodankar Thackeray Maidan,CTS NO 252 part, 255 part, 256 part, 257, 258, 259 260 part, 261, 262, 270, 271 part, 272 part, 274/2 part,435 part, Hissa No 23",,,,,,19.1088688,72.849708,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2087,"Anandibai Keskar Park ,F P No 72, TPS 1",,,,,,19.100867,72.8465738,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2088,"CTS No 228/B, survery No 11, Hissa No 2 P, 85 part",,,,,,19.14,72.856,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2089,"Matoshri Meenatai Thackeray Shilpgram, CTS NO. 190/B,",,,,,,19.135,72.871,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2090,Bhausaheb Hire Garden,,,,,,18.970692,72.818539,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2091,Bane Compound,,,,,,18.970344,72.816946,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2092,Jaisinghbhai Solanki Garden,,,,,,18.9649,72.82035,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2093,lolmanya Tilak Garden,,,,,,18.955108,72.813377,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2094,Rajarambapu Suryawanshi Garden,,,,,,18.958392,72.824754,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2095,Amarson Garden,,,,,,18.969544,72.802256,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2096,Johnson &Johnson Garden,,,,,,18.974786,72.80595,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2097,Tulsidas Kilachand Grden,,,,,,18.955672,72.807677,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2098,Pandurangshastri Athavle Garden,,,,,,18.96879,72.814153,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2099,Rock Garden,,,,,,18.95127,72.803679,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2100,Tata Garden,,,,,,18.967139,72.803266,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2101,Swami Samarth Garden,,,,,,18.954008,72.821254,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2102,Banganga Garden,,,,,,18.944959,72.793312,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2103,Playground OPP to Bombay Internatinal School,,,,,,18.956476,72.808736,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2104,S M Joshi Kridangan,,,,,,18.948252,72.79585,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2105,T D R Plot at 12 khetwadi,,,,,,18.960767,72.821441,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2106,August Kranti Garden,,,,,,18.962505,72.810654,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2107,"Pawwala Compound ,Mumbai 04",,,,,,18.960555,72.822796,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2108,Priyadarshini Park,,,,,,18.957275,72.798951,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2109,Signature Garden,,,,,,18.968419,72.803214,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2110,"Late Shri. N. G. Acharya Udyan,",,,,,,19.05295,72.9004327,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2111,"Bharatratna Dr. Babasaheb Ambedkar Udyan,",,,,,,19.0599227,72.9006155,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2112,Swatantrya Sainik Udyan,,,,,,19.0502104,72.9004349,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2113,"Late Shri. D. K. Sandu Udyan,",,,,,,19.0561632,72.8977791,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2114,"Gangamata Udyan,",,,,,,19.0594956,72.8878002,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2115,"CTS No FP NO 483,489 Garden plot",,,,,,19.092,72.844,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2116,"Shyam Nagar Talao, CTS No 18 F,19D",,,,,,19.1382303,72.863219,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2117,"Sitaram Purshottam Sathe Udyan,CTS No . F.P 91, Tikka N0 TPS II",,,,,,19.0995014,72.8486451,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2118,"Swatantrya Veer Savarkar Udyan,CTS No 582",,,,,,19.1049245,72.8460155,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2119,"Sadguru Wamanrao Pai Udyan, CTS No. 21/D",,,,,,19.136,72.864,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2120,"CTS no. 1025, FP no. 112, TPS-II,",,,,,,19.1006698,72.8501848,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2121,"CTS No.1189, of",,,,,,19.1130974,72.8765423,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2122,"Near Milan subway, CTS No FP 521 TPS V,",,,,,,19.0908925,72.8433077,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2123,Plot below Milan Flyover,,,,,,19.0908925,72.8433077,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2124,CTS No. 657 658 Marol Andheri east,,,,,,19.1135414,72.8838349,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2125,CTS No.1483/C,,,,,,19.1037887,72.8769947,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2126,Sant Tukaram Maharaj Park CTS no 131/A/1/E,,,,,,19.1108841,72.8610686,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2127,"MeenaTai Thackeray Udyan, CTS NO 30, 37 part, 338 part, Hissa No 15/16 ,",,,,,,19.1081654,72.8601698,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2128,CTS NO 169/3,,,,,,19.136,72.864,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2129,"Sanghnirmata Dr. Keshav Baliram Hedgewar Maidan, CTS No FP NO 1 and 2,",,,,,,19.1033163,72.8500379,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2130,"Sainagar Maidan, CTS NO 458 part, 459 part,",,,,,,19.1140822,72.8470367,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2131,CTS NO 330 part,,,,,,19.1295322,72.8557962,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2132,"CTS No 168/6, 167 A part, Survey No 34, Hissa No 2,",,,,,,19.137,72.867,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2133,"CTS NO 424, TPS 5,",,,,,,19.0950935,72.8446274,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2134,"Shahaji Raaje Kreedangan , CTS NO 418/C",,,,,,19.1069202,72.8482579,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2135,"CTS No. 1296, S.No.153",,,,,,19.1153103,72.876258,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2136,Vishwakarma Kridangan,,,,,,19.1104721,72.8525223,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2137,"Shriman Balasaheb Thakare Kridangan, CTS No. 175 B,176 A",,,,,,19.106049,72.8625557,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2138,"CTS NO 294, Tikka No 16, 17",,,,,,19.1004621,72.8685336,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2139,"Bharatratna Dr. Babasaheb Ambedkar Maidan, CTS No 40/E,",,,,,,19.126,72.829,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2140,"Shri Gagangiri Maharaj Maidan, CTS NO 481,",,,,,,19.131,72.863,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2141,"Parampujya Swami Shri Gagangiri Maharaj Kridangan,",,,,,,19.1070598,72.865122,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2142,"Chattrapati Shivaji Maharaj Kridangan, CTS No 371/B,373, 375/B, 375/C, 376",,,,,,19.1297138,72.8589401,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2143,"CTS No, 368/2A and 2 B,",,,,,,19.1310499,72.8640147,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2144,"CTS No, 368/294",,,,,,19.1248767,72.8621667,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2145,"Waman Mangesh Dubhashi Kridangan, CTS NO FP NO 296, TPS 2,",,,,,,19.0979239,72.8513647,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2146,"Dadasaheb Tatha Shrikrushna Ghaisas Maidan, CTS No. 60 ,",,,,,,19.1326855,72.8506628,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2147,CTS No. 399,,,,,,19.1179056,72.8595127,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2148,CTS No 20 B,,,,,,19.125,72.864,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2149,"CTS No 445/B,445/C,448/B Hissa No 1, survey No 55",,,,,,19.112,72.881,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2150,"Shree Sai- leela Manoranjan Maidan,CTS No.382(B)",,,,,,19.127,72.859,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2151,"Shahid Vijay Salaskar Manoranjan Maidan,",,,,,,19.1373752,72.8655941,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2152,CTS No. 55/7,,,,,,19.1157525,72.8739369,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2153,"Bharat van Udyan,CTS NO 132/A/C/D",,,,,,19.1233774,72.8865563,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2154,CTS NO 191/5,,,,,,19.1340584,72.8702224,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2155,"Matoshri Meenatai Thackeray Maidan,CTS NO 188 & 189",,,,,,19.1367561,72.8709276,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2156,"CTS No 498A/2/3/4,448-D Hissa No 4, Survey No 56",,,,,,19.1127053,72.8820402,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2157,"Sant Dyaneshwar Maharaj Manoranjan Maidan , CTS No. 131/A/1/D",,,,,,19.11,72.86,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2158,"CTS NO 53 P, 54 P, Tikka No 13",,,,,,19.142,72.854,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2159,CTS No 298A/1,,,,,,19.1179164,72.8853976,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2160,CTS 40 B,,,,,,19.127,72.849,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2161,"Shaheed Tukaram Ombale Manoranjan Maidan,CTS No 242, Tikka No 12-20 Known as Govind wadi Talao,",,,,,,19.1179056,72.8595127,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2162,"CTS No 238/C,234 /D",,,,,,19.1173691,72.8623259,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2163,"Mahakali Ganesh Maidan,CTS NO 522 (P) 524, 525, 526",,,,,,19.1292796,72.8690866,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2164,"CTS NO 294/D, Hissa No 3, 4 & 5, Survey No. 24,",,,,,,19.114,72.857,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2165,"Shri K.K. Bhaiyyaji Krishnkumar Bhaiyyaji Manaranjan Maidan, CTS NO 443/B, Hissa No 10, Survey No 56,",,,,,,19.109,72.865,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2166,"Veer Abdul Hameed Manoranjan Maidan, CTS NO 1613/4B/1, Hissa No 1 part, Survey No 86, Hiss No 2,5,7,10, 11 part, Survey No 113, Kondivita Village, Lele Wadi, Village Marol, Andheri (East)",,,,,,19.106,72.88,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2167,"Mother Teresa Manoranjan Maidan, CTS No 398/B/part R.G Survey No 89 A1",,,,,,19.1085591,72.861565,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2168,"Shri Swami Samarth Manoranjan Maidan,CTS NO 368/2C",,,,,,19.131,72.863,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2169,"Playground at Borla Village, Moti Baug, CTS No.619/27, Village Borla",,,,,,19.0498802,72.9084002,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2170,"Baba Hardev Singh Gardesn,TDR Plot at Borla Village CTS No.619/2, 619/3 (pt)",,,,,,19.0500027,72.9075812,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2171,"TDR plot at Anik village Depot. CTS no. 214-C,",,,,,,19.0320261,72.8905917,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2172,"PG plot at Collectors colony CTS no. 453/B, 454 (pt), Wadhavali, Chembur",,,,,,19.0446,72.8914,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2173,"PG plot at Atur Park Road, Borla village, CTS no. 612/B, Chembur",,,,,,19.0502,72.9048,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2174,"P.G. Plot bearing CTS No. 586/9A, N. B. Patil Road",,,,,,19.0498802,72.9084002,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2175,"P.G. Plot bearing CTS No. 179, 179/137, Mukund Nagar, Chembur",,,,,,19.0333,72.8962,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2176,Dr. Ambedkar udyan,,,,,,19.052796,72.919011,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2177,Siddharth Udyan,,,,,,19.0580207,72.9122909,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2178,Sant Rohidas Udyan,,,,,,19.05092,72.923073,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2179,Kumar Bhupesh Udyan,,,,,,19.0551693,72.9225321,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2180,"Garden Plot,A Block ,",,,,,,19.05285,72.92021,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2181,"Mahatma Jyotiba Phule Udyan,",,,,,,19.0536945,72.9213525,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2182,"CTS NO.2/10, Garden Plot,Lotus Colony, Abdul Hameed Marg, Shivaji Nagar, Govandi.",,,,,,19.06535,72.92227,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2183,Shahid Ashok Kamate manoranjan maidan,,,,,,19.05745,72.92681,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2184,Amarnath Patil Manoranjan Maidan,,,,,,19.0509484,72.9148512,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2185,Rajarshi Shahu Maharaj Manoranjan Maidan,,,,,,19.0605,72.91652,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2186,Ustad Lahuji Salve manoranjan maidan,,,,,,19.052796,72.919011,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2187,Bindu Madhav Thakare manoranjan maidan,,,,,,19.0432581,72.9250467,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2188,Dattaram Ganpat Patil Manoranjan Maidan,,,,,,19.050832,72.9208329,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2189,Savitribai Phule Manoranjan Maidan,,,,,,19.15132,72.82895,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2190,RG Plot CTS No. 373/4 0f Deonar Village.,,,,,,19.04509,72.91647,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2191,"RG Plot CTS No. 767 (pt.) & 768 (pt.) Borla Village,Deonar Farm Road.",,,,,,19.04375,72.91317,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2192,Badalu Agrwal Manoranjan Maidan,,,,,,19.041714,72.935921,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2193,"CTS NO.769/2,Deonar Farm Road.",,,,,,19.04375,72.91317,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2194,Borabadevi Manoranjan Maidan,,,,,,19.0549671,72.9114067,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2195,"RG Plot at C.T.S. No. 169,Maravali , Rahulnagar",,,,,,19.04878,72.90587,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2196,"Dr. Keshav Baliram Hedgewar Udyan,",,,,,,19.074698,72.905323,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2197,Gopinth Munde Traffic Training park,,,,,,19.073648,72.8335222,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2198,"Nana Nani Park,",,,,,,19.03107,72.9050352,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2199,"Shrimad Vallabhacharya Rajawadi Udyan,",,,,,,19.0782719,72.9024994,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2200,"Lions children Park,",,,,,,19.0761059,72.9060018,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2201,"Subhash Chandra Bose Udyan,",,,,,,19.0883959,72.9105931,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2202,"Saint Gadge Maharaj Udyan,",,,,,,19.0945843,72.913094,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2203,"Kesharwala Udyan,",,,,,,19.0797566,72.9053676,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2204,"Saibaba Udyan,",,,,,,19.0863054,72.9110804,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2205,"Rajkamal Udyan,",,,,,,19.0943743,72.9103092,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2206,"Jaswantrai Mehta Udyan,",,,,,,19.0832086,72.9070893,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2207,"Dr.Babasaheb Amedkar Udyan,",,,,,,19.0604916,72.8493048,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2208,"Shankar Genuji Adangale baba Udyan,",,,,,,19.0604916,72.8493048,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2209,"A Block Udyan,",,,,,,19.097045,72.904438,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2210,"H Block Udyan,",,,,,,19.0994463,72.9031464,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2211,S.M. Jadhav Udyan,,,,,,19.0844709,72.9101371,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2212,"Nana Nani Park,",,,,,,19.03107,72.9050352,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2213,"50 B, recreation ground",,,,,,19.03107,72.9050352,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2214,"Kamgar Nete Dattaji Salvi Maidan,",,,,,,19.1009832,72.9041374,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2215,"Gen Arun Kumar Vaidya maidan,",,,,,,19.0825705,72.9114236,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2216,Acharya Atre Maidan,,,,,,19.0852737,72.9147921,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2217,Dadaseb Gaikawad Udyan,,,,,,19.05285,72.92021,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2218,"Garden Plot ,Garden Plot in Gautam Nagar Colony No.1,Govandi",,,,,,19.0583836,72.9135594,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2219,"Usha Suresh Patil udyan,",,,,,,19.05745,72.92681,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2220,Dr. Babasaheb Ambedkar Udyan,,,,,,19.0608169,72.921726,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2221,"Shree Swami Samarth Udyan ,",,,,,,19.0571547,72.9238363,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2222,Name,,,,,,19.05279,72.920349,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2223,Sahid Ashok Kamate manoranjan maidan,,,,,,19.06535,72.92227,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2224,Name,,,,,,19.06535,72.92227,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2225,"Shriman Balasaheb Thakare Play ground ,",,,,,,19.05279,72.920349,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2226,Dindayl Upadhyay Udyan,,,,,,19.0388637,72.9454013,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2227,"Mahavir Education Trust Kridangan ,",,,,,,19.04757,72.9211,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2228,Bashir Mohd. Mulla Maidan,,,,,,19.04447,72.92948,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2229,"KrantiSingh Lahuji Salve Maidan ,",,,,,,19.0447328,72.929593,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2230,"Lokanete Gopinath Munde Play ground ,",,,,,,19.01174,72.89833,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2231,"Dr. A. P.J. abdul kalam maidan ,",,,,,,19.0564776,72.9261071,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2232,"Karbala Maidan,",,,,,,19.039881,72.9501975,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2233,Lokashahir Annabhau sathe Play ground,,,,,,19.05134,72.90877,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2234,"PG Plot CTS No.166 B,",,,,,,19.05449,72.91484,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2235,"CTS No. 342 , Aanik Village,",,,,,,19.01174,72.89833,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2236,Sharadbhau Acharya Maidan,,,,,,19.01733,72.89024,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2237,Name,,,,,,19.01733,72.89024,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2238,Dr. Babasaheb Ambedkar Maidan,,,,,,19.07402,72.86984,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2239,Mata Ramabai Ambedkar Maidan,,,,,,19.12748,72.82171,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2240,Chhatrapati Shahu Maharaj manoranjan maidan,,,,,,19.028742,72.9328919,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2241,Sahakar Maharshi Rajaram Bapu Patil R.G.,,,,,,19.05745,72.92681,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2242,J. Navmal Maidan,,,,,,19.05459,72.8985,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2243,Garden Plot adjoining S. N. Acharya School,,,,,,19.0282509,72.8903443,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2244,"Garden Plot Near Gandhi Maidan,",,,,,,19.0580167,72.8979786,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2245,"Garden Plot Near Sai Arpan Building, Mysure Colony, Chembur CTS No.200/B, 201 Village Anik",,,,,,19.0320261,72.8905917,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2246,"Bhakti Park Garden,",,,,,,19.0285,72.8807,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2247,"TDR plot at Anik village Depot, CTS no. 214, 214 (pt), 216 (pt), 214 F (pt), 215 E (pt)",,,,,,19.0285,72.8807,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2248,"Lokshahir Annabhau Sathe Udyan,",,,,,,19.0539741,72.8844875,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2249,"Jaitwan Udyan,",,,,,,19.0609197,72.8898623,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2250,"Sadguru Jairamdas Kunj Udyan,",,,,,,19.051272,72.892341,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2251,"Late Shri. R. H. Shisode Udyan,",,,,,,19.0596998,72.9034326,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2252,"Playground Near Smruti Building, Pestom Sagar. CTS No.623 (pt.)",,,,,,19.0706337,72.9047069,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2253,"R.G. Vatsalatai Naik Nagar, Suman Nagar, E.E. Highway, Chembur CTS No.116 (pt.)/ 123 (pt)",,,,,,19.0529299,72.8838697,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2254,R.G. Near Kangra Bhavan,,,,,,19.0724393,72.9034614,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2255,"R.G. at Anik Village Mysure Colony Road, Near Mithul Enclave, Chembur CTS No. 217/B",,,,,,19.0320261,72.8905917,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2256,"R.G. at Anik Village Mysure Colony Road, Near Mithul Enclave, Chembur CTS no.217(C),Mahul Village",,,,,,19.0320261,72.8905917,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2257,"Garden at Vrindavan Colony, Tilak Nagar, Chembur CTS No.7",,,,,,19.07173,72.89996,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2258,Rock Garden,,,,,,19.07173,72.89996,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2259,"TDR plot of Anik village Depot, CTS no. 220 (D), 215 (B)",,,,,,19.0320261,72.8905917,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2260,"Plot bearing CTS No. 669/A, V. N. Purav Road",,,,,,19.0502,72.9048,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2261,Lokmanya Tilak Maidan,,,,,,19.0598432,72.9067813,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2262,"Mahatma Gandhi Maidan,",,,,,,19.0579866,72.8992545,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2263,"Municipal Playground, Tilaknagar",,,,,,19.0667793,72.8943426,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2264,Playground near Ayyappa Temple,,,,,,19.0640547,72.8932917,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2265,"Playground Near Marawali Church, R.C. Marg, Chembur CTS no.316 (pt.), 19 (pt.)",,,,,,19.0406643,72.8932083,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2266,"L.S. Rokade Maidan, Near Municipal School CTS no.49 (pt.)",,,,,,19.0637724,72.8904057,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2267,Shri. Nanak Bhojwani Udyan CTS no.27 (pt.),,,,,,19.05459,72.8985,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2268,Shri Ganesh Udyan,,,,,,19.0672611,72.8961071,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2269,"Playground Near Adarsha Vidyalaya, Sahakar Nagar, Chembur. CTS No.49 (pt.)",,,,,,19.062993,72.88961,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2270,"Playground Near Ghatla Municipal School, ChemburCTS no.586/3",,,,,,19.0523286,72.9075359,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2271,"Garden Plot at Mahul Village Road, Anik Village CTS NO.232/A/ 1/3, Anik",,,,,,19.0320261,72.8905917,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2272,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.1162628,72.9380327,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2273,C.T.S. No. 340,,,,,,19.1171103,72.9331362,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2274,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.1180291,72.9385022,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2275,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.1150549,72.9404812,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2276,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.120904,72.9388052,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2277,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.1144546,72.9362459,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2278,C.T.S. No. 150(pt),,,,,,19.1212514,72.9313716,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2279,C.T.S. No. 350(pt),,,,,,19.1141099,72.9311854,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2280,C.T.S. No. 252c,,,,,,19.1118482,72.9297988,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2281,CTS No-773(pt),,,,,,19.1626,72.9389,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2282,CTS No-547/a,,,,,,19.1623545,72.9378837,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2283,CTS No-411/f,,,,,,19.1517048,72.9404192,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2284,"CTS No-373/A,36/B",,,,,,19.145507,72.929343,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2285,"CTS No.373/A,37/B",,,,,,19.1460841,72.9301072,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2286,"CTS No.373/A,36B/A",,,,,,19.1457107,72.9299817,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2287,Adishakti Shree Ekveeramata Kridangan.,,,,,,19.15121,72.94932,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2288,CTS No.301/D,,,,,,19.1575943,72.9414599,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2289,CTS No.993,,,,,,19.1520353,72.9348813,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2290,Sahid Jaywant Hanumant Patil R.G.,,,,,,19.1353277,72.9293316,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2291,"CTS No.339A/2, 339A/3",,,,,,19.1581589,72.9451542,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2292,"CTS No-654/C,642/1,426/E",,,,,,19.14392,72.9391,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2293,"CTS No.419/A/1/3,",,,,,,19.1499558,72.9393847,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2294,CTS No-403/B/4,,,,,,19.1510581,72.9403852,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2295,CTS No.607/C/2,,,,,,19.1366295,72.9298,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2296,CTS No-617/B/3,,,,,,19.140985,72.9336882,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2297,"CTS No.198,198/1 to 18",,,,,,19.1535865,72.9340448,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2298,Prabodhankar Thakare Manoranjan Maidan,,,,,,19.1087028,72.9170193,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2299,"CTS no 581/F,588/A,589/A,590/4, 591,592A(pt),594A(pt),597",,,,,,19.2515368,72.8475609,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2300,Jari mari garden,,,,,,19.2542386,72.8648059,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2301,Sane Guruji garden,,,,,,19.254827,72.856965,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2302,CTS No. 535/A/3/4,,,,,,19.2515066,72.8482185,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2303,CTS No.1246,,,,,,19.245114,72.846513,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2304,"CTS No. 2758/A/2, 2758/A/3",,,,,,19.24782,72.86939,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2305,CTS No.889,,,,,,19.2508903,72.8513152,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2306,Dahisar cemetary,,,,,,19.26093,72.85535,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2307,"Hutatma Babu Genu Maidan,",,,,,,19.0970424,72.9107439,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2308,"Chhatrapati Shivaji Maharaj Maidan,",,,,,,19.10304,72.9177,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2309,"Jai Maharashtra Ganesh Maidan,",,,,,,19.0888,72.90054,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2310,"MTNL Play Ground plot,",,,,,,19.09202,72.91407,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2311,"Shirishkumar pai Maidan,",,,,,,19.097781,72.901955,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2312,Chittaranjan Kridangan,,,,,,19.0796004,72.899447,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2313,Play Ground plot at Laxmi Baugh Ghatkopar (E),,,,,,19.0933383,72.9182354,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2314,Maharashtra Bhushan Ti. Dr. Nanasaheb Dharmadhikari Kridangan,,,,,,19.0966112,72.9028097,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2315,"Pankheshah Baba Recreation Ground,",,,,,,19.0958397,72.9160287,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2316,"Subhedar Ramji Maloji Ambedkar Udyan,",,,,,,19.1025641,72.9184065,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2317,"Meenatai Thakre Udyan,",,,,,,19.0985161,72.9172597,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2318,"Krantiveer Shyamji Krushna Varma Udyan,",,,,,,19.088926,72.896826,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2319,"New Maneklal Maidan,",,,,,,19.0893767,72.9017373,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2320,"R.G.Plot,Nr Mac Lab Kirol gaon",,,,,,19.080306,72.897177,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2321,"R.G.Plot,Nr. Godrej & Boise Ltd.",,,,,,19.103659,72.92831,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2322,"R.G. at Park site Vikhroli (W), 1/10",,,,,,19.1097154,72.9180052,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2323,"Munisuvrat Udyan,Navroji Hill Road, Ghatkopar(W)",,,,,,19.085078,72.90407,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2324,"Clover Recreation Ground,",,,,,,19.080766,72.902095,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2325,"R.G. Plot nr Mahendra & mahendra Park Building,",,,,,,19.0893571,72.8968397,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2326,"R.G. plot bearing CTS No. 50B,",,,,,,19.0981342,72.918805,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2327,Pramod Mahajan Van Udyan,,,,,,19.14189,72.9083,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2328,Chhatrapati Shivaji Maharaj Udyan,,,,,,19.122835,72.9122246,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2329,George Fernandes Rock Garden,,,,,,19.1151301,72.9050233,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2330,C.T.S. No. 2A/4D,,,,,,19.1052466,72.9174681,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2331,"C.T.S. No. 13/D, Powai",,,,,,19.1164731,72.9076811,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2332,"C.T.S. No. 22/2, Powai",,,,,,19.1135007,72.9088011,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2333,Sahakar Maharshi Baburao Paranjape Udyan,,,,,,19.13591,72.9345,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2334,"C.T.S. No. 15/F, Powai",,,,,,19.114821,72.9089774,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2335,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.1162797,72.9336,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2336,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.1196943,72.9372347,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2337,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.1111192,72.9340011,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2338,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.1158647,72.8863492,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2339,"C.T.S. No. 356(pt),kannmawar nagr",,,,,,19.1217374,72.9405057,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2340,CTS No-350(pt),,,,,,19.1130652,72.9333913,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2341,CTS No-339,,,,,,19.1179095,72.9346701,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2342,CTS No-125/121(pt),,,,,,19.1234606,72.9292376,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2343,CTS No-160,,,,,,19.118525,72.9312968,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2344,CTS No-3926,,,,,,19.120208,72.9345425,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2345,CTS NO 281,,,,,,19.1146176,72.9325634,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2346,CTS No-458(pt),,,,,,19.151237,72.9372846,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2347,CTS NO -4c,,,,,,19.1198718,72.9382059,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2348,Pandit Dindayal Upadhyay Udyan,,,,,,19.1194571,72.9066789,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2349,"C.T.S. No. 2A/4B, Vikhroli (W)",,,,,,19.1061354,72.917684,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2350,"C.T.S. No. 13A/1/2, Powai",,,,,,19.1169543,72.9076781,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2351,CTS No. 2853/C,,,,,,19.252286,72.871506,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2352,"Sports Complex Bhavdevi CTS No.140(Pt), 149(Pt), 150, 151(Pt), 171, 172, 173, 174, 175, 177, 178, 185 & 185/1, 186/A (pt) & 186/B (pt), 187, 187/1 To 4, 196, 2790, 88/f, 142, 144, 145, 146, 147, 148,1235/A",,,,,,19.24681,72.85577,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2353,CTS No. 2941/B & 2940/B,,,,,,19.253148,72.873,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2354,Dr.Babasaheb Ambedkar Udyan MCGM,,,,,,19.2068746,72.8702609,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2355,Swatantryaveer Savarkar Udyan MCGM,,,,,,19.19906,72.8556017,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2356,Rajiv Gandhi udyan MCGM,,,,,,19.2133554,72.8507627,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2357,MCGM Garden Near Mihar Complex,,,,,,19.2099232,72.8189364,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2358,MCGM Garden Near Green Hill CHSL,,,,,,19.1971168,72.8706331,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2359,Maharana Pratap Udyan MCGM,,,,,,19.2001875,72.8741918,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2360,Sai Udyan MCGM,,,,,,19.2003776,72.8732204,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2361,MCGM Garden near Bhoomi CHS,,,,,,19.2062682,72.8791174,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2362,"MCGM Playground, Attached to Gundecha School",,,,,,19.2118335,72.8773463,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2363,Rajeev Gandhi Maidan MCGM,,,,,,19.2127755,72.8629078,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2364,MCGM Plot at Atmaram Sawant marg,,,,,,19.1986213,72.8596323,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2365,MCGM play gournd near Essbel Bldg,,,,,,19.1954291,72.8760484,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2366,Savitribai Phule Maidan MCGM,,,,,,19.198183,72.8756225,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2367,MCGM Play ground Nr. Naman Towers,,,,,,19.1965796,72.8487175,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2368,MCGM PG at Sambhaji school,,,,,,19.2010121,72.8634214,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2369,MCGM PG at Akurli cross road no.3,,,,,,19.2012447,72.863377,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2370,MCGM plot attached to Thakur Public School,,,,,,19.2091768,72.875327,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2371,Netaji Subhash Chandra Bose Kridangan MCGM,,,,,,19.2115227,72.8458315,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2372,MCGM plot at Parekh Nagar,,,,,,19.2090012,72.8452943,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2373,MCGM plot near Shyam Narayan School,,,,,,19.2131114,72.8743922,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2374,MCGM plot Nr.Spring club,,,,,,19.210871,72.8467633,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2375,MCGM Plot at village poisar.,,,,,,19.209292,72.8599581,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2376,St.Meery PG MCGM,,,,,,19.2124871,72.8200261,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2377,MCGM plot Mahavir Ngr,,,,,,19.211414,72.8411308,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2378,Lokmanya Bal Gangadhar Tilak Manoranjan Maidan MCGM,,,,,,19.1969912,72.8494089,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2379,MCGM Recreation Ground near Thakur engineering College,,,,,,19.2063353,72.8758771,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2380,Priyadarshini Indira Gandhi Manoranjan Maidan MCGM,,,,,,19.1970515,72.8552802,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2381,Khajuriya udyan MCGM,,,,,,19.1964918,72.8488874,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2382,Sahitya Samrat Aanabhau Sathe Manoranjan Maidan MCGM,,,,,,19.1985354,72.8698001,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2383,MCGM plot at Mahaveer Ngr,,,,,,19.2113836,72.841045,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2384,"Shyam Naryan Singh Thakur, Manoranjan maidan MCGM",,,,,,19.2107038,72.8644918,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2385,Pramod Navalkar udyan MCGM,,,,,,19.2088956,72.8593124,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2386,"MCGM plot Nr.Swayambho Ganesh Mandir,",,,,,,19.1967604,72.8558149,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2387,MCGM PLOT back side of R/South Ward office,,,,,,19.203844,72.844801,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2388,Punyoshlok Ahilyabai Holkar Maidan MCGM,,,,,,19.2002598,72.8577752,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2389,MCGM Play ground Near sheikh Quarry,,,,,,19.2068841,72.8800149,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2390,Dadoji Kandev Maidan MCGM,,,,,,19.2124159,72.871721,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2391,MCGM Play ground next to Oxford Public School,,,,,,19.2070063,72.8764707,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2392,Mahalaxmi Udyan MCGM,,,,,,19.2080807,72.8769706,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2393,Evershine Joggers Park MCGM,,,,,,19.210873,72.8763386,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2394,MCGM garden near Charkop Bus stop,,,,,,19.2081461,72.8107085,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2395,Madharao Sindhiya udyan MCGM,,,,,,19.2000804,72.8760871,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2396,MCGM Plot at Village Akurli,,,,,,19.1951496,72.8769889,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2397,MCGM Garden near Gundecha School,,,,,,19.2123543,72.8769774,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2398,MCGM Plot at Charkop village,,,,,,19.2128288,72.8186101,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2399,MCGM Plot at Charkop Village,,,,,,19.2126423,72.8186407,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2400,Loknete Maa.Gopinath Munde Udyan MCGM,,,,,,19.2137165,72.8395784,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2401,MCGM Plot at village Akurli,,,,,,19.2040243,72.8564452,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2402,Veer Abdul hamid udyan MCGM,,,,,,19.1984036,72.8685265,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2403,MCGM plot opp.Swami Vivekanand School,,,,,,19.2094619,72.8465263,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2404,MCGM Plot next to Kapol Vidyanidhi School,,,,,,19.2104984,72.8440175,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2405,Shaheed Bhagatsingh Miadan MCGM,,,,,,19.2110082,72.8724534,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2406,Shri Kantilal Ravaji Makhecha MCGM,,,,,,19.2024161,72.838718,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2407,Sahid Tukaram Ombale,,,,,,19.2489731,72.845844,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2408,"CTS no 3/7/A, 3/7/b & 63A",,,,,,19.260722,72.850391,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2409,CTS No. 319/F,,,,,,19.25808,72.85657,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2410,"Cts no 108/a,109,110,113",,,,,,19.258865,72.855274,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2411,Plot bearing cts no 101,,,,,,19.2594,72.85368,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2412,CTS No. 255 E,,,,,,19.2559634,72.8554397,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2413,CTS NO. 628/D/1,,,,,,19.25108,72.849963,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2414,CTS no 2395/C,,,,,,19.240744,72.866707,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2415,CTS NO.1400-D/,,,,,,19.2600854,72.8621729,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2416,Chatrapati Shivaji Maharaj Kridangan,,,,,,19.261777,72.865397,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2417,CTS no 1161/A,,,,,,19.254482,72.862362,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2418,CTS No.1233/c /5,,,,,,19.244397,72.846304,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2419,CTS No.942A/B,,,,,,19.2494397,72.8463445,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2420,"Pandurang Shastri Athavle CTS No.2567, 2567/5, 2561/B",,,,,,19.24535,72.86871,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2421,"CTS NO 1271/D, 1099(pt)",,,,,,19.245679,72.846163,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2422,"CTS No.83/C,84/B/2",,,,,,19.24776,72.85407,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2423,"Mata Ramabai Ambedkar PG, CTS No.675/6, 675/7",,,,,,19.255126,72.849719,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2424,Shantiniketan,,,,,,19.248407,72.855124,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2425,Baba Amte CTS No.1407/D,,,,,,19.25917,72.859472,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2426,Vinoba Bhave P.G,,,,,,19.253484,72.855302,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2427,Mother Teressa PG CTS No.1235/A,,,,,,19.245679,72.846163,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2428,"PG Meenatai Thakre CTS No.1831/1,1831/3",,,,,,19.24253,72.86307,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2429,PG Lokshahir Vittal Vumap Maidan,,,,,,19.2455496,72.8688091,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2430,PG Sant Dnyaneshwer Mauli maidan,,,,,,19.2415516,72.8694907,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2431,PG Veer Savarkar Maidan CTS No. 2346/3,,,,,,19.24052,72.86555,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2432,"PG Geetanjali CTS No.102/A,106/C,88/A,94C,105B,95,92,92 (part)",,,,,,19.2483894,72.8544848,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2433,Netaji subhashchandra Bose play ground,,,,,,19.25031,72.85991,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2434,"CTS No. 368/3, 335/4",,,,,,19.25877,72.858192,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2435,"Dr. Rajendra Kumar Goyal CTS No.1472, 1474",,,,,,19.243777,72.846105,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2436,"Pt. Deendayal Upadhyay PG, CTS No. 921/f",,,,,,19.24208,72.857189,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2437,Karmayog Udyan,,,,,,19.24353,72.85091,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2438,"CTS No. 63/B/2,63/D/2, 67/A,69/B & 66/D",,,,,,19.261337,72.850346,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2439,"Shri. Maruti Mandir Maidan, CTS No. 2398/A,",,,,,,19.24219,72.8675,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2440,"CTS No.376, S.No.37, FP No.477,",,,,,,19.2217864,72.8380002,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2441,CTS No.128A/83,,,,,,19.2139258,72.8437355,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2442,Sachin Tendulkar Gynkhana CTS No.128A/59/1,,,,,,19.2146704,72.8425178,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2443,PG at CTS No.174/1,,,,,,19.2179697,72.8701712,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2444,CTS No.332/D,,,,,,19.2318642,72.8487465,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2445,PG CTS No.128/A/27/3,,,,,,19.2155825,72.8413525,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2446,"CTS No. 636/B,",,,,,,19.213715,72.8642296,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2447,CTS No. 645/C,,,,,,19.2134617,72.8643369,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2448,CTS no - 1723/C,,,,,,19.2369609,72.8427011,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2449,CTS 175(pt,,,,,,19.2170431,72.8693567,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2450,"CTS 128/A/64, 128/A/65/125",,,,,,19.2169082,72.8425238,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2451,CTS No. 638/F,,,,,,19.2143614,72.8652923,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2452,F.P. No. 68/B,,,,,,19.2303848,72.8383897,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2453,CTS NO 559/C/3,,,,,,19.2279438,72.8660269,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2454,CTS NO. 374/B/15,,,,,,19.2207359,72.8380782,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2455,CTS No. 1C/1/1(pt.),,,,,,19.217185,72.838958,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2456,F.P.No. 533,,,,,,19.2231115,72.8441239,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2457,"CTS 173/B, part",,,,,,19.2168908,72.8689301,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2458,Chacha Nehru Udyan,,,,,,19.2175184,72.8444646,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2459,Garden at Prem Nagar,,,,,,19.2355735,72.8532059,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2460,Pandit Ramjas Upadhyay Ramleela Manoranjan Maidan,,,,,,19.2301894,72.8542252,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2461,R.G plot FP No.246,,,,,,19.2263968,72.8465299,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2462,Vamanrao Pai Udyan,,,,,,19.2249507,72.845795,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2463,CTS NO. 368,,,,,,19.2268223,72.843255,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2464,Rajmata Jijau Udyan,,,,,,19.2251356,72.8444834,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2465,R.G plot FP No.391,,,,,,19.2242977,72.8414657,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2466,P.L. Deshpande Udyan,,,,,,19.226187,72.8405323,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2467,R.G plot FP No.479,,,,,,19.2219409,72.8394439,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2468,Dr.A.P.J. Abdul Kalam Manoranjan Maidan,,,,,,19.2185503,72.8449956,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2469,R.G plot FP No.720,,,,,,19.2232867,72.8498773,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2470,R.G plot FP No.775,,,,,,19.2225143,72.8542936,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2471,Sangeetkar Shrikant Keshav Thakare Manoranjan Maidan,,,,,,19.2168486,72.8709629,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2472,Madhav Sadashivrao Golvankar Maidan,,,,,,19.215491,72.8449804,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2473,R.G plot FP No.490/D,,,,,,19.2213087,72.8382051,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2474,Dr. G.M. Chadwa Manoranjan Maidan,,,,,,19.2221,72.8615071,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2475,R.G plot FP No.724,,,,,,19.2217195,72.8509887,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2476,Chatrapati Sambhaji Raje Udyan,,,,,,19.2209917,72.8634526,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2477,CTS No. 278/B,,,,,,19.2334082,72.8449251,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2478,Balasaheb Thackeray Manoranjan MaidanRG plot CTS No. 374/B/6 (Pt),,,,,,19.2222743,72.8370497,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2479,R.G plot at CTS No. 136(pt),,,,,,19.2228909,72.8610751,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2480,CTS no - 1/C/1-1,,,,,,19.2177504,72.8391153,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2481,Chatrapati Shivaji Maharaj Maidan,,,,,,19.2304845,72.8246609,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2482,Pramodji Mahajan Manoranjan Maidan,,,,,,19.2178715,72.8384753,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2483,Gopinathji Munde Manoranjan Maidan,,,,,,19.2179424,72.8375312,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2484,Gen. Arunkumar Vaidya Maidan,,,,,,19.2294035,72.8381993,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2485,"R.G plot at FP No.731(pt.), O.P. No. 421",,,,,,19.2233583,72.8522586,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2486,CTS No. 78A/1A/3,,,,,,19.219945,72.8615851,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2487,167/C/3,,,,,,19.2148503,72.8647515,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2488,"Kranti Udyan,",,,,,,19.2260329,72.8315276,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2489,Ganesh Maidan (Gorai Raja),,,,,,19.2254022,72.8321016,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2490,Gorai Open space,,,,,,19.2314323,72.8282902,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2491,Open Space near Cemetry,,,,,,19.2272864,72.8204397,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2492,Open Space near Cemetry,,,,,,19.2269774,72.8202546,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2493,Nagdeo Omkareshwar Manoranjan Park,,,,,,19.2177651,72.8326384,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2494,Triveny Udyan,,,,,,19.21689,72.8242331,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2495,Shiv Tirth Udyan,,,,,,19.2193594,72.8276583,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2496,Garden near Haryana Bhavan,,,,,,19.2218402,72.8344295,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2497,MCGM Play gound near Evershine Club,,,,,,19.2114969,72.8758855,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2498,MCGM Stadium,,,,,,19.2082078,72.875353,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2499,MCGM plot Nr.Thakur Cinema,,,,,,19.2097333,72.8724596,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2500,Dr.Babasaheb Ambedkar Maidan MCGM,,,,,,19.1976563,72.8687708,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2501,Sardar Vallabhbhai Patel Udyan MCGM,,,,,,19.1994708,72.8456744,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2502,Hindu Hriday Samrat Shriman Balasaheb Thakeray Dream park MCGM,,,,,,19.2127019,72.8758902,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2503,MCGM plot Opp. Kapol Vidhyanidhi School,,,,,,19.2099997,72.8436753,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2504,MCGM plot Nr.Kapol Vidyanidhi Trust,,,,,,19.2100524,72.8432876,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2505,"Plot bearing C.T.S. No. 116/C, at Mahavir Nagar, Kandivali (W) Mumbai 400067",,,,,,19.2100314,72.8429287,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2506,Maji Mukhyamantri Ani Kendriyamantri Vilasrao Deshmukh park MCGM,,,,,,19.1994394,72.8756332,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2507,Raje Shivaji Maidan MCGM,,,,,,19.2128621,72.8256932,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2508,Dadoji Kondeo Maidan MCGM,,,,,,19.2129915,72.8215842,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2509,MCGM Plot Opp.Chandraneel CHS,,,,,,19.213625,72.8202179,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2510,MCGM Plot at Babrekar Nagar,,,,,,19.2041528,72.8238104,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2511,"Dr. Shyama Prasad Mukherji Udyan, CTS No. 476,477,428,429",,,,,,19.2311786,72.8508615,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2512,"Ganjawala Garden, CTS No. 2448,",,,,,,19.2342379,72.8555339,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2513,B.G. Khair Udyan,,,,,,19.2219914,72.8493203,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2514,CTS No.392/C,,,,,,19.2379085,72.8497924,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2515,"Pramod Mahajan Udyan,CTS No36/B,37A(pt) ,37 B,37d(pt)",,,,,,19.2301866,72.8467992,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2516,Lokmanya Bal Gangadhar Tilak Udyan,,,,,,19.2331017,72.8360417,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2517,"CTS No. 2230/C, CTS NO 389/C,2231",,,,,,19.2379666,72.8485918,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2518,"CTS no 1543/A,",,,,,,19.2396152,72.8432247,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2519,"CTS no - 2389/D, 2392/C",,,,,,19.2383882,72.8486079,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2520,CTS no - 287/A,,,,,,19.2325603,72.8439106,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2521,CTS NO. 1C/1,,,,,,19.2173164,72.839557,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2522,"Rajiv Gandhi Uyan CTS No. 325, FP No.48C",,,,,,19.2274173,72.8593492,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2523,Late Anantrao Bhosle Kridangan CTS No. 183A,,,,,,19.2195746,72.8685665,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2524,"CTS No.91 (Pt), CTS No,.92(Pt), 89(pt).91B,91 C,",,,,,,19.2215213,72.8564456,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2525,C.T.S. No. 60/A/3 (PT),,,,,,19.2297208,72.8455864,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2526,"Saptah Maidan CTS No.90,128A/91 (pt), 89A,89/8,92A",,,,,,19.213018,72.844003,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2527,"Sardar Vallabh bhai Patel Udyan,CTS No. P.G CTS No.53, 53/4,",,,,,,19.2146086,72.8454084,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2528,Plot CTS No.309/9/S.no 43 village Goregaon Goregaon W,,,,,,19.1758394,72.8403664,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2529,"R.G.CTS No.1185/B,1190/B,1084(pt)village Malad South opp.Shakti motors Link rd,Malad West",,,,,,19.1753188,72.8376453,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2530,TDR Plot bearing CTS No. 1104/B village Malad Link road opp.Nirman Industrial Estate Malad West,,,,,,19.1779639,72.837163,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2531,Sadguru Vamanrao Pai,,,,,,19.1773926,72.8395119,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2532,Plot CTS No. 1181/D village Malad/south Malad West,,,,,,19.175,72.8388889,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2533,Plot CTS No. 1223/A/1/1B(pt)new CTS No.1233/A/1/1B/1 village Malad south Goregaon W,,,,,,19.1772222,72.8405556,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2534,Plot CTS No. 1178/B village Malad South Malad West,,,,,,19.1752778,72.8394444,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2535,Plot CTS No. 1194 village Malad/south Malad West,,,,,,19.175,72.8388889,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2536,"TDR Plot bearing CTS No.1230/B(pt) near Infant Jesus School,village Malad South Malad West",,,,,,19.1775,72.8402778,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2537,TDR Plotbearing CTS No. 1195/2 village Malad South near Acme Plaza Malad W,,,,,,19.1144444,72.8677778,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2538,Bharatratna Atal Bihari Vajapayee manoranjan maidan,,,,,,19.1694444,72.8416667,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2539,Swatantya Veer Vi.Da.Sawarkar Maidan,,,,,,19.1691,72.9501,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2540,Ranchhodas Harjivan Shah Manoranjan Maidan,,,,,,19.1687836,72.9492352,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2541,Mahatma Jyotiba Phule Manoranjana Maidan,,,,,,19.1744,72.9339,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2542,"RG, Mulund Village,",,,,,,19.1789,72.9374,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2543,"RG at Mulund Colony,",,,,,,19.1777,72.9388,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2544,"Raosaaheb Ramrao Patil manoranjan maidan,",,,,,,19.1735872,72.9713387,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2545,"Dr.APJ Abdul Kalam Manoranjan Maidan,",,,,,,19.1746,72.9742,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2546,"RG, Mulund Village,",,,,,,19.1746,72.9733,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2547,Open Space at Khindipada,,,,,,19.1665519,72.9322567,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2548,CTS No. 29/4,,,,,,19.1823,72.9377,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2549,Lala Tulsiram Park,,,,,,19.1761,72.9471,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2550,Tarabai Modak Udyan,,,,,,19.1727773,72.9489211,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2551,Vijay Nagar Garden,,,,,,19.171306,72.952111,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2552,Pandit Jawaharlal Nehru Shatabdi Udyan,,,,,,19.1755,72.9357,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2553,Dr. C. D. Deshmukh Udyan,,,,,,19.1726,72.9598,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2554,Swatantrveer savarkar manoranjan maidan,,,,,,19.174783,72.8310261,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2555,Shahid Vijay Salaskar Manoranjan Maidan,,,,,,19.1752778,72.8733333,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2556,"Plot CTS No. 620/F,621/D,CTS No.620/F,village chincholi,Goregaon/East",,,,,,19.1699624,72.8745472,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2557,"Plot CTS No.184/G,S.No.61,71,74 village pahadi,gogtewadi/opp. Walia terrace Goregaon East",,,,,,19.1683333,72.8522222,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2558,Plot CTS No. 97/A/23/B Upper Govind nagar Malad E,,,,,,19.1755556,72.8516667,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2559,"R.G. C.T.S. Plot No.586/7/A S. No. 139, Near Hub Mall. W.E. Highway Goregaon (E)",,,,,,19.1558333,72.8555556,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2560,"Plot CTS No. 201/B-3,village Goregaon East",,,,,,19.1438889,72.8541667,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2561,"Plot CTS No. 257/E/2A (pt),S.No.139 village pahadi Goregaon East",,,,,,19.1533333,72.8530556,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2562,Plot bearing CTS No. 586/8/A S.No.139 village pahadi Goregaon Goregaon E,,,,,,19.1558333,72.8566667,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2563,R.G.CTS No.900/A/2 village pahadi Goregaon at Piramal nagar Goregaon W,,,,,,19.1686111,72.8483333,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2564,Lal Bahadur Shastri R.G.,,,,,,19.1609843,72.8357217,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2565,Vedprakash Chadda Garden,,,,,,19.1619444,72.8461111,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2566,Pandit deendayal uapdhyay udyan,,,,,,19.1541447,72.83085,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2567,Sankalp Siddhi Ganesh Maidan,,,,,,19.1575,72.8372222,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2568,Shree Swami Samarth Manoranjan Maidan,,,,,,19.1731,72.9677,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2569,Sharad Chavan Udyan,,,,,,19.1682,72.9589,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2570,Tukaram Mangalya Vaity Park,,,,,,19.1643,72.9638015,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2571,"Hutatma Madanlal Dhingra Kridangan,",,,,,,19.1664412,72.9560303,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2572,Dr. Babasaheb Ambedkar Kridangan,,,,,,19.1818482,72.9534535,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2573,"P.G.Village Mulund, C.T.S. No. 29/5,",,,,,,19.1821,72.9382,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2574,"PG , CTS NO.29/11,",,,,,,19.1813569,72.9414091,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2575,"Arybhatta Udyan, C.T.S. No.1328,1329,1333,1334",,,,,,19.1696,72.9532,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2576,"Rajeev Gandhi Kridangan,",,,,,,19.1631,72.9476,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2577,"Rajeev Gandhi Kridangan,",,,,,,19.1756,72.938,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2578,"Jainacharya Vijay Vallabha Suri Kridangan,",,,,,,19.1625,72.9437,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2579,"P.G. P.K.Road Extn.,",,,,,,19.1636,72.9416,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2580,"Chhatrapati Sambhaji Raje Maidan,",,,,,,19.1687,72.9643,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2581,"P.G. C.T.S. no. 147 , ,CTs No.155 A/4",,,,,,19.1745414,72.964145,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2582,"Dattaji Tamhane Maidan,PG CTS No. 95/13/E",,,,,,19.1736,72.9712,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2583,"PG 87/4B Hariom nagar, Mulund (E).",,,,,,19.1756,72.9734,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2584,PG CTS NO.1063/B,,,,,,19.1618,72.955,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2585,PG Plot CTS No.1110/11,,,,,,19.1733347,72.9468689,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2586,R. G. Village Mulund (Afforsation plot),,,,,,19.1806,72.9383,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2587,Vrindavan Manoranjan Maindan,,,,,,19.1851,72.9509,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2588,"Shasan Samrat Achary Dev Shri Nemisuri Manoranjan Maidan,",,,,,,19.1796,72.9464,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2589,Barku Govind Patil Manoranjan Maidan,,,,,,19.1825,72.9559,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2590,Open Space at Khindipada,,,,,,19.166953,72.9321978,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2591,Siddharth Udyan,,,,,,19.177556,72.953389,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2592,Shahid Sonar Bungla,,,,,,19.175,72.9478,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2593,"Harish Murarji Thakkar Khelache Maidan,",,,,,,19.1683,72.9495,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2594,"Mother Teressa Kridangan,",,,,,,19.1658,72.9458,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2595,"P.G. Near Dashamesh School,",,,,,,19.1761,72.9372,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2596,"P.G. L.B.S. Road,",,,,,,19.1679328,72.9397795,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2597,"P.G. Plot No. 29,",,,,,,19.1739,72.9372,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2598,"Mavala Sambhaji Kavaji Kondhalkar Kridangan,(Nana Nani Park)Savarkar Road,",,,,,,19.1723198,72.9665364,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2599,"Mavala Jiva Mahala Kridangan,",,,,,,19.1695155,72.9650951,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2600,"HinduHrudaySamrat Balasaheb Thakare Maidan,",,,,,,19.1687389,72.9605993,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2601,छत्रपती संभाजी महाराज मैदान,,,,,,19.123176,72.888454,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2602,सुभेदार रामजी मालोजी आंबेडकर खेळाचे मैदान,,,,,,19.119302,72.887443,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2603,"PG CTS No. 1304 at Ganesh Visarjan Talao,",,,,,,19.175547,72.972099,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2604,Sardar Pratap Singh Manoranjan Maidan,,,,,,19.1805,72.9389,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2605,Shahid Ashok Kamate Manoranjan Maidan,,,,,,19.1819,72.939,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2606,Sant Odhavramji Maharaj Manoranjan Maidan,,,,,,19.1806676,72.9413127,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2607,"R. G.Near Sagar Garden Society,",,,,,,19.1689628,72.939753,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2608,"P.G. , Powai Chowk,",,,,,,19.1732,72.9358,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2609,"Damodar Pandu Vaiti Manoranjan Maidan,",,,,,,19.1753362,72.9642391,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2610,Shahid Prakash More Maidan,,,,,,19.175547,72.972099,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2611,"Garden near Mithagar Ganesh Visarjan Talao,",,,,,,19.175547,72.972099,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2612,Bagwan Gautham Buddha Udyan,,,,,,19.0084917,72.8150774,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2613,Bhagavan Mahavir Udyan,,,,,,19.0103458,72.8188112,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2614,Municipal Garden,,,,,,19.0382141,72.849193,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2615,Shri. Keshavrao Daate Udyaan,,,,,,19.0172883,72.8373952,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2616,Chhatrapati Shivaji maharaj Park,,,,,,19.0271715,72.8383135,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2617,Dakre Guruji Marepathic Udyan,,,,,,19.0098459,72.8433351,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2618,Didhi Udyan,,,,,,19.0397503,72.8439098,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2619,Beach Towers Garden,,,,,,19.017829,72.8251748,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2620,Guruji Kedar Nath Udyan Bmc,,,,,,19.0268481,72.8536652,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2621,Indulal D.Bhuvan Udyan,,,,,,19.0219544,72.8581941,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2622,J.R.Mehata Garden,,,,,,19.0377893,72.858013,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2623,Lalbahadur Shastri Udyan,,,,,,18.9991357,72.8139894,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2624,Maharshi Karve Udhyan,,,,,,19.0182186,72.8581167,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2625,Garden B of 5 Gardens,,,,,,19.0207666,72.8535407,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2626,Nappu Garden,,,,,,19.0261877,72.8520609,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2627,Pandit Jawaharlal Nehru Garden,,,,,,19.0458433,72.8679449,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2628,Prof. B. N. Vaidya Udyan,,,,,,19.0215556,72.8470194,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2629,Mata Ramabai Ambedkar Udyan,,,,,,19.0384044,72.8676962,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2630,Sane Guruji Udyan,,,,,,19.0163672,72.8299568,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2631,Shanti Park,,,,,,19.0377762,72.8632526,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2632,Vasant Prabhu Garden,,,,,,19.0188814,72.8376341,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2633,Dr. Mala Garden,,,,,,19.0422069,72.8710923,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2634,Swami Vivekanand Udyan,,,,,,19.045862,72.8388892,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2635,Twin Tower(Garden),,,,,,19.0194625,72.82786,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2636,B N Maheshwari Udyan,,,,,,19.0267738,72.8555628,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2637,Wadia Garden,,,,,,19.0170989,72.8507085,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2638,"Garden A, Five Gardens",,,,,,19.0200892,72.8531577,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2639,Mancherji Joshi Five Gardens,,,,,,19.0200892,72.8538715,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2640,Kids garden,,,,,,19.0195324,72.8538858,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2641,"Garden C, 5 Gardens",,,,,,19.0203034,72.854414,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2642,Veer Baji Prabhu Udyan,,,,,,19.0270007,72.8353939,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2643,Sant Tukaram Balodyan,,,,,,19.0305202,72.8405575,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2644,Dr.Ramhari Kishan Dhote Udyan,,,,,,19.0343712,72.838505,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2645,Shri Vithal Desai Park,,,,,,19.0373821,72.8446568,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2646,Balasaheb Thackrey Udyan,,,,,,19.0031028,72.8235782,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2647,Britannia Garden,,,,,,18.9819207,72.8174758,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2648,Matoshree Ramabai Thackrey Udyan,,,,,,18.9996949,72.8263231,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2649,Bhivaji Rao Nare Park,,,,,,18.9998456,72.8389521,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2650,Bhoiwada park,,,,,,19.0084681,72.8498157,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2651,CGS Sector 6 Garden,,,,,,19.0316463,72.8653096,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2652,Maharashtra Nature Park,,,,,,19.0528009,72.8619372,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2653,"City Park, BKC",,,,,,19.0562663,72.8538277,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2654,D'Monte Park Recreation Club,,,,,,19.0593191,72.8264063,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2655,Mahatma Gandhi Garden,,,,,,18.9283012,72.8250709,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2656,Cross Maidan Garden,,,,,,18.9332735,72.8293255,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2657,Sitaram Shenoy Udyan,,,,,,18.9615924,72.8379817,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2658,S K Patil Udyan,,,,,,18.9494735,72.8219061,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2659,Mumba devi Garden,,,,,,18.9525933,72.830595,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2660,Shri Bhagwandas Todi Children Park,,,,,,18.943611,72.8242532,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2661,Durgadevi Udyan,,,,,,18.9611763,72.8267474,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2662,Kamala Nehru Park,,,,,,18.9547191,72.8056884,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2663,Hanging Gardens,,,,,,18.9562656,72.8049896,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2664,Shantivan,,,,,,18.9580428,72.8037477,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2665,Nana Nani Park,,,,,,18.9556952,72.8096776,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2666,Harish Mahindra Children's Park,,,,,,18.9705707,72.8024549,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2667,PT Mane Udyaan Garden,,,,,,18.9673392,72.8296522,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2668,Joseph Baptista Garden,,,,,,18.9661854,72.8424257,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2669,Kamal Ground,,,,,,19.0380136,72.9346807,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2670,Rajnigandha Garden,,,,,,19.0387497,72.9348214,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2671,Parijat Garden,,,,,,19.0388675,72.9339529,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2672,Varsha Ground,,,,,,19.041007,72.9342417,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2673,Hemant Ground,,,,,,19.0413464,72.9324167,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2674,Mini Forest,,,,,,19.0420586,72.9317536,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2675,Madhuban garden,,,,,,19.0406617,72.9315187,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2676,Sharavati Playground,,,,,,19.0392245,72.9316941,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2677,Nandan Van,,,,,,19.0385425,72.9304595,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2678,KIL BIL GARDEN,,,,,,19.0371766,72.9304893,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2679,Nandadevi Park,,,,,,19.0365274,72.9298226,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2680,Shantiniketan Garden,,,,,,19.0368862,72.9289659,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2681,Sanchi Park,,,,,,19.0388874,72.9277498,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2682,Ajanta Park,,,,,,19.0400016,72.9278838,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2683,Ellora Ground,,,,,,19.0412208,72.9279795,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2684,Kapilvastu Lawn,,,,,,19.0389594,72.9258153,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2685,Indraprastha Garden,,,,,,19.0400726,72.9258631,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2686,Hastinapur Park,,,,,,19.0412565,72.9259469,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2687,Sahyadri Park,,,,,,19.0395357,72.921867,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2688,Vindhya Park,,,,,,19.0395128,72.9208697,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2689,Narmada Ground,,,,,,19.0406972,72.9210027,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2690,Vrundavan Garden,,,,,,19.041938,72.920938,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2691,Dwarka Garden,,,,,,19.0417561,72.9224675,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2692,Sarnath Playground,,,,,,19.0406605,72.9219023,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2693,"A.E.C.S 1, Playground",,,,,,19.0398318,72.9200775,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2694,Jaidev playground,,,,,,19.0417273,72.9188715,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2695,Kabir Park,,,,,,19.041519,72.918049,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2696,Mansrovar Park,,,,,,19.0399886,72.9184006,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2697,Namdev Playground,,,,,,19.0409163,72.9165416,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2698,"AECS-2, Playground",,,,,,19.0366572,72.926275,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2699,Anushaktinagar Cricket Ground,,,,,,19.0305376,72.9257598,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2700,Saras Baug,,,,,,19.0451937,72.9146777,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2701,Subhash Chandra Bose Garden,,,,,,19.087413,72.9148857,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2702,Kurla Kamgar Ground,,,,,,19.0631389,72.8871472,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2703,Decathlon Kurla Playground,,,,,,19.0869613,72.8851175,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2704,Nana Nani Childrens Park,,,,,,19.0902733,72.8877412,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2705,Heritage Garden,,,,,,19.1143607,72.9111939,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2706,Ambrosia Garden,,,,,,19.1189166,72.9071675,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2707,Dr. Baba Saheb Ambedkar Park Garden,,,,,,19.128523,72.8961868,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2708,Children Park Powai Lake,,,,,,19.1219717,72.8991472,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2709,Powai Udyaan,,,,,,19.1207271,72.9016172,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2710,Powai lake View Garden,,,,,,19.1197534,72.9033286,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2711,Sabarmati Ashram Park,,,,,,19.1230582,72.9075446,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2712,SAROVAR UDYAN,,,,,,19.1257366,72.9140826,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2713,Children Park,,,,,,19.1273326,72.9147011,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2714,Gulmohar Garden,,,,,,19.1292485,72.9153146,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2715,Kshitij Garden,,,,,,19.1315702,72.9138304,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2716,Knowledge Tree,,,,,,19.1331711,72.9156834,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2717,Gymkhana Grounds,,,,,,19.1345011,72.9122538,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2718,Children's Park,,,,,,19.1346694,72.92492,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2719,Naval Ground,,,,,,19.1342616,72.9265375,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2720,Baji Prabhu Ground,,,,,,19.1326856,72.9284373,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2721,Kendriya Vidyalaya Playground,,,,,,19.1257523,72.9245741,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2722,MMRDA GARDEN,,,,,,19.1260474,72.9291284,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2723,Nana Nani Garden,,,,,,19.1309475,72.926211,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2724,CGHS B Garden,,,,,,19.1391985,72.9366114,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2725,Park,,,,,,19.1400886,72.9392062,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2726,Public playground,,,,,,19.1424296,72.9396451,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2727,Pramodh Mahajan Ground,,,,,,19.1470764,72.9341333,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2728,Powai Lake,,,,,,19.1269907,72.9051842,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2729,Mhada Colony Community Garden,,,,,,19.164888,72.965311,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2730,Vihar Lake,,,,,,19.1528799,72.9128645,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2731,Gol Garden,,,,,,19.0899733,72.83496,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2732,Juhu Joggers Park,,,,,,19.1040395,72.8324353,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2733,Jamnabai Narsee School Playground,,,,,,19.1048281,72.8312798,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2734,Pushpa Narsee Park,,,,,,19.1045084,72.8303335,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2735,Coastal Garden,,,,,,19.1040629,72.8247944,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2736,Juhu Beach View Park,,,,,,19.0994998,72.8259464,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2737,Yoga Park,,,,,,19.1068917,72.8241953,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2738,My Mom's Garden,,,,,,19.1078928,72.8239418,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2739,Kishore Kumar Park,,,,,,19.1106644,72.8335823,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2740,Kaifi Azmi Park,,,,,,19.1120977,72.83088,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2741,Lokmanya Tilak Udyan,,,,,,19.1135844,72.8334445,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2742,Children Knowledge & Forest Park,,,,,,19.1127893,72.8296017,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2743,Nakshatra Garden,,,,,,19.11849,72.8255742,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2744,Mora Garden,,,,,,19.118453,72.8239065,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2745,B.M.C. Garden,,,,,,19.1208558,72.8276951,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2746,D. N. Nagar Ground,,,,,,19.1219197,72.8308969,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2747,Prajakta Udyan,,,,,,19.1228864,72.8310235,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2748,Plot reserved for Garden (R3),,,,,,19.1226337,72.8254779,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2749,Renaissance Ground,,,,,,19.1230968,72.8223405,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2750,Seven Bungalows Garden,,,,,,19.1289871,72.8170806,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2751,Kamala Raheja Garden,,,,,,19.1273478,72.8197714,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2752,Versova welfare play ground,,,,,,19.1314202,72.8157545,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2753,Chacha Nehru Park,,,,,,19.132309,72.8227915,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2754,Sangeetkar Anil Mohile Manoranjan Park,,,,,,19.1329036,72.8239268,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2755,Dr Babasaheb Ambedkar Park,,,,,,19.1370057,72.8211625,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2756,Bhartitai Lavhekar Children’s Park,,,,,,19.1359729,72.8175614,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2757,Freedom Fighter Janardhan R. Patil Park,,,,,,19.1377746,72.8159096,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2758,B.M.C Play Ground,,,,,,19.1346202,72.8123136,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2759,Dattaram Kaskar Udayan (Coconut Gardens),,,,,,19.1376652,72.8139783,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2760,Raj Classic Park,,,,,,19.1397598,72.8132552,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2761,Bmc Garden,,,,,,19.1402626,72.8146154,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2762,Ekata Manch Pet Park,,,,,,19.1410119,72.8131782,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2763,Walking Garden,,,,,,19.1408103,72.8071976,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2764,कलाविहर मनोरंजन उद्यान,,,,,,19.1422125,72.8097434,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2765,Gulmohar Garden,,,,,,19.143041,72.8104542,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2766,Versova Mangroves,,,,,,19.1514928,72.8171533,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2767,Jogger's Park,,,,,,19.1458231,72.8214288,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2768,Pramod Mahajan Playground,,,,,,19.143261,72.8215511,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2769,Lokhandwala Garden,,,,,,19.1452075,72.8270414,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2770,Walawalkar Garden,,,,,,19.1527937,72.8290307,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2771,Pramod Navalkar Manoranjan Maydan,,,,,,19.1393288,72.8360027,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2772,Municipal Joggers Park,,,,,,19.139197,72.836723,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2773,Botanical Garden,,,,,,19.1370551,72.8407375,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2774,Kamruddin Merchant garden,,,,,,19.1379959,72.8412227,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2775,Tijoriwala Recreation Ground,,,,,,19.1360553,72.8461433,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2776,Maasaheb Meenatai Thackeray Garden,,,,,,19.1333556,72.8429991,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2777,Shiva Garden Ambivali,,,,,,19.132812,72.8421705,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2778,Gopinath Munde Udyan,,,,,,19.12843,72.838198,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2779,Joe & Helen D'mello Garden Ambivali,,,,,,19.129429,72.8422048,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2780,St. Ramdas Ground,,,,,,19.1264547,72.8438576,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2781,Ganpatrav Aambre Maharaj Udhyan- Andheri West,,,,,,19.124627,72.841335,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2782,Lallu Bhai Park,,,,,,19.1136705,72.844563,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2783,Sardar Vallabhbhai Patel Park,,,,,,19.1113697,72.8440088,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2784,Bhagatsingh Garden,,,,,,19.105493,72.8422143,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2785,Ishwarlal Park,,,,,,19.0979102,72.8407157,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2786,South West Vile Parle Residential Association Park,,,,,,19.0937903,72.8400114,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2787,Annabhau Sathe Maidan,,,,,,19.156786,72.8357726,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2788,Ambedkar Maidan,,,,,,19.15661,72.8388562,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2789,Trikoni maidan,,,,,,19.1547326,72.8387828,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2790,Prabodhan Kridabhavan Maidan,,,,,,19.1574019,72.8428932,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2791,Bharat Ratna Rajiv Gandhi Garden,,,,,,19.1621382,72.8360608,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2792,Ganesh Udhyan,,,,,,19.1642858,72.836453,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2793,Azad maidan,,,,,,19.1645384,72.8394732,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2794,Joggers Park,,,,,,19.1693953,72.8439602,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2795,Nana Nani Park,,,,,,19.1698103,72.8452019,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2796,Pandurang Wadi Garden,,,,,,19.1701671,72.8506224,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2797,Sambhaji Maidan,,,,,,19.1701339,72.8525079,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2798,Brahmachari Vishwanath Guruji Udyan,,,,,,19.1723592,72.8527153,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2799,Pu. L. Deshpande Vanodhyan,,,,,,19.1715517,72.8521937,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2800,Govind Nagar Garden,,,,,,19.1768781,72.8509257,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2801,Giri-Pushpa Park,,,,,,19.1755507,72.8534758,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2802,Mindspace Garden,,,,,,19.1794981,72.8334354,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2803,Shahid Capton Vinayak Gore Maidan,,,,,,19.1810918,72.8377687,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2804,BMC Garden,,,,,,19.1871209,72.8330324,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2805,APJ Kalam Udyaan,,,,,,19.1879098,72.8309327,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2806,Liberty Garden MCGM,,,,,,19.187976,72.8417703,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2807,BMC Play Ground,,,,,,19.188673,72.8399756,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2808,Sai Baba Park Garden,,,,,,19.1922763,72.8323705,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2809,Childrens Garden,,,,,,19.193491,72.8336669,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2810,Shardaben Patel Ground Hall,,,,,,19.1946159,72.8407203,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2811,Lal Bahadur Shastri Kridangan (Rocket Ground),,,,,,19.1936436,72.8432579,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2812,Dr. Keshav Baliram Hedgewar Park,,,,,,19.1925408,72.84343,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2813,Adarsh Joggers Park,,,,,,19.1961421,72.8436738,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2814,S V Patel Garden,,,,,,19.1975705,72.8422449,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2815,Rose garden,,,,,,19.1993316,72.8396599,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2816,MCGM Ground,,,,,,19.1998065,72.8381094,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2817,Manoranjan Park,,,,,,19.1937585,72.8508953,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2818,Dada dadi park,,,,,,19.1913068,72.8543899,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2819,Pushpa Park,,,,,,19.1917385,72.8559288,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2820,Veermata Jijabai Shahaji Bhosale Maidan,,,,,,19.1893119,72.8571721,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2821,Municipal Ground,,,,,,19.1862202,72.8557982,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2822,BMC Poddar Park,,,,,,19.1852226,72.8501484,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2823,Maheshwari Udyan,,,,,,19.1838448,72.8525577,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2824,Raheja Federation Garden,,,,,,19.1818831,72.8558189,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2825,Vasant Bmc Garden,,,,,,19.1777464,72.8631953,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2826,Sanjay Gandhi National Forest.,,,,,,19.1805615,72.8667016,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2827,Baba Shaheb Bhimrao Ambedkar Park,,,,,,19.1849962,72.8591043,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2828,Pradnya Ground,,,,,,19.1848644,72.8610873,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2829,Salvi Park (BMC ground),,,,,,19.1886234,72.8665328,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2830,Shahid Vijay Salasakar Udyan,,,,,,19.1921159,72.8594268,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2831,Savitribai Phule Udyan,,,,,,19.2143208,72.8381205,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2832,Panchasheel Joggers' Park,,,,,,19.2127343,72.8394474,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2833,Ranchhod Padhiyar Udhyan,,,,,,19.2209749,72.8310322,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2834,MHADA public park,,,,,,19.2213382,72.8325863,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2835,Mangroves Park,,,,,,19.2581717,72.8501142,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2836,GSB Garden Dahisar,,,,,,19.2612998,72.8636855,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2837,Devyani Garden,,,,,,19.2617268,72.8622943,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2838,Nana Nani Park,,,,,,19.2571288,72.8655204,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True
+2839,Ratan Nagar Garden,,,,,,19.2395718,72.8624,mumbai_green_spaces.kml,"BMC / OpenCity Mumbai Public Gardens, Parks and Zoos dataset",True

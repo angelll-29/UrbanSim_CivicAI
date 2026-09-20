@@ -1,0 +1,225 @@
+﻿station_id,station_name,marathi_name,metro_line,layout,platform_layout,status,notes,transport_mode,opening_date,interchange
+MM-001,Aarey,आरे,Line 7,Elevated,Side,Operational,,Metro,,
+MM-002,Aarey JVLR,आरे जे.व्ही.एल.आर.,Line 3,At-grade,Side,Operational,"Interchange with Line 6 ""Pink Line (Mumbai Metro)"") on SEEPZ Village",Metro,,"Interchange with Line 6 ""Pink Line (Mumbai Metro)"") on SEEPZ Village"
+MM-003,Acharya Atre Chowk,आचार्य अत्रे चौक,Line 3,Underground,Island,Operational,,Metro,,
+MM-004,Airport Road,विमानतळ रस्ता,Line 1,Elevated,Side,Operational,,Metro,,
+MM-005,Akurli,आकुर्ली,Line 7,Elevated,Side,Operational,,Metro,,
+MM-006,Anand Nagar,आनंद नगर,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-007,Andheri West,अंधेरी (पश्चिम),Line 2A,Elevated,Side,Operational,"Interchange with Line 1 ""Blue Line (Mumbai Metro)"") on D N Nagar",Metro,,"Interchange with Line 1 ""Blue Line (Mumbai Metro)"") on D N Nagar"
+MM-008,Andheri,अंधेरी,Line 1,Elevated,Side,Operational,Transfer station to Andheri railway station,Metro,,Transfer station to Andheri railway station
+MM-009,Asalpha,असल्फा,Line 1,Elevated,Side,Operational,,Metro,,
+MM-010,Azad Nagar,आझाद नगर,Line 1,Elevated,Side,Operational,,Metro,,
+MM-011,Bandra Colony,वांद्रे वसाहत,Line 3,Underground,Island,Operational,,Metro,,
+MM-012,Bandra Kurla Complex,वांद्रे कुर्ला संकुल,Line 3,Underground,Island,Operational,"Interchange with Line 2B ""Yellow Line (Mumbai Metro)"") on Income Tax Office",Metro,,"Interchange with Line 2B ""Yellow Line (Mumbai Metro)"") on Income Tax Office"
+MM-013,Bangur Nagar,बांगुर नगर,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-014,Borivali West,बोरीवली (पश्चिम),Line 2A,Elevated,Side,Operational,,Metro,,
+MM-015,Chakala (J. B. Nagar),चकाला (जे.बी. नगर),Line 1,Elevated,Side,Operational,,Metro,,
+MM-016,Chembur,चेंबूर,Line 2B,Elevated,Side,Operational,Transfer station to VNP and RC Marg Junction monorail station,Metro,,Transfer station to VNP and RC Marg Junction monorail station
+MM-017,Chhatrapati Shivaji Maharaj Chowk (Chembur),छत्रपती शिवाजी महाराज चौक (चेंबूर),Line 2B,Elevated,Side,Operational,,Metro,,
+MM-018,Chhatrapati Shivaji Maharaj International Airport - T1,छत्रपती शिवाजी महाराज आंतरराष्ट्रीय विमानतळ - टी१,Line 3,Underground,Island,Operational,,Metro,,
+MM-019,Chhatrapati Shivaji Maharaj International Airport - T2,छत्रपती शिवाजी महाराज आंतरराष्ट्रीय विमानतळ - टी२,Line 3; Line 7; Line 8,Underground,Side and island,Operational,,Metro,,
+MM-020,Chhatrapati Shivaji Maharaj Terminus,छत्रपती शिवाजी महाराज टर्मिनस,Line 3; Line 11,Underground,Side and island,Operational,Transfer station to Chhatrapati Shivaji Maharaj Terminus,Metro,,Transfer station to Chhatrapati Shivaji Maharaj Terminus
+MM-021,Churchgate,चर्चगेट,Line 3,Underground,Island,Operational,Transfer station to Churchgate railway station,Metro,,Transfer station to Churchgate railway station
+MM-022,Cuffe Parade,कफ परेड,Line 3,Underground,Island,Operational,,Metro,,
+MM-023,D N Nagar,डी.एन. नगर,Line 1,Elevated,Side,Operational,"Interchange with Line 2A ""Yellow Line (Mumbai Metro)"") on Andheri West",Metro,,"Interchange with Line 2A ""Yellow Line (Mumbai Metro)"") on Andheri West"
+MM-024,Dadar,दादर,Line 3,Underground,Island,Operational,,Metro,,
+MM-025,Dahanukarwadi,डहाणूकरवाडी,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-026,Dahisar East,दहिसर (पूर्व),Line 2A; Line 9,Elevated,Side and island,Operational,,Metro,,
+MM-027,Deonar,देवनार,Line 2B,Elevated,Side,Operational,,Metro,,
+MM-028,"Deshbhakt N.G. Acharya Udyan-Diamond Garden, Chembur","देशभक्त ना.ग. आचार्य उद्यान-डायमंड गार्डन, चेंबूर",Line 2B,Elevated,Side,Operational,,Metro,,
+MM-029,Devipada,देवीपाडा,Line 7,Elevated,Side,Operational,,Metro,,
+MM-030,Dharavi,धारावी,Line 3,Underground,Island,Operational,,Metro,,
+MM-031,Dindoshi,दिंडोशी,Line 7,Elevated,Side,Operational,,Metro,,
+MM-032,Eksar,एकसर,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-033,Ghatkopar,घाटकोपर,Line 1,Elevated,Island,Operational,Transfer station to Ghatkopar railway station,Metro,,Transfer station to Ghatkopar railway station
+MM-034,Girgaon,गिरगाव,Line 3,Underground,Island,Operational,,Metro,,
+MM-035,Goregaon East,गोरेगाव (पूर्व),Line 7,Elevated,Side,Operational,,Metro,,
+MM-036,Goregaon West,गोरेगाव (पश्चिम),Line 2A,Elevated,Side,Operational,,Metro,,
+MM-037,Grant Road,ग्रँट रोड,Line 3,Underground,Island,Operational,Transfer station to Grant Road railway station,Metro,,Transfer station to Grant Road railway station
+MM-038,Gundavali,गुंदवली,Line 7,Elevated,Side,Operational,"Interchange with Line 1 ""Blue Line (Mumbai Metro)"") on Western Express Highway",Metro,,"Interchange with Line 1 ""Blue Line (Mumbai Metro)"") on Western Express Highway"
+MM-039,Hutatma Chowk,हुतात्मा चौक,Line 3,Underground,Island,Operational,,Metro,,
+MM-040,Jagannath Shankar Sheth,जगन्नाथ शंकरशेठ,Line 3,Underground,Island,Operational,Transfer station to Mumbai Central railway station,Metro,,Transfer station to Mumbai Central railway station
+MM-041,Jagruti Nagar,जागृती नगर,Line 1,Elevated,Side,Operational,,Metro,,
+MM-042,Jogeshwari East,जोगेश्वरी (पूर्व),Line 7,Elevated,Side,Operational,"Interchange with Line 6 ""Pink Line (Mumbai Metro)"") on JVLR Junction",Metro,,"Interchange with Line 6 ""Pink Line (Mumbai Metro)"") on JVLR Junction"
+MM-043,Kalbadevi,काळबादेवी,Line 3,Underground,Island,Operational,,Metro,,
+MM-044,Kandarpada,कांदरपाडा,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-045,Kandivli West,कांदिवली (पश्चिम),Line 2A,Elevated,Side,Operational,,Metro,,
+MM-046,Kashigaon,काशिगाव,Line 9,Elevated,Side,Operational,,Metro,,
+MM-047,Kurar,कुरार,Line 7,Elevated,Side,Operational,,Metro,,
+MM-048,Lower Malad,लोअर मालाड,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-049,Lower Oshiwara,लोअर ओशिवरा,Line 2A,Elevated,Side,Operational,"Interchange with Line 6 ""Pink Line (Mumbai Metro)"") on Adarsh Nagar (Mumbai)_metro_station ""Adarsh Nagar (Mumbai) metro station"")",Metro,,"Interchange with Line 6 ""Pink Line (Mumbai Metro)"") on Adarsh Nagar (Mumbai)_metro_station ""Adarsh Nagar (Mumbai) metro station"")"
+MM-050,Magathane,मागाठाणे,Line 7,Elevated,Side,Operational,,Metro,,
+MM-051,Mahalaxmi,महालक्ष्मी,Line 3,Underground,Island,Operational,Transfer station to Mahalaxmi railway station and Sant Gadge Maharaj Chowk monorail station,Metro,,Transfer station to Mahalaxmi railway station and Sant Gadge Maharaj Chowk monorail station
+MM-052,Maharashtranagar Mandale,महाराष्ट्रनगर मंडाळे,Line 2B,Elevated,Side,Operational,,Metro,,
+MM-053,Malad West,मालाड (पश्चिम),Line 2A,Elevated,Side,Operational,,Metro,,
+MM-054,Mandapeshwar,मंडपेश्वर,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-055,Mankhurd,मानखुर्द,Line 2B; Line 8,Elevated,Side and island,Operational,Transfer station to Mankhurd railway station,Metro,,Transfer station to Mankhurd railway station
+MM-056,Marol Naka,मरोळ नाका,Line 1; Line 3,Elevated; underground,Side and island,Operational,,Metro,,
+MM-057,MIDC - Andheri,एम.आय.डी.सी. - अंधेरी,Line 3,Underground,Island,Operational,,Metro,,
+MM-058,Miragaon,मिरागाव,Line 9,Elevated,Side,Operational,"Interchange with Line 10 ""Green Line (Mumbai Metro)"") on Shivaji Chowk (Mira Road)_metro_station ""Shivaji Chowk (Mira Road) metro station"")",Metro,,"Interchange with Line 10 ""Green Line (Mumbai Metro)"") on Shivaji Chowk (Mira Road)_metro_station ""Shivaji Chowk (Mira Road) metro station"")"
+MM-059,Mogra,मोगरा,Line 7,Elevated,Side,Operational,,Metro,,
+MM-060,Oshiwara,ओशिवरा,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-061,Ovaripada,ओवरीपाडा,Line 7,Elevated,Side,Operational,,Metro,,
+MM-062,Pandurang Wadi,पांडुरंग वाडी,Line 9,Elevated,Side,Operational,,Metro,,
+MM-063,Poisar,पोईसर,Line 7,Elevated,Side,Operational,,Metro,,
+MM-064,Rashtriya Udyan,राष्ट्रीय उद्यान,Line 7,Elevated,Side,Operational,,Metro,,
+MM-065,Sahar Road,सहार रोड,Line 3,Underground,Island,Operational,,Metro,,
+MM-066,Saki Naka,साकी नाका,Line 1,Elevated,Side,Operational,,Metro,,
+MM-067,Santacruz,सांताक्रुझ,Line 3,Underground,Island,Operational,Transfer station to Santacruz railway station,Metro,,Transfer station to Santacruz railway station
+MM-068,Science Centre,विज्ञान केंद्र,Line 3,Underground,Island,Operational,,Metro,,
+MM-069,SEEPZ,सीप्झ,Line 3,Underground,Island,Operational,,Metro,,
+MM-070,Shimpoli,शिंपोली,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-071,Shitaladevi Mandir,शितलादेवी मंदिर,Line 3,Underground,Island,Operational,,Metro,,
+MM-072,Siddhivinayak,सिद्धिविनायक,Line 3,Underground,Island,Operational,,Metro,,
+MM-073,Valnai–Meeth Chowky,वळनई–मीठ चौकी,Line 2A,Elevated,Side,Operational,,Metro,,
+MM-074,Versova,वर्सोवा,Line 1,Elevated,Side,Operational,,Metro,,
+MM-075,Vidhan Bhavan,विधान भवन,Line 3,Underground,Island,Operational,,Metro,,
+MM-076,Western Express Highway,पश्चिम द्रुतगती महामार्ग,Line 1,Elevated,Side,Operational,"Interchange with Line 7 ""Red Line (Mumbai Metro)"") on Gundavali",Metro,,"Interchange with Line 7 ""Red Line (Mumbai Metro)"") on Gundavali"
+MM-077,Worli,वरळी,Line 3,Underground,Island,Operational,,Metro,,
+MM-078,Adarsh Nagar (Mumbai),आदर्श नगर (मुंबई),Line 6,Elevated,Side,Under construction,"Interchange with Line 2A ""Yellow Line (Mumbai Metro)"") on Lower Oshiwara",Metro,,"Interchange with Line 2A ""Yellow Line (Mumbai Metro)"") on Lower Oshiwara"
+MM-079,Airport Colony,विमानतळ वसाहत,Line 7,Elevated,Side,Under construction,–,Metro,,–
+MM-080,Amar Mahal Junction,अमर महल जंक्शन,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-081,Anik Nagar Bus Depot,आणिक नगर बस डेपो,Line 11,At-grade,Side,Under construction,–,Metro,,–
+MM-082,Anjur Phata,अंजूर फाटा,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-083,Apollo,अपोलो,Line 8,Elevated,Side,Under construction,–,Metro,,–
+MM-084,Baiganwadi,बैगनवाडी,Line 8,Elevated,Side,Under construction,–,Metro,,–
+MM-085,Bale,बाळे,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-086,Balkum Naka,बाळकुम नाका,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-087,Bandra,वांद्रे,Line 2B,Elevated,Side,Under construction,Transfer station to Bandra railway station,Metro,,Transfer station to Bandra railway station
+MM-088,Bhandup,भांडुप,Line 4,Elevated,Side,Under construction,Transfer station to Bhandup railway station,Metro,,Transfer station to Bhandup railway station
+MM-089,Bhandup Mahapalika,भांडुप महापालिका,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-090,Bhendi Bazaar,भेंडी बाजार,Line 11,Underground,Island,Under construction,–,Metro,,–
+MM-091,Bhiwandi,भिवंडी,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-092,BPT Hospital,बी.पी.टी. रुग्णालय,Line 11,Underground,Island,Under construction,–,Metro,,–
+MM-093,Byculla,भायखळा,Line 11,Underground,Island,Under construction,Transfer station to Byculla railway station,Metro,,Transfer station to Byculla railway station
+MM-094,Cadbury Junction,कॅडबरी जंक्शन,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-095,CGS Colony,सी.जी.एस. कॉलनी,Line 11,Underground,Island,Under construction,Transfer station to Bhakti Park monorail station,Metro,,Transfer station to Bhakti Park monorail station
+MM-096,Coal Bunder,कोळसा बंदर,Line 11,Underground,Island,Under construction,–,Metro,,–
+MM-097,Crawford Market,क्रॉफर्ड मार्केट,Line 11,Underground,Island,Under construction,–,Metro,,–
+MM-098,Dhamankar Naka,धामणकर नाका,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-099,Dombivali MIDC,डोंबिवली एमआयडीसी,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-100,Dongripada,डोंगरीपाडा,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-101,Durgadi Fort,दुर्गाडी किल्ला,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-102,Eastern Express Highway,पूर्व द्रुतगती महामार्ग,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-103,ESIC Nagar,ई.एस.आय.सी. नगर,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-104,Gaimukh,गायमुख,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-105,Gaimukh Reti Bandar,गायमुख रेतीबंदर,Line 10,Elevated,Side,Under construction,–,Metro,,–
+MM-106,Gandhi Nagar (Kanjurmarg),गांधी नगर,Line 4,Elevated,Side,Under construction,"Interchange with Line 6 ""Pink Line (Mumbai Metro)"") on Kanjurmarg (West)_metro_station ""Kanjurmarg (West) metro station"") and Transfer station to Kanjur Marg railway station",Metro,,"Interchange with Line 6 ""Pink Line (Mumbai Metro)"") on Kanjurmarg (West)_metro_station ""Kanjurmarg (West) metro station"") and Transfer station to Kanjur Marg railway station"
+MM-107,Ganesh Nagar (Kalyan),गणेश नगर (कल्याण),Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-108,Ganesh Nagar,गणेश नगर (वडाळा),Line 11,Underground,Island,Under construction,–,Metro,,–
+MM-109,Garodia Nagar,गरोडिया नगर,Line 4; Line 8,Elevated; underground,Side and island,Under construction,–,Metro,,–
+MM-110,Godrej Company,गोदरेज वसाहत,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-111,Golavali,गोळवली,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-112,Gopal Nagar,गोपाळ नगर,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-113,Govegaon MIDC,गोवेगाव एम.आय.डी.सी.,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-114,Gowniwada,गोवनीवाडा,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-115,Hay Bunder,हे बंदर,Line 11,Underground,Island,Under construction,–,Metro,,–
+MM-116,Hedutane,हेदुटणे,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-117,Horniman Circle,हॉर्निमन सर्कल,Line 11,Underground,Island,Under construction,–,Metro,,–
+MM-118,IIT Powai,आय.आय.टी. पवई,Line 6,Elevated,Side,Under construction,–,Metro,,–
+MM-119,ILFS,आय.एल. आणि एफ.एस.,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-120,Income Tax Office,आयकर कार्यालय,Line 2B,Elevated,Side,Under construction,"Interchange with Line 3 ""Aqua Line (Mumbai Metro)"") on Bandra Kurla Complex",Metro,,"Interchange with Line 3 ""Aqua Line (Mumbai Metro)"") on Bandra Kurla Complex"
+MM-121,Indira Nagar (Vile Parle),इंदिरा नगर,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-122,ISBT,आय.एस.बी.टी.,Line 8,Elevated,Side,Under construction,–,Metro,,–
+MM-123,Jogeshwari (West),जोगेश्वरी (पश्चिम),Line 6,Elevated,Side,Under construction,Transfer station to Jogeshwari railway station,Metro,,Transfer station to Jogeshwari railway station
+MM-124,Juinagar,जुईनगर,Line 8,Elevated,Side,Under construction,Transfer station to Juinagar railway station,Metro,,Transfer station to Juinagar railway station
+MM-125,JVLR Junction,जे.व्ही.एल.आर.,Line 6,Elevated,Side,Under construction,"Interchange with Line 7 ""Red Line (Mumbai Metro)"") on Jogeshwari East",Metro,,"Interchange with Line 7 ""Red Line (Mumbai Metro)"") on Jogeshwari East"
+MM-126,Kalher,काल्हेर,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-127,Kalyan APMC,कल्याण ए.पी.एम.सी.,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-128,Kalyan Railway Station,कल्याण रेल्वे स्थानक,Line 12,Elevated,Side,Under construction,Transfer station to Kalyan Junction railway station,Metro,,Transfer station to Kalyan Junction railway station
+MM-129,Kanjurmarg (West),कांजुर मार्ग,Line 6,Elevated,Side,Under construction,"Interchange with Line 4 ""Green Line (Mumbai Metro)"") on Gandhi Nagar (Kanjurmarg)_metro_station ""Gandhi Nagar (Kanjurmarg) metro station"") and Transfer station to Kanjur Marg railway station",Metro,,"Interchange with Line 4 ""Green Line (Mumbai Metro)"") on Gandhi Nagar (Kanjurmarg)_metro_station ""Gandhi Nagar (Kanjurmarg) metro station"") and Transfer station to Kanjur Marg railway station"
+MM-130,Kapurbawdi,कापूरबावडी,Line 4; Line 5,Elevated,Side and island,Under construction,–,Metro,,–
+MM-131,Kasarvadavali,कासारवडवली,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-132,Kasheli,कशेळी,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-133,Kashimira,काशिमिरा,Line 10,Elevated,Side,Under construction,–,Metro,,–
+MM-134,Khira Nagar,खिरा नगर,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-135,Kolegaon,कोळेगाव,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-136,Kongaon,कोनगाव,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-137,Kurla,कुर्ला,Line 8,Underground,Island,Under construction,Transfer station to Kurla railway station,Metro,,Transfer station to Kurla railway station
+MM-138,Kurla (East),कुर्ला (पूर्व),Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-139,Laxmi Nagar (Ghatkopar),लक्ष्मी नगर,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-140,Lokmanya Tilak Terminus,लोकमान्य टिळक टर्मिनस,Line 8,Underground,Island,Under construction,Transfer station to Lokmanya Tilak Terminus,Metro,,Transfer station to Lokmanya Tilak Terminus
+MM-141,LP,एल.पी.,Line 8,Elevated,Side,Under construction,–,Metro,,–
+MM-142,Mahakali Caves,महाकाली गुहा,Line 6,Elevated,Side,Under construction,–,Metro,,–
+MM-143,Mahapalika Marg,महापालिका मार्ग,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-144,Majiwada,माजिवडा,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-145,Manpada (Dombivali East),मानपाडा (डोंबिवली),Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-146,Manpada (Thane),मानपाडा (ठाणे),Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-147,Deepak Hospital (Medtiya Nagar),मेडतिया नगर,Line 9,Elevated,Side,Under construction,–,Metro,,–
+MM-148,MTNL,एम.टी.एन.एल.,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-149,Mulund Fire Station,मुलुंड अग्निशमन केंद्र,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-150,Mulund Naka,मुलुंड नाका,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-151,Nagpada Junction,नागपाडा जंक्शन,Line 11,Underground,Island,Under construction,–,Metro,,–
+MM-152,Nanavati Hospital,नानावटी रुग्णालय,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-153,Navi Mumbai International Airport West,नवी मुंबई आंतरराष्ट्रीय विमानतळ पश्चिम,Line 8,Elevated,Side,Under construction,–,Metro,,–
+MM-154,Navi Mumbai International Airport Terminal 2,नवी मुंबई आंतरराष्ट्रीय विमानतळ टर्मिनल २,Line 8,Elevated,Side,Under construction,–,Metro,,–
+MM-155,National College (Bandra),राष्ट्रीय महाविद्यालय,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-156,Naval Housing,नौदल गृहनिर्माण,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-157,Nerul,नेरूळ,Line 8,Elevated,Side,Under construction,Transfer station to Nerul railway station,Metro,,Transfer station to Nerul railway station
+MM-158,Nilaje Gaon,निळजे गाव,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-159,Pant Nagar,पंत नगर,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-160,Phoenix Mall,फिनिक्स मॉल,Line 8,Underground,Island,Under construction,–,Metro,,–
+MM-161,Pisarve,पिसार्वे,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-162,Pisarve Depot,पिसार्वे डेपो,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-163,Pisavali Gaon,पिसवली गाव,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-164,Powai Lake,पवई तलाव,Line 6,Elevated,Side,Under construction,–,Metro,,–
+MM-165,Prem Nagar,प्रेम नगर,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-166,Purna,पूर्णा,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-167,Rajnouli Village,रांजणोली,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-168,Rambaug (Powai),रामबाग,Line 6,Elevated,Side,Under construction,–,Metro,,–
+MM-169,Reay Road,रे रोड,Line 11,Underground,Island,Under construction,Transfer station to Reay Road railway station,Metro,,Transfer station to Reay Road railway station
+MM-170,RTO Thane,आर.टी.ओ. ठाणे,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-171,SG Barve Marg,एस.जी. बर्वे मार्ग,Line 2B; Line 8,Elevated; underground,Side and island,Under construction,–,Metro,,–
+MM-172,Sagaon,सागाव,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-173,Sagar Sangam,सागरसंगम,Line 8,Elevated,Side,Under construction,–,Metro,,–
+MM-174,Sahajanand Chowk,सहजानंद चौक,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-175,Sai Baba Nagar,साई बाबा नगर,Line 9,Elevated,Side,Under construction,–,Metro,,–
+MM-176,Saki Vihar Road,साकी विहार,Line 6,Elevated,Side,Under construction,–,Metro,,–
+MM-177,Sanpada,सानपाडा,Line 8,Elevated,Side,Under construction,Transfer station to Sanpada railway station,Metro,,Transfer station to Sanpada railway station
+MM-178,Saraswat Nagar,सारस्वत नगर,Line 2B,Elevated,Side,Under construction,–,Metro,,–
+MM-179,Seawoods,सीवूड्स,Line 8,Elevated,Side,Under construction,Transfer station to Seawoods-Darave-Karave railway station,Metro,,Transfer station to Seawoods-Darave-Karave railway station
+MM-180,SEEPZ Village,सीप्झ गाव,Line 6,Elevated,Side,Under construction,"Interchange with Line 3 ""Aqua Line (Mumbai Metro)"") on Aarey JVLR",Metro,,"Interchange with Line 3 ""Aqua Line (Mumbai Metro)"") on Aarey JVLR"
+MM-181,Sewri,शिवडी,Line 11,Underground,Island,Under construction,Transfer station to Sewri railway station,Metro,,Transfer station to Sewri railway station
+MM-182,Shahid Bhagat Singh Garden,शहीद भगतसिंग उद्यान,Line 9,Elevated,Side,Under construction,–,Metro,,–
+MM-183,Shangrila,शांग्रीला,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-184,Shivaji Chowk (Mira Road),शिवाजी चौक (मीरा रोड),Line 10; Line 13,Elevated,Side and island,Under construction,"Interchange with Line 9 ""Red Line (Mumbai Metro)"") on Miragaon",Metro,,"Interchange with Line 9 ""Red Line (Mumbai Metro)"") on Miragaon"
+MM-185,Shreyas Cinema,श्रेयस सिनेमा,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-186,Shyam Nagar (Mumbai),श्याम नगर (मुंबई),Line 6,Elevated,Side,Under construction,–,Metro,,–
+MM-187,Siddharth Colony,सिद्धार्थ वसाहत,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-188,Sonapur,सोनापूर,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-189,Sonarpada,सोनारपाडा,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-190,SPM Circle,एस.पी.एम. सर्कल,Line 11,Underground,Island,Under construction,–,Metro,,–
+MM-191,Subhash Chandra Bose Stadium,सुभाषचंद्र बोस स्टेडियम,Line 9,Elevated,Side,Under construction,–,Metro,,–
+MM-192,Suman Nagar,सुमन नगर,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-193,Surya Nagar,सूर्य नगर,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-194,Swami Samarth Nagar (Lokhandwala),स्वामी समर्थ नगर,Line 6,Elevated,Side,Under construction,–,Metro,,–
+MM-195,Taloja,तळोजा,Line 12,Elevated,Side,Under construction,"Interchange with Line 1 (Navi Mumbai Metro) ""Line 1 (Navi Mumbai Metro)"") on Panchanand metro station",Metro,,"Interchange with Line 1 (Navi Mumbai Metro) ""Line 1 (Navi Mumbai Metro)"") on Panchanand metro station"
+MM-196,Targhar,तरघर,Line 8,Elevated,Side,Under construction,Transfer station to Targhar railway station,Metro,,Transfer station to Targhar railway station
+MM-197,Teen Haath Naka (Thane),तीन हात नाका,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-198,Temghar,टेमघर,Line 5,Elevated,Side,Under construction,–,Metro,,–
+MM-199,Tikuji-ni-wadi,टिकुजी-नी-वाडी,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-200,Turbhe,तुर्भे,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-201,Vadavali,वडवली,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MM-202,Varsova Char Phata,वर्सोवा चार फाटा,Line 10,Elevated,Side,Under construction,–,Metro,,–
+MM-203,Vashi,वाशी,Line 8,Elevated,Side,Under construction,Transfer station to Vashi railway station,Metro,,Transfer station to Vashi railway station
+MM-204,Vijay Garden,विजय गार्डन,Line 4,Elevated,Side,Under construction,–,Metro,,–
+MM-205,Vikhroli EEH,विक्रोळी ई.इ.एच.,Line 6; Line 14,Elevated,Side and island,Under construction,–,Metro,,–
+MM-206,Vikhroli,विक्रोळी,Line 4,Elevated,Side,Under construction,Transfer station to Vikhroli railway station,Metro,,Transfer station to Vikhroli railway station
+MM-207,Waklan,वाकळण,Line 12,Elevated,Side,Under construction,–,Metro,,–
+MONO-001,Chembur,चेंबूर,Mumbai Monorail Line 1,,,Opened,Harbour / Chembur Railway Station,Monorail,2 February 2014,Harbour / Chembur Railway Station
+MONO-002,VNP and RC Marg Junction,व्हीएनपी आणि आरसी मार्ग जंक्शन,Mumbai Monorail Line 1,,,Opened,Metro Line 2,Monorail,2 February 2014,Metro Line 2
+MONO-003,Fertiliser Township,फर्टीलाइझर टाउनशिप,Mumbai Monorail Line 1,,,Opened,None,Monorail,2 February 2014,None
+MONO-004,Bharat Petroleum,भारत पेट्रोलियम,Mumbai Monorail Line 1,,,Opened,None,Monorail,2 February 2014,None
+MONO-005,Mysore Colony,मैसूर कॉलनी,Mumbai Monorail Line 1,,,Opened,None,Monorail,2 February 2014,None
+MONO-006,Bhakti Park,भक्ती पार्क,Mumbai Monorail Line 1,,,Opened,Metro Line 4 (under construction),Monorail,2 February 2014,Metro Line 4 (under construction)
+MONO-007,Wadala Depot,वडाळा डेपो,Mumbai Monorail Line 1,,,Opened,None,Monorail,2 February 2014,None
+MONO-008,Guru Tegh Bahadur Nagar,गुरू तेग बहादुर नगर,Mumbai Monorail Line 1,,,Opened,Harbour / Guru Tegh Bahadur Nagar Railway Station,Monorail,3 March 2019,Harbour / Guru Tegh Bahadur Nagar Railway Station
+MONO-009,Antop Hill,अँटॉप हिल,Mumbai Monorail Line 1,,,Opened,None,Monorail,3 March 2019,None
+MONO-010,Acharya Atre Nagar,आचार्य अत्रे नगर,Mumbai Monorail Line 1,,,Opened,None,Monorail,3 March 2019,None
+MONO-011,Wadala Bridge,वडाळा ब्रिज,Mumbai Monorail Line 1,,,Opened,Harbour / Wadala Road Railway Station,Monorail,3 March 2019,Harbour / Wadala Road Railway Station
+MONO-012,Dadar (East),दादर (पूर्व),Mumbai Monorail Line 1,,,Opened,None,Monorail,3 March 2019,None
+MONO-013,Naigaon,नायगाव,Mumbai Monorail Line 1,,,Opened,None,Monorail,3 March 2019,None
+MONO-014,Ambedkar Nagar,आंबेडकर नगर,Mumbai Monorail Line 1,,,Opened,None,Monorail,3 March 2019,None
+MONO-015,Mint Colony,मिंट कॉलनी,Mumbai Monorail Line 1,,,Opened,None,Monorail,3 March 2019,None
+MONO-016,Lower Parel,लोअर परळ,Mumbai Monorail Line 1,,,Opened,Western / Lower Parel Railway Station,Monorail,3 March 2019,Western / Lower Parel Railway Station
+MONO-017,Sant Gadge Maharaj Chowk,संत गाडगे महाराज चौक,Mumbai Monorail Line 1,,,Opened,Metro Line 3,Monorail,3 March 2019,Metro Line 3

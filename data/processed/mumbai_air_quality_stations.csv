@@ -1,0 +1,46 @@
+openaq_location_id,station_name,locality,country,latitude,longitude,timezone,is_mobile,is_monitor,owner,provider,source
+11602,"Bandra Kurla Complex, Mumbai - IITM",,India,19.053536000000005,72.84643,Asia/Kolkata,False,True,Unknown Governmental Organization,caaqm,OpenAQ
+3409328,"Bandra Kurla Complex, Mumbai - IITM",,India,19.0627,72.84614,Asia/Kolkata,False,True,Indian Institute of Tropical Meteorology,CPCB,OpenAQ
+3409482,"Bandra Kurla Complex, Mumbai - MPCB",,India,19.065931,72.862131,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+7850,"Bandra, Mumbai - MPCB",,India,19.0627,72.84614,Asia/Kolkata,False,True,Unknown Governmental Organization,caaqm,OpenAQ
+3409478,"Bhayandar West, Mira-Bhayandar - MPCB",,India,19.296481,72.840923,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+11606,"Borivali East, Mumbai - IITM",,India,19.23241,72.86895,Asia/Kolkata,False,True,Indian Institute of Tropical Meteorology,CPCB,OpenAQ
+6965,"Borivali East, Mumbai - MPCB",,India,19.227474,72.864394,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+3409510,"Byculla, Mumbai - BMC",,India,18.9767,72.838,Asia/Kolkata,False,True,Brihanmumbai Municipal Corporation,CPCB,OpenAQ
+3409476,"CBD Belapur, Belapur - MPCB",,India,19.0243902,73.0406721,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+12024,"Chakala-Andheri East, Mumbai - IITM",,India,19.11074,72.86084,Asia/Kolkata,False,True,Indian Institute of Tropical Meteorology,CPCB,OpenAQ
+3409483,"Chembur, Mumbai - MPCB",,India,19.0364585,72.8954371,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+6948,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",,India,19.10078,72.87462,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+6927,"Colaba, Mumbai - MPCB",,India,18.91,72.82,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+11604,"Deonar, Mumbai - IITM",,India,19.04946,72.923,Asia/Kolkata,False,True,Unknown Governmental Organization,caaqm,OpenAQ
+3409329,"Deonar, Mumbai - IITM",,India,19.04946,72.923,Asia/Kolkata,False,True,Indian Institute of Tropical Meteorology,CPCB,OpenAQ
+3409514,"Ghatkopar, Mumbai - BMC",,India,19.083694,72.920967,Asia/Kolkata,False,True,Brihanmumbai Municipal Corporation,CPCB,OpenAQ
+3409485,"Gokul Nagar, Bhiwandi - MPCB",,India,19.309073,73.057223,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+6266795,"Kalu Nagar, Dombivli - MPCB",,India,19.2268427,73.0788456,Asia/Kolkata,False,False,OpenAQ admin,N/A,OpenAQ
+12044,"Kandivali East, Mumbai - MPCB",,India,19.2058,72.8682,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+3409512,"Kandivali West, Mumbai - BMC",,India,19.215859,72.831718,Asia/Kolkata,False,True,Brihanmumbai Municipal Corporation,CPCB,OpenAQ
+3409469,"Kasarvadavali, Thane - MPCB",,India,19.26777,72.97182,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+3409486,"Kherwadi_Bandra East, Mumbai - MPCB",,India,19.0632143,72.8456324,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+12039,"Khindipada-Bhandup West, Mumbai - IITM",,India,19.164394,72.928297,Asia/Kolkata,False,True,Indian Institute of Tropical Meteorology,CPCB,OpenAQ
+3409477,"Kopripada-Vashi, Navi Mumbai - MPCB",,India,19.090337,73.014232,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+6945,"Kurla, Mumbai - MPCB",,India,19.0863,72.8888,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+6943,"Mahape, Navi Mumbai - MPCB",,India,19.1135051,73.008978,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+11611,"Malad West, Mumbai - IITM",,India,19.19709,72.82204,Asia/Kolkata,False,True,Indian Institute of Tropical Meteorology,CPCB,OpenAQ
+3409479,"Mindspace-Malad West, Mumbai - MPCB",,India,19.1878657,72.8304069,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+12040,"Mulund West, Mumbai - MPCB",,India,19.175,72.9419,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+8039,Mumbai,India,India,19.07283,72.88261,Asia/Kolkata,False,True,Unknown Governmental Organization,AirNow,OpenAQ
+2598,Navi Mumbai Municipal Corporation Airoli,,India,19.1494,72.9986,Asia/Kolkata,False,True,Unknown Governmental Organization,CPCB,OpenAQ
+5593,"Pimpleshwar Mandir, Thane - MPCB",,India,19.192056,72.9585188,Asia/Kolkata,False,True,Unknown Governmental Organization,caaqm,OpenAQ
+3409322,"Pimpleshwar Mandir, Thane - MPCB",,India,19.192056,72.9585188,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+6956,"Powai, Mumbai - MPCB",,India,19.1375,72.915056,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+3409487,"Sanpada, Navi Mumbai - MPCB",,India,19.0575752,73.0151367,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+11612,"Sector-19A Nerul, Navi Mumbai - IITM",,India,19.044,73.03250000000001,Asia/Kolkata,False,True,Unknown Governmental Organization,caaqm,OpenAQ
+3409330,"Sector-19A Nerul, Navi Mumbai - IITM",,India,19.044,73.0325,Asia/Kolkata,False,True,Indian Institute of Tropical Meteorology,CPCB,OpenAQ
+3409513,"Sewri, Mumbai - BMC",,India,19.000084,72.85673,Asia/Kolkata,False,True,Brihanmumbai Municipal Corporation,CPCB,OpenAQ
+3409511,"Shivaji Nagar, Mumbai - BMC",,India,19.060498,72.923356,Asia/Kolkata,False,True,Brihanmumbai Municipal Corporation,CPCB,OpenAQ
+6959,"Siddharth Nagar-Worli, Mumbai - IITM",,India,19.000083,72.813993,Asia/Kolkata,False,True,Indian Institute of Tropical Meteorology,CPCB,OpenAQ
+60661,"Siddharth Nagar-Worli, Mumbai - IITM",,India,19.000083,72.813993,Asia/Kolkata,False,True,Unknown Governmental Organization,caaqm,OpenAQ
+6967,"Sion, Mumbai - MPCB",,India,19.047,72.8746,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+3409472,"Upvan Fort, Thane - MPCB",,India,19.222279,72.957979,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+6987,"Vile Parle West, Mumbai - MPCB",,India,19.10861,72.83622,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ
+3409323,"Worli, Mumbai - MPCB",,India,18.9936162,72.8128113,Asia/Kolkata,False,True,Maharashtra Pollution Control Board,CPCB,OpenAQ

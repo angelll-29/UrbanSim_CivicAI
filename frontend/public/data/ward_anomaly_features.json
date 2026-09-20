@@ -1,0 +1,785 @@
+[
+  {
+    "ward_code": "ME",
+    "feature_rank": 1,
+    "feature": "police_station_count",
+    "standardized_squared_error": 1.727720867724222,
+    "standardized_absolute_error": 1.3144279621661363,
+    "actual_value": 8.0,
+    "reconstructed_standardized_value": 0.13567677
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 2,
+    "feature": "classrooms_repair_pct",
+    "standardized_squared_error": 1.5452816840766324,
+    "standardized_absolute_error": 1.2430935942545245,
+    "actual_value": 2.7260638297872344,
+    "reconstructed_standardized_value": 0.27724302
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 3,
+    "feature": "unresolved_complaints_2024",
+    "standardized_squared_error": 1.0385044012575455,
+    "standardized_absolute_error": 1.0190703612889276,
+    "actual_value": 530.0,
+    "reconstructed_standardized_value": 0.43980327
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 4,
+    "feature": "uphcs",
+    "standardized_squared_error": 0.7718752717933655,
+    "standardized_absolute_error": 0.8785643242206944,
+    "actual_value": 14.0,
+    "reconstructed_standardized_value": 0.3394965
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 5,
+    "feature": "complaints_received_2024",
+    "standardized_squared_error": 0.7427362457790029,
+    "standardized_absolute_error": 0.8618214697830421,
+    "actual_value": 4060.0,
+    "reconstructed_standardized_value": 0.3764314
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 6,
+    "feature": "metro_station_count",
+    "standardized_squared_error": 0.7397985630603905,
+    "standardized_absolute_error": 0.86011543589241,
+    "actual_value": 2.0,
+    "reconstructed_standardized_value": -0.06717773
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 7,
+    "feature": "bus_stop_count",
+    "standardized_squared_error": 0.6913769129175136,
+    "standardized_absolute_error": 0.831490777409776,
+    "actual_value": 186.0,
+    "reconstructed_standardized_value": 0.2474784
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 8,
+    "feature": "green_space_count",
+    "standardized_squared_error": 0.6819941762856185,
+    "standardized_absolute_error": 0.8258293869108912,
+    "actual_value": 73.0,
+    "reconstructed_standardized_value": 0.42364007
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 9,
+    "feature": "green_space_share_pct",
+    "standardized_squared_error": 0.6610706113969752,
+    "standardized_absolute_error": 0.813062489232516,
+    "actual_value": 7.41869918699187,
+    "reconstructed_standardized_value": 0.43640697
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 10,
+    "feature": "hospitals",
+    "standardized_squared_error": 0.6595262763814133,
+    "standardized_absolute_error": 0.8121122313950291,
+    "actual_value": 0.0,
+    "reconstructed_standardized_value": -0.45451343
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 11,
+    "feature": "closure_pct_2024",
+    "standardized_squared_error": 0.5686271027369644,
+    "standardized_absolute_error": 0.7540736719558404,
+    "actual_value": 87.0,
+    "reconstructed_standardized_value": -0.25955623
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 12,
+    "feature": "total_public_transport_nodes",
+    "standardized_squared_error": 0.5650086849617754,
+    "standardized_absolute_error": 0.7516705960470819,
+    "actual_value": 190.0,
+    "reconstructed_standardized_value": 0.18106377
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 13,
+    "feature": "dispensaries",
+    "standardized_squared_error": 0.5434127918917523,
+    "standardized_absolute_error": 0.7371653762160512,
+    "actual_value": 10.0,
+    "reconstructed_standardized_value": -0.10016463
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 14,
+    "feature": "area_sq_km",
+    "standardized_squared_error": 0.4856677235726979,
+    "standardized_absolute_error": 0.6968986465567988,
+    "actual_value": 38.2257,
+    "reconstructed_standardized_value": 0.661248
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 15,
+    "feature": "students_total",
+    "standardized_squared_error": 0.4379511807744416,
+    "standardized_absolute_error": 0.6617788004873242,
+    "actual_value": 42028.0,
+    "reconstructed_standardized_value": 0.7781405
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 16,
+    "feature": "facilities_per_10000_population",
+    "standardized_squared_error": 0.334766347928518,
+    "standardized_absolute_error": 0.5785899652850177,
+    "actual_value": 93.46060516020404,
+    "reconstructed_standardized_value": 0.8590192
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 17,
+    "feature": "teacher_student_ratio",
+    "standardized_squared_error": 0.3270021071482398,
+    "standardized_absolute_error": 0.571840980647802,
+    "actual_value": 0.0424003045588655,
+    "reconstructed_standardized_value": -0.22119318
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 18,
+    "feature": "healthcare_facilities",
+    "standardized_squared_error": 0.3033532325036721,
+    "standardized_absolute_error": 0.5507751197209911,
+    "actual_value": 25.0,
+    "reconstructed_standardized_value": 0.23274864
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 19,
+    "feature": "population_2011",
+    "standardized_squared_error": 0.2804301196653175,
+    "standardized_absolute_error": 0.5295565311327182,
+    "actual_value": 807720.0,
+    "reconstructed_standardized_value": 0.74653506
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 20,
+    "feature": "fire_station_count",
+    "standardized_squared_error": 0.257686039347441,
+    "standardized_absolute_error": 0.5076278551729022,
+    "actual_value": 2.0,
+    "reconstructed_standardized_value": 0.069722414
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 21,
+    "feature": "teachers_total",
+    "standardized_squared_error": 0.2473709018756084,
+    "standardized_absolute_error": 0.4973639531325208,
+    "actual_value": 1782.0,
+    "reconstructed_standardized_value": 0.7520581
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 22,
+    "feature": "public_toilet_count",
+    "standardized_squared_error": 0.2050623612388688,
+    "standardized_absolute_error": 0.4528381181381143,
+    "actual_value": 446.0,
+    "reconstructed_standardized_value": 0.75652635
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 23,
+    "feature": "udise_city_schools",
+    "standardized_squared_error": 0.1605307580276995,
+    "standardized_absolute_error": 0.4006628982420253,
+    "actual_value": 115.0,
+    "reconstructed_standardized_value": 0.90028304
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 24,
+    "feature": "monorail_station_count",
+    "standardized_squared_error": 0.152076605173367,
+    "standardized_absolute_error": 0.3899700054790971,
+    "actual_value": 1.0,
+    "reconstructed_standardized_value": -0.20695956
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 25,
+    "feature": "avg_resolution_days_2024",
+    "standardized_squared_error": 0.0684218409815937,
+    "standardized_absolute_error": 0.2615756888198781,
+    "actual_value": 28.0,
+    "reconstructed_standardized_value": -0.4823283
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 26,
+    "feature": "population_density_per_sq_km",
+    "standardized_squared_error": 0.0507475015243777,
+    "standardized_absolute_error": 0.2252720611269354,
+    "actual_value": 21130.28,
+    "reconstructed_standardized_value": -0.55166644
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 27,
+    "feature": "railway_station_count",
+    "standardized_squared_error": 0.0342002656041481,
+    "standardized_absolute_error": 0.1849331381990479,
+    "actual_value": 2.0,
+    "reconstructed_standardized_value": -0.3388704
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 28,
+    "feature": "green_spaces_per_km2",
+    "standardized_squared_error": 0.0189357718592323,
+    "standardized_absolute_error": 0.1376073103408113,
+    "actual_value": 1.909709959529845,
+    "reconstructed_standardized_value": -0.14412913
+  },
+  {
+    "ward_code": "ME",
+    "feature_rank": 29,
+    "feature": "girls_share_pct",
+    "standardized_squared_error": 0.0016768166261144,
+    "standardized_absolute_error": 0.0409489514653855,
+    "actual_value": 48.35109926715523,
+    "reconstructed_standardized_value": 0.32886276
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 1,
+    "feature": "girls_share_pct",
+    "standardized_squared_error": 3.202341240420259,
+    "standardized_absolute_error": 1.7895086589397269,
+    "actual_value": 51.52976747534375,
+    "reconstructed_standardized_value": 0.19085655
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 2,
+    "feature": "green_spaces_per_km2",
+    "standardized_squared_error": 1.4003452252459814,
+    "standardized_absolute_error": 1.18336183192039,
+    "actual_value": 3.613587087448808,
+    "reconstructed_standardized_value": -0.22168043
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 3,
+    "feature": "dispensaries",
+    "standardized_squared_error": 1.3856340933699405,
+    "standardized_absolute_error": 1.1771295992242912,
+    "actual_value": 2.0,
+    "reconstructed_standardized_value": -0.33155638
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 4,
+    "feature": "healthcare_facilities",
+    "standardized_squared_error": 1.2661417734906837,
+    "standardized_absolute_error": 1.125229653666612,
+    "actual_value": 5.0,
+    "reconstructed_standardized_value": -0.6496915
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 5,
+    "feature": "facilities_per_10000_population",
+    "standardized_squared_error": 1.0657131151298636,
+    "standardized_absolute_error": 1.0323338196193437,
+    "actual_value": 20.440169979185043,
+    "reconstructed_standardized_value": -0.33867535
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 6,
+    "feature": "uphcs",
+    "standardized_squared_error": 0.8384846664332367,
+    "standardized_absolute_error": 0.9156880835924626,
+    "actual_value": 3.0,
+    "reconstructed_standardized_value": -0.39828303
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 7,
+    "feature": "monorail_station_count",
+    "standardized_squared_error": 0.6938071570666643,
+    "standardized_absolute_error": 0.8329508731411861,
+    "actual_value": 0.0,
+    "reconstructed_standardized_value": 0.38849694
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 8,
+    "feature": "metro_station_count",
+    "standardized_squared_error": 0.6884559551054218,
+    "standardized_absolute_error": 0.829732459956474,
+    "actual_value": 2.0,
+    "reconstructed_standardized_value": -0.097560704
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 9,
+    "feature": "teacher_student_ratio",
+    "standardized_squared_error": 0.6007905688223197,
+    "standardized_absolute_error": 0.7751068112346322,
+    "actual_value": 0.0478367288172197,
+    "reconstructed_standardized_value": 0.76219916
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 10,
+    "feature": "classrooms_repair_pct",
+    "standardized_squared_error": 0.4833118348398584,
+    "standardized_absolute_error": 0.6952063253738838,
+    "actual_value": 0.6557377049180327,
+    "reconstructed_standardized_value": 0.25392842
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 11,
+    "feature": "hospitals",
+    "standardized_squared_error": 0.4091374141852434,
+    "standardized_absolute_error": 0.6396385027382603,
+    "actual_value": 0.0,
+    "reconstructed_standardized_value": -0.62698716
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 12,
+    "feature": "avg_resolution_days_2024",
+    "standardized_squared_error": 0.3634408874819802,
+    "standardized_absolute_error": 0.6028605871028394,
+    "actual_value": 20.0,
+    "reconstructed_standardized_value": -0.56487
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 13,
+    "feature": "population_2011",
+    "standardized_squared_error": 0.3340954762310529,
+    "standardized_absolute_error": 0.5780099274502584,
+    "actual_value": 346866.0,
+    "reconstructed_standardized_value": -0.1787942
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 14,
+    "feature": "fire_station_count",
+    "standardized_squared_error": 0.2333174211704374,
+    "standardized_absolute_error": 0.4830294206054507,
+    "actual_value": 1.0,
+    "reconstructed_standardized_value": -0.09432085
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 15,
+    "feature": "police_station_count",
+    "standardized_squared_error": 0.1700587629557816,
+    "standardized_absolute_error": 0.4123818169558179,
+    "actual_value": 5.0,
+    "reconstructed_standardized_value": -0.12236087
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 16,
+    "feature": "railway_station_count",
+    "standardized_squared_error": 0.1556002808584711,
+    "standardized_absolute_error": 0.3944620144684037,
+    "actual_value": 3.0,
+    "reconstructed_standardized_value": 0.1904996
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 17,
+    "feature": "population_density_per_sq_km",
+    "standardized_squared_error": 0.1394805402631264,
+    "standardized_absolute_error": 0.3734709363031164,
+    "actual_value": 41780.87,
+    "reconstructed_standardized_value": -0.031520404
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 18,
+    "feature": "area_sq_km",
+    "standardized_squared_error": 0.1371401959831586,
+    "standardized_absolute_error": 0.3703244469153484,
+    "actual_value": 8.302,
+    "reconstructed_standardized_value": -0.47322375
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 19,
+    "feature": "students_total",
+    "standardized_squared_error": 0.0587692221991274,
+    "standardized_absolute_error": 0.242423641997078,
+    "actual_value": 27782.0,
+    "reconstructed_standardized_value": -0.35473606
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 20,
+    "feature": "unresolved_complaints_2024",
+    "standardized_squared_error": 0.0488903640353374,
+    "standardized_absolute_error": 0.2211116551322826,
+    "actual_value": 203.0,
+    "reconstructed_standardized_value": -0.6745591
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 21,
+    "feature": "public_toilet_count",
+    "standardized_squared_error": 0.0413389624068274,
+    "standardized_absolute_error": 0.2033198524660773,
+    "actual_value": 93.0,
+    "reconstructed_standardized_value": -0.60871035
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 22,
+    "feature": "complaints_received_2024",
+    "standardized_squared_error": 0.0354971374955788,
+    "standardized_absolute_error": 0.1884068403630263,
+    "actual_value": 3748.0,
+    "reconstructed_standardized_value": -0.4994003
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 23,
+    "feature": "closure_pct_2024",
+    "standardized_squared_error": 0.0207979848200699,
+    "standardized_absolute_error": 0.1442150644699434,
+    "actual_value": 95.0,
+    "reconstructed_standardized_value": 0.7722906
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 24,
+    "feature": "total_public_transport_nodes",
+    "standardized_squared_error": 0.0138062722895893,
+    "standardized_absolute_error": 0.1175000948492781,
+    "actual_value": 237.0,
+    "reconstructed_standardized_value": -0.087692276
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 25,
+    "feature": "teachers_total",
+    "standardized_squared_error": 0.0099355342034388,
+    "standardized_absolute_error": 0.099677149856117,
+    "actual_value": 1329.0,
+    "reconstructed_standardized_value": -0.25022143
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 26,
+    "feature": "green_space_count",
+    "standardized_squared_error": 0.0047259324206129,
+    "standardized_absolute_error": 0.0687454174517326,
+    "actual_value": 30.0,
+    "reconstructed_standardized_value": -0.49825054
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 27,
+    "feature": "udise_city_schools",
+    "standardized_squared_error": 0.0033877584711636,
+    "standardized_absolute_error": 0.058204454049185,
+    "actual_value": 69.0,
+    "reconstructed_standardized_value": -0.17928259
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 28,
+    "feature": "green_space_share_pct",
+    "standardized_squared_error": 0.0009983481423497,
+    "standardized_absolute_error": 0.0315966476441688,
+    "actual_value": 3.048780487804878,
+    "reconstructed_standardized_value": -0.39790848
+  },
+  {
+    "ward_code": "D",
+    "feature_rank": 29,
+    "feature": "bus_stop_count",
+    "standardized_squared_error": 0.0002159002919734,
+    "standardized_absolute_error": 0.0146935459291964,
+    "actual_value": 234.0,
+    "reconstructed_standardized_value": 0.017959759
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 1,
+    "feature": "classrooms_repair_pct",
+    "standardized_squared_error": 4.124712844184404,
+    "standardized_absolute_error": 2.030938907053682,
+    "actual_value": 4.060913705583756,
+    "reconstructed_standardized_value": 0.7541554
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 2,
+    "feature": "hospitals",
+    "standardized_squared_error": 2.398433554238866,
+    "standardized_absolute_error": 1.54868768776628,
+    "actual_value": 2.0,
+    "reconstructed_standardized_value": -0.8540865
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 3,
+    "feature": "railway_station_count",
+    "standardized_squared_error": 1.6861193600059938,
+    "standardized_absolute_error": 1.2985065883567914,
+    "actual_value": 1.0,
+    "reconstructed_standardized_value": 0.40567043
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 4,
+    "feature": "avg_resolution_days_2024",
+    "standardized_squared_error": 0.7375617038270643,
+    "standardized_absolute_error": 0.8588141264715342,
+    "actual_value": 32.0,
+    "reconstructed_standardized_value": 0.32682344
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 5,
+    "feature": "teacher_student_ratio",
+    "standardized_squared_error": 0.3149116981986702,
+    "standardized_absolute_error": 0.5611699370054228,
+    "actual_value": 0.0323667252489748,
+    "reconstructed_standardized_value": -1.2783036
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 6,
+    "feature": "girls_share_pct",
+    "standardized_squared_error": 0.2630972051902551,
+    "standardized_absolute_error": 0.5129300197787756,
+    "actual_value": 45.28412419449327,
+    "reconstructed_standardized_value": -0.6712196
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 7,
+    "feature": "closure_pct_2024",
+    "standardized_squared_error": 0.2435806378607183,
+    "standardized_absolute_error": 0.4935388919433992,
+    "actual_value": 84.0,
+    "reconstructed_standardized_value": -0.15726703
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 8,
+    "feature": "population_2011",
+    "standardized_squared_error": 0.234000528767721,
+    "standardized_absolute_error": 0.4837360114439704,
+    "actual_value": 166161.0,
+    "reconstructed_standardized_value": -1.0701848
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 9,
+    "feature": "dispensaries",
+    "standardized_squared_error": 0.2223932064952335,
+    "standardized_absolute_error": 0.471585842127638,
+    "actual_value": 12.0,
+    "reconstructed_standardized_value": 0.7018366
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 10,
+    "feature": "monorail_station_count",
+    "standardized_squared_error": 0.1985683285229392,
+    "standardized_absolute_error": 0.4456100633097722,
+    "actual_value": 0.0,
+    "reconstructed_standardized_value": -0.890064
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 11,
+    "feature": "facilities_per_10000_population",
+    "standardized_squared_error": 0.1897973493196984,
+    "standardized_absolute_error": 0.4356573760648365,
+    "actual_value": 12.457796955964396,
+    "reconstructed_standardized_value": -1.2423815
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 12,
+    "feature": "police_station_count",
+    "standardized_squared_error": 0.1856447442133719,
+    "standardized_absolute_error": 0.4308651113902957,
+    "actual_value": 1.0,
+    "reconstructed_standardized_value": -1.6876225
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 13,
+    "feature": "unresolved_complaints_2024",
+    "standardized_squared_error": 0.1821079216884124,
+    "standardized_absolute_error": 0.4267410475785197,
+    "actual_value": 607.0,
+    "reconstructed_standardized_value": -0.0780212
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 14,
+    "feature": "healthcare_facilities",
+    "standardized_squared_error": 0.1226354973417519,
+    "standardized_absolute_error": 0.350193514134331,
+    "actual_value": 18.0,
+    "reconstructed_standardized_value": -0.46212548
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 15,
+    "feature": "uphcs",
+    "standardized_squared_error": 0.1097490903033273,
+    "standardized_absolute_error": 0.3312840024862766,
+    "actual_value": 3.0,
+    "reconstructed_standardized_value": -0.9826871
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 16,
+    "feature": "fire_station_count",
+    "standardized_squared_error": 0.1041704888197278,
+    "standardized_absolute_error": 0.3227545333836967,
+    "actual_value": 0.0,
+    "reconstructed_standardized_value": -1.4092963
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 17,
+    "feature": "metro_station_count",
+    "standardized_squared_error": 0.0579634768440556,
+    "standardized_absolute_error": 0.2407560525595476,
+    "actual_value": 2.0,
+    "reconstructed_standardized_value": -1.1680492
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 18,
+    "feature": "complaints_received_2024",
+    "standardized_squared_error": 0.0349165643028753,
+    "standardized_absolute_error": 0.1868597450037736,
+    "actual_value": 3864.0,
+    "reconstructed_standardized_value": -0.42568976
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 19,
+    "feature": "population_density_per_sq_km",
+    "standardized_squared_error": 0.0278486046321696,
+    "standardized_absolute_error": 0.1668790119582737,
+    "actual_value": 86857.7,
+    "reconstructed_standardized_value": 2.6174216
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 20,
+    "feature": "public_toilet_count",
+    "standardized_squared_error": 0.0186699852536282,
+    "standardized_absolute_error": 0.1366381544577805,
+    "actual_value": 34.0,
+    "reconstructed_standardized_value": -0.8618719
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 21,
+    "feature": "green_space_count",
+    "standardized_squared_error": 0.0139244042041767,
+    "standardized_absolute_error": 0.1180017127171326,
+    "actual_value": 4.0,
+    "reconstructed_standardized_value": -1.3266973
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 22,
+    "feature": "udise_city_schools",
+    "standardized_squared_error": 0.0127510258460546,
+    "standardized_absolute_error": 0.1129204403376762,
+    "actual_value": 17.0,
+    "reconstructed_standardized_value": -1.6156632
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 23,
+    "feature": "green_spaces_per_km2",
+    "standardized_squared_error": 0.009609241010237,
+    "standardized_absolute_error": 0.0980267362010849,
+    "actual_value": 2.090956612650288,
+    "reconstructed_standardized_value": -0.24749699
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 24,
+    "feature": "students_total",
+    "standardized_squared_error": 0.0072083094493492,
+    "standardized_absolute_error": 0.0849017635231994,
+    "actual_value": 6828.0,
+    "reconstructed_standardized_value": -1.731558
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 25,
+    "feature": "area_sq_km",
+    "standardized_squared_error": 0.0055827477675296,
+    "standardized_absolute_error": 0.074717787490862,
+    "actual_value": 1.913,
+    "reconstructed_standardized_value": -1.3883492
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 26,
+    "feature": "teachers_total",
+    "standardized_squared_error": 0.002972515852044,
+    "standardized_absolute_error": 0.0545207836704866,
+    "actual_value": 221.0,
+    "reconstructed_standardized_value": -1.8832024
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 27,
+    "feature": "green_space_share_pct",
+    "standardized_squared_error": 0.0017642138233292,
+    "standardized_absolute_error": 0.0420025454386898,
+    "actual_value": 0.4065040650406504,
+    "reconstructed_standardized_value": -1.4867016
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 28,
+    "feature": "total_public_transport_nodes",
+    "standardized_squared_error": 0.0012213077382815,
+    "standardized_absolute_error": 0.0349472135982473,
+    "actual_value": 76.0,
+    "reconstructed_standardized_value": -2.061879
+  },
+  {
+    "ward_code": "C",
+    "feature_rank": 29,
+    "feature": "bus_stop_count",
+    "standardized_squared_error": 0.0001661069123421,
+    "standardized_absolute_error": 0.0128882470624285,
+    "actual_value": 75.0,
+    "reconstructed_standardized_value": -1.9971635
+  }
+]

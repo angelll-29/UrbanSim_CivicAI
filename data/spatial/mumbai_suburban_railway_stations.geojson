@@ -1,0 +1,2337 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_001",
+        "station_name": "Churchgate",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": "Churchgate",
+        "fid": "1",
+        "object_id": "1",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8271919878514,
+          18.9352961818815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_002",
+        "station_name": "Marine Lines",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "2",
+        "object_id": "2",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8238144822946,
+          18.9457881977143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_003",
+        "station_name": "Charni Road",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "3",
+        "object_id": "3",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8185706836947,
+          18.9517165867492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_004",
+        "station_name": "Grant Road",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "4",
+        "object_id": "4",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8161783832855,
+          18.9637045605152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_005",
+        "station_name": "Mumbai Central",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": "Mumbai Central",
+        "fid": "5",
+        "object_id": "5",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8187988036057,
+          18.9698932713685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_006",
+        "station_name": "Mahalaxmi",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "6",
+        "object_id": "6",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8241537111258,
+          18.9822737979282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_007",
+        "station_name": "Lower Parel",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "7",
+        "object_id": "7",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.830172471783,
+          18.9953187079519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_008",
+        "station_name": "Prabhadevi",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "8",
+        "object_id": "8",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8361132046624,
+          19.0075631386431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_009",
+        "station_name": "Dadar",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": "Dadar",
+        "fid": "9",
+        "object_id": "9",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8431374888969,
+          19.0195608762157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_010",
+        "station_name": "Matunga Road",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "10",
+        "object_id": "10",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8469289503764,
+          19.028368597856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_011",
+        "station_name": "Mahim Junction",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "11",
+        "object_id": "11",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8469183881933,
+          19.040716517382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_012",
+        "station_name": "Bandra",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": "Bandra",
+        "fid": "12",
+        "object_id": "12",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8403282370921,
+          19.0555892333471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_013",
+        "station_name": "Khar Road",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "13",
+        "object_id": "13",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8401277252267,
+          19.0698951076843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_014",
+        "station_name": "Santacruz",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "14",
+        "object_id": "14",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8417807673674,
+          19.0825985273727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_015",
+        "station_name": "Vile Parle",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "15",
+        "object_id": "15",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8439996742096,
+          19.0997393565481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_016",
+        "station_name": "Andheri",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": "Andheri",
+        "fid": "16",
+        "object_id": "16",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8465039707666,
+          19.1171747947178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_017",
+        "station_name": "Jogeshwari",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "17",
+        "object_id": "17",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8489736708461,
+          19.1365326519053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_018",
+        "station_name": "Goregaon",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "18",
+        "object_id": "18",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8496282479856,
+          19.1648702815213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_019",
+        "station_name": "Malad",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "19",
+        "object_id": "19",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8489362808279,
+          19.1868335617006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_020",
+        "station_name": "Kandivali",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "20",
+        "object_id": "20",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8520512299794,
+          19.2045320761638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_021",
+        "station_name": "Borivali",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": "Borivali",
+        "fid": "21",
+        "object_id": "21",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8566489030573,
+          19.2290634217488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_022",
+        "station_name": "Dahisar",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "22",
+        "object_id": "22",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8592814710169,
+          19.2500070403722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_023",
+        "station_name": "CSMT",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "CSMT",
+        "fid": "23",
+        "object_id": "23",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8357059779256,
+          18.9402720285738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_024",
+        "station_name": "Masjid Bunder",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "24",
+        "object_id": "24",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8381997658401,
+          18.9520915390942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_025",
+        "station_name": "Sandhurst Road",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "25",
+        "object_id": "25",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8395788297954,
+          18.9608785429075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_026",
+        "station_name": "Byculla",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "26",
+        "object_id": "26",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8327690068053,
+          18.976692518895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_027",
+        "station_name": "Chinchpokali",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "27",
+        "object_id": "27",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8329013428044,
+          18.9870469487976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_028",
+        "station_name": "Currey Road",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "28",
+        "object_id": "28",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8329987665172,
+          18.994110482723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_029",
+        "station_name": "Parel",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "29",
+        "object_id": "29",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8376259004038,
+          19.0092440178425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_030",
+        "station_name": "Dadar",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Dadar",
+        "fid": "30",
+        "object_id": "30",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.843633420996,
+          19.0181435365389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_031",
+        "station_name": "Matunga",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "31",
+        "object_id": "31",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8502084014804,
+          19.0274961050905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_032",
+        "station_name": "Sion",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "32",
+        "object_id": "32",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8640037012676,
+          19.0477097291027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_033",
+        "station_name": "Kurla",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Kurla",
+        "fid": "33",
+        "object_id": "33",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8793543303778,
+          19.0654774786936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_034",
+        "station_name": "Vidyavihar",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "34",
+        "object_id": "34",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8975799791421,
+          19.0796208736982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_035",
+        "station_name": "Ghatkopar",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Ghatkopar",
+        "fid": "35",
+        "object_id": "35",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9084657878744,
+          19.0859890642817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_036",
+        "station_name": "Vikhroli",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Vikhroli",
+        "fid": "36",
+        "object_id": "36",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9281450869539,
+          19.1119177689733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_037",
+        "station_name": "Kanjur Marg",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "37",
+        "object_id": "37",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9281511337221,
+          19.128166320162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_038",
+        "station_name": "Bhandup",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "38",
+        "object_id": "38",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9376513107349,
+          19.1424351550521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_039",
+        "station_name": "Nahur",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "39",
+        "object_id": "39",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.946766137471,
+          19.1546251377825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_040",
+        "station_name": "Mulund",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Mulund",
+        "fid": "40",
+        "object_id": "40",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9565534048963,
+          19.1718662666882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_041",
+        "station_name": "Dockyard Road",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "41",
+        "object_id": "41",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8443114850277,
+          18.9665629111886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_042",
+        "station_name": "Ray Road",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "42",
+        "object_id": "42",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8442481797541,
+          18.9773683482474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_043",
+        "station_name": "Cotton Green",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "43",
+        "object_id": "43",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8432893293482,
+          18.9864939574943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_044",
+        "station_name": "Sewri",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "44",
+        "object_id": "44",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.854579130035,
+          18.9989313752645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_045",
+        "station_name": "Wadala Road",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": "Wadala Road",
+        "fid": "45",
+        "object_id": "45",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8589424803244,
+          19.016006309249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_046",
+        "station_name": "Guru Tej Bahadur Nagar",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "46",
+        "object_id": "46",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8643611543405,
+          19.0380290585816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_047",
+        "station_name": "Chunna Bhatti",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "47",
+        "object_id": "47",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8689456446498,
+          19.0517072445659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_048",
+        "station_name": "Tilak Nagar",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "48",
+        "object_id": "48",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8899762020043,
+          19.0657803013233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_049",
+        "station_name": "Chembur",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "49",
+        "object_id": "49",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9012441362589,
+          19.0625976174705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_050",
+        "station_name": "Govandi",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "50",
+        "object_id": "50",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9153943027253,
+          19.0550932243739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_051",
+        "station_name": "Mankhurd",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": "Mankhurd",
+        "fid": "51",
+        "object_id": "51",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9317241491866,
+          19.0481650219614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_052",
+        "station_name": "Kings Circle",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "52",
+        "object_id": "52",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8571690397359,
+          19.032266486955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_053",
+        "station_name": "Mira Road",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "53",
+        "object_id": "53",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8560972045312,
+          19.2797406943242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_054",
+        "station_name": "Bhayandar",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "54",
+        "object_id": "54",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8525704477226,
+          19.3114392227109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_055",
+        "station_name": "Naigaon",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "55",
+        "object_id": "55",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8462832948645,
+          19.3513074099099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_056",
+        "station_name": "Vasai Road",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": "Vasai Road",
+        "fid": "56",
+        "object_id": "56",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8321461041926,
+          19.3823802721053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_057",
+        "station_name": "Nallasopara",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "57",
+        "object_id": "57",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8189145644195,
+          19.4176755166077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_058",
+        "station_name": "Virar",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": "Virar",
+        "fid": "58",
+        "object_id": "58",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8119284863236,
+          19.4549995182516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_059",
+        "station_name": "Vashi",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": "Vashi",
+        "fid": "59",
+        "object_id": "59",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9988965632495,
+          19.0631172207064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_060",
+        "station_name": "Sanpada",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "60",
+        "object_id": "60",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0093493142319,
+          19.0661147788721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_061",
+        "station_name": "Juinagar",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": "Juinagar",
+        "fid": "61",
+        "object_id": "61",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0183903439259,
+          19.0556163409323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_062",
+        "station_name": "Nerul",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "62",
+        "object_id": "62",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0182107815982,
+          19.0334707818177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_063",
+        "station_name": "Seawoods",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": "Seawoods",
+        "fid": "63",
+        "object_id": "63",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0191424206458,
+          19.0219438755159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_064",
+        "station_name": "CBD Belapur",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": "CBD Belapur",
+        "fid": "64",
+        "object_id": "64",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0390873339028,
+          19.0190456436135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_065",
+        "station_name": "Kharghar",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "65",
+        "object_id": "65",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0593969394587,
+          19.0261194215454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_066",
+        "station_name": "Mansarovar",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "66",
+        "object_id": "66",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0804701854415,
+          19.0166539817185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_067",
+        "station_name": "Khandeshwar",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "67",
+        "object_id": "67",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0947598188553,
+          19.0074679867507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_068",
+        "station_name": "Panvel",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": "Panvel",
+        "fid": "68",
+        "object_id": "68",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1213414488358,
+          18.9905700254378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_069",
+        "station_name": "Turbhe",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": "Turbhe",
+        "fid": "69",
+        "object_id": "69",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0177166307423,
+          19.0760002886039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_070",
+        "station_name": "Kopar Kharine",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "70",
+        "object_id": "70",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.011342315056,
+          19.1032160096145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_071",
+        "station_name": "Ghansoli",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "71",
+        "object_id": "71",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0068894698697,
+          19.1164805906164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_072",
+        "station_name": "Rabale",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "72",
+        "object_id": "72",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0027166938337,
+          19.1370192081831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_073",
+        "station_name": "Airoli",
+        "station_type": "Suburban Station",
+        "region": "HARBOUR",
+        "label": "Airoli",
+        "fid": "73",
+        "object_id": "73",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9993795687864,
+          19.1585309448508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_074",
+        "station_name": "Thane",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Thane",
+        "fid": "74",
+        "object_id": "74",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9759337290526,
+          19.1861152574207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_075",
+        "station_name": "Kalwa",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "75",
+        "object_id": "75",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9986747366214,
+          19.1969032812792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_076",
+        "station_name": "Mumbra",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "76",
+        "object_id": "76",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0231397296511,
+          19.1902742542868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_077",
+        "station_name": "Diva",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Diva",
+        "fid": "77",
+        "object_id": "77",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0429514521207,
+          19.1889502669907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_078",
+        "station_name": "Lower Kopar",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "78",
+        "object_id": "78",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0769788440469,
+          19.2106220863616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_079",
+        "station_name": "Dombivili",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Dombivili",
+        "fid": "79",
+        "object_id": "79",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0868430181902,
+          19.218286062568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_080",
+        "station_name": "Thakurli",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "80",
+        "object_id": "80",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0979322946715,
+          19.2260018478666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_081",
+        "station_name": "Kalyan",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Kalyan",
+        "fid": "81",
+        "object_id": "81",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1299711282289,
+          19.2351909402425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_082",
+        "station_name": "Vithalwadi",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "82",
+        "object_id": "82",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1492569841108,
+          19.2282722390585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_083",
+        "station_name": "Ulhas Nagar",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Ulhas Nagar",
+        "fid": "83",
+        "object_id": "83",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1631032188065,
+          19.21808971954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_084",
+        "station_name": "Ambernath",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Ambernath",
+        "fid": "84",
+        "object_id": "84",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1844317400222,
+          19.2101305480555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_085",
+        "station_name": "Badlapur",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Badlapur",
+        "fid": "85",
+        "object_id": "85",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2388025511903,
+          19.1668331363957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_086",
+        "station_name": "Vangani",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "86",
+        "object_id": "86",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3007405284918,
+          19.094393395304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_087",
+        "station_name": "Shelu",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "87",
+        "object_id": "87",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3178011533358,
+          19.0634147978046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_088",
+        "station_name": "Neral",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Neral",
+        "fid": "88",
+        "object_id": "88",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3185595294996,
+          19.0268065536976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_089",
+        "station_name": "Bhivpuri Road",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "89",
+        "object_id": "89",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3314774682455,
+          18.9700072031662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_090",
+        "station_name": "Karjat",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Karjat",
+        "fid": "90",
+        "object_id": "90",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3206443228044,
+          18.9088351428397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_091",
+        "station_name": "Palasdhari",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "91",
+        "object_id": "91",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3208308318587,
+          18.8842927108596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_092",
+        "station_name": "Kelavali",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "92",
+        "object_id": "92",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3187810452539,
+          18.8456945832501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_093",
+        "station_name": "Dolavali",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "93",
+        "object_id": "93",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3200621813635,
+          18.8342636565215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_094",
+        "station_name": "Lowjee",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "94",
+        "object_id": "94",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3354354701634,
+          18.8086214214537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_095",
+        "station_name": "Khopoli",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": "Khopoli",
+        "fid": "95",
+        "object_id": "95",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3448726092399,
+          18.7896170591886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_096",
+        "station_name": "Shahad",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "96",
+        "object_id": "96",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1583231567416,
+          19.2443452121886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_097",
+        "station_name": "Ambivili",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "97",
+        "object_id": "97",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1717128739798,
+          19.267809303216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_098",
+        "station_name": "Titwala",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "98",
+        "object_id": "98",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.203247161913,
+          19.296877134864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_099",
+        "station_name": "Khadawali",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "99",
+        "object_id": "99",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2189216499799,
+          19.3568495922065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_100",
+        "station_name": "Vasind",
+        "station_type": "Suburban Station",
+        "region": "CENTRAL",
+        "label": null,
+        "fid": "100",
+        "object_id": "100",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2676652674631,
+          19.4068464515156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_101",
+        "station_name": "Ram Mandir",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "101",
+        "object_id": "108",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8501779534613,
+          19.1516968179908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_102",
+        "station_name": "Vaitarna",
+        "station_type": "Suburban Station",
+        "region": "WESTERN",
+        "label": null,
+        "fid": "102",
+        "object_id": "121",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8502717197307,
+          19.5194475908323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_103",
+        "station_name": "Sagar Sangam",
+        "station_type": "Proposed Suburban Station",
+        "region": "HARBOUR",
+        "label": "Sagar Sangam",
+        "fid": "103",
+        "object_id": "30",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0247906779553,
+          19.0102840709078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_104",
+        "station_name": "Targhar",
+        "station_type": "Proposed Suburban Station",
+        "region": "HARBOUR",
+        "label": "Targhar",
+        "fid": "104",
+        "object_id": "31",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0347210107422,
+          18.9904507628536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_105",
+        "station_name": "Bamandongri",
+        "station_type": "Proposed Suburban Station",
+        "region": "HARBOUR",
+        "label": null,
+        "fid": "105",
+        "object_id": "32",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0240407796519,
+          18.974619535869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "SUBURBAN_106",
+        "station_name": "Kharkopar",
+        "station_type": "Proposed Suburban Station",
+        "region": "HARBOUR",
+        "label": "Kharkopar",
+        "fid": "106",
+        "object_id": "33",
+        "source": "BMC / OpenCity Mumbai Suburban Network 2025",
+        "source_file": "mumbai_suburban_railway_stations.kml",
+        "coordinate_valid": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0140802808399,
+          18.9596615707448
+        ]
+      }
+    }
+  ]
+}

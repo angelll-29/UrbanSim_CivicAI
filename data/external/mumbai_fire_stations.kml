@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fire_station" id="fire_station">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="FEATUREID" type="string"></SimpleField>
+	<SimpleField name="TYPE" type="int"></SimpleField>
+	<SimpleField name="SUBTYPE" type="string"></SimpleField>
+	<SimpleField name="LOCATION" type="string"></SimpleField>
+	<SimpleField name="BRD_LINE_NO" type="string"></SimpleField>
+	<SimpleField name="CNTRL_ROOM_NO" type="string"></SimpleField>
+	<SimpleField name="TYPE_CONSTRUCT" type="string"></SimpleField>
+	<SimpleField name="YEAR_CONSTRUCT" type="string"></SimpleField>
+	<SimpleField name="NO_FLOOR" type="int"></SimpleField>
+	<SimpleField name="NO_ROOMS" type="int"></SimpleField>
+	<SimpleField name="NO_COM_TOILET" type="int"></SimpleField>
+	<SimpleField name="NO_GEN_TOILET" type="int"></SimpleField>
+	<SimpleField name="NO_LAD_TOILET" type="int"></SimpleField>
+	<SimpleField name="BATHROOM_FAC" type="int"></SimpleField>
+	<SimpleField name="RAMP_DISABLED" type="string"></SimpleField>
+	<SimpleField name="OPEN_SPACE" type="float"></SimpleField>
+	<SimpleField name="REMARKS" type="string"></SimpleField>
+	<SimpleField name="EDUPDATEUSER" type="string"></SimpleField>
+	<SimpleField name="EDUPDATETIME" type="string"></SimpleField>
+	<SimpleField name="CREATED_USER" type="string"></SimpleField>
+	<SimpleField name="CREATED_DATE" type="string"></SimpleField>
+	<SimpleField name="LAST_EDITED_USER" type="string"></SimpleField>
+	<SimpleField name="LAST_EDITED_DATE" type="string"></SimpleField>
+	<SimpleField name="HEIGHT_TO_MSL" type="float"></SimpleField>
+	<SimpleField name="SYMMETRIC" type="string"></SimpleField>
+	<SimpleField name="GROUND" type="string"></SimpleField>
+	<SimpleField name="NO_HALL_AUD" type="string"></SimpleField>
+	<SimpleField name="SEAT_CAPACITY" type="string"></SimpleField>
+	<SimpleField name="WATER_TANK_CAPA" type="string"></SimpleField>
+	<SimpleField name="NO_BASEMENT" type="int"></SimpleField>
+	<SimpleField name="NO_WATER_TANK" type="string"></SimpleField>
+	<SimpleField name="NO_ELEVATOR" type="int"></SimpleField>
+	<SimpleField name="PAS" type="string"></SimpleField>
+	<SimpleField name="CCTV_SERVE" type="string"></SimpleField>
+	<SimpleField name="STRUCTURAL_AUDIT" type="string"></SimpleField>
+	<SimpleField name="FIRE_EXTING_SYS" type="string"></SimpleField>
+	<SimpleField name="FIRE_AUDIT" type="string"></SimpleField>
+	<SimpleField name="CENTRALIZED_AC" type="string"></SimpleField>
+	<SimpleField name="DISPLAY_BOARD" type="string"></SimpleField>
+	<SimpleField name="HAZ_MAT" type="string"></SimpleField>
+	<SimpleField name="ALT_ELEC" type="string"></SimpleField>
+	<SimpleField name="WARD" type="string"></SimpleField>
+	<SimpleField name="ELEVATOR_CONTACT_LIST" type="string"></SimpleField>
+	<SimpleField name="ELEVATOR_INTERCOM" type="string"></SimpleField>
+	<SimpleField name="WORKING_HRS" type="string"></SimpleField>
+	<SimpleField name="EMPLOYEE_QTY" type="int"></SimpleField>
+	<SimpleField name="EMPLOYEE_MALE" type="int"></SimpleField>
+	<SimpleField name="EMPLOYEE_FEMALE" type="int"></SimpleField>
+	<SimpleField name="EMPLOYEE_DIF_ABLE" type="int"></SimpleField>
+	<SimpleField name="WORKING_HRS_STR" type="string"></SimpleField>
+	<SimpleField name="WORKING_HRS_STP" type="string"></SimpleField>
+</Schema>
+<Folder><name>fire_station</name>
+  <Placemark>
+	<name>Worli Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="FEATUREID">FB13148100015</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="LOCATION">Dr Annie Besant Road, Adarsh Nagar, Prabhadevi, Mumbai - 400030</SimpleData>
+		<SimpleData name="BRD_LINE_NO">24300178</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Sonawane Chandrakala Laxman</SimpleData>
+		<SimpleData name="EDUPDATETIME">2023/05/03 16:57:04</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 22:31:07</SimpleData>
+		<SimpleData name="WARD">G/S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.823631709,19.0132933080001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shivaji Park Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="FEATUREID">FB15167300013</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="LOCATION">P N Kotnis Road, Opp Gokul Niwas Society, Mahim West, Mahim, Mumbai- 400016.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">24457203</SimpleData>
+		<SimpleData name="CNTRL_ROOM_NO">101</SimpleData>
+		<SimpleData name="REMARKS">Shri. Mahesh Jadhav</SimpleData>
+		<SimpleData name="EDUPDATEUSER">PATIL SIDDHI KAPIL</SimpleData>
+		<SimpleData name="EDUPDATETIME">2023/05/03 18:30:53</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 17:40:46</SimpleData>
+		<SimpleData name="WARD">G/N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8410774170001,19.033071502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Memonwada Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="FEATUREID">FB14087000005</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Opposite Bhendi Bazar,  S V P Road, Near Shalimar Hotel, Dongari,  Mumbai - 400009.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">23478818</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 20:08:16</SimpleData>
+		<SimpleData name="WARD">B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8326944830001,18.958009761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fire Brigade Head Quarter</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="FEATUREID">FB14097600008</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Off</SimpleData>
+		<SimpleData name="LOCATION">Opposite Y Bridge, Byculla, Sir JJ Rd, Agripada, Mumbai - 400027.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">23076111, 23076112, 23076113</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 20:19:12</SimpleData>
+		<SimpleData name="WARD">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8321449490001,18.9720291530001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marol Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="FEATUREID">FB19247700018</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Marol Maroshi Road, Shivaji Nagar, JJC, Marol, Andheri East, Mumbai - 400047.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">29200940, 29200941,29200941</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 22:46:25</SimpleData>
+		<SimpleData name="WARD">K/E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8775588460001,19.110031732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dharavi Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="FEATUREID">FB16165900014</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Station</SimpleData>
+		<SimpleData name="LOCATION">12/e, Jasmine Mill Road, Opp Post Office, Dharavi, Rajashree Shahu Nagar, Mumbai - 400017.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">24077868</SimpleData>
+		<SimpleData name="NO_FLOOR">5</SimpleData>
+		<SimpleData name="NO_ROOMS">32</SimpleData>
+		<SimpleData name="NO_COM_TOILET">1</SimpleData>
+		<SimpleData name="NO_GEN_TOILET">2</SimpleData>
+		<SimpleData name="NO_LAD_TOILET">1</SimpleData>
+		<SimpleData name="BATHROOM_FAC">4</SimpleData>
+		<SimpleData name="OPEN_SPACE">2000</SimpleData>
+		<SimpleData name="REMARKS">Shri. M P Erande</SimpleData>
+		<SimpleData name="EDUPDATEUSER">PATIL SIDDHI KAPIL</SimpleData>
+		<SimpleData name="EDUPDATETIME">2023/05/03 18:31:51</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 22:36:42</SimpleData>
+		<SimpleData name="WATER_TANK_CAPA">25000</SimpleData>
+		<SimpleData name="NO_WATER_TANK">1</SimpleData>
+		<SimpleData name="PAS">No</SimpleData>
+		<SimpleData name="CCTV_SERVE">No</SimpleData>
+		<SimpleData name="FIRE_EXTING_SYS">No</SimpleData>
+		<SimpleData name="CENTRALIZED_AC">No</SimpleData>
+		<SimpleData name="ALT_ELEC">No</SimpleData>
+		<SimpleData name="WARD">G/N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8499780170001,19.0392976640001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Andheri Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="FEATUREID">FB15257000020</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Near Bharat Petrol Pump, Irla Signal, Swami Vivekanand Rd, Irla Bridge, Andheri West, Mumbai - 400058.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">26205301</SimpleData>
+		<SimpleData name="TYPE_CONSTRUCT">RCC</SimpleData>
+		<SimpleData name="NO_FLOOR">1</SimpleData>
+		<SimpleData name="NO_ROOMS">7</SimpleData>
+		<SimpleData name="NO_COM_TOILET">2</SimpleData>
+		<SimpleData name="REMARKS">Info given Mr.Rajesh Shinde</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Deshmukh Ajit Namdeo</SimpleData>
+		<SimpleData name="EDUPDATETIME">2016/10/24 23:22:16</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/19 15:53:28</SimpleData>
+		<SimpleData name="WARD">K/W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.840679854,19.1122520970001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vile Parle Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="FEATUREID">FB16221900019</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Azad Road, Akash Kiran Society, Navpada, Vile Parle East, Mumbai - 400057.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">26112121</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 22:39:19</SimpleData>
+		<SimpleData name="WARD">K/E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8442092060001,19.092703215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raoli Camp Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="FEATUREID">FB18164500009</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Station</SimpleData>
+		<SimpleData name="LOCATION">Lailabai Kashe Marg, Guru Teg Bahadur Nagar, Sion Koliwada, Mumbai - 400022.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">24077841</SimpleData>
+		<SimpleData name="CNTRL_ROOM_NO">23083240</SimpleData>
+		<SimpleData name="TYPE_CONSTRUCT">Load bearing</SimpleData>
+		<SimpleData name="YEAR_CONSTRUCT">1973</SimpleData>
+		<SimpleData name="NO_FLOOR">1</SimpleData>
+		<SimpleData name="NO_ROOMS">6</SimpleData>
+		<SimpleData name="NO_COM_TOILET">2</SimpleData>
+		<SimpleData name="NO_GEN_TOILET">1</SimpleData>
+		<SimpleData name="NO_LAD_TOILET">1</SimpleData>
+		<SimpleData name="BATHROOM_FAC">2</SimpleData>
+		<SimpleData name="OPEN_SPACE">1000</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Mane Minakshi Amar</SimpleData>
+		<SimpleData name="EDUPDATETIME">2020/09/18 16:50:15</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 22:29:17</SimpleData>
+		<SimpleData name="GROUND">Parking</SimpleData>
+		<SimpleData name="NO_HALL_AUD">1</SimpleData>
+		<SimpleData name="WATER_TANK_CAPA">4000</SimpleData>
+		<SimpleData name="NO_WATER_TANK">1</SimpleData>
+		<SimpleData name="PAS">No</SimpleData>
+		<SimpleData name="CCTV_SERVE">No</SimpleData>
+		<SimpleData name="FIRE_EXTING_SYS">No</SimpleData>
+		<SimpleData name="CENTRALIZED_AC">No</SimpleData>
+		<SimpleData name="DISPLAY_BOARD">No</SimpleData>
+		<SimpleData name="HAZ_MAT">No</SimpleData>
+		<SimpleData name="ALT_ELEC">No</SimpleData>
+		<SimpleData name="WARD">F/N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.866819686,19.035569047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sewri (Cotton Green) Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="FEATUREID">FB15119100012</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Unit2, First Street, Zakaria Bunder Road, Sewri, Mumbai - 400033</SimpleData>
+		<SimpleData name="BRD_LINE_NO">23775756</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 22:23:11</SimpleData>
+		<SimpleData name="WARD">F/S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.843232954,18.9854369020001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dadar Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="FEATUREID">FB16141200011</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="LOCATION">Dr. Babasaheb Ambedkar Road, Old BDD Chawl, Dadar East, Mumbai - 400014.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">24134200</SimpleData>
+		<SimpleData name="REMARKS">mahafireservice.gov.in</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Sonawane Chandrakala Laxman</SimpleData>
+		<SimpleData name="EDUPDATETIME">2023/05/03 16:56:38</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 22:25:16</SimpleData>
+		<SimpleData name="WARD">F/S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8455960000001,19.014301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wadala Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="FEATUREID">FB18157400010</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">14, Shaikh Mistry Road, Sangam Nagar, Wadala (East), Mumbai - 400037.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">24132058</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 22:27:33</SimpleData>
+		<SimpleData name="WARD">F/N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.87012695,19.0250315390001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colaba Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="FEATUREID">FB13039300003</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Near Sasoon Dock &amp; Mukesh Mill, Near Sasson Dock, Narayan A Sawant Road, Colaba
+Mumbai - 400005.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">22043603</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 19:33:29</SimpleData>
+		<SimpleData name="WARD">A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.826103,18.915403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nariman Point Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="FEATUREID">FB13049100004</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Gen Jagannath Bhosle Road,  Near Sarang TowerNariman Point, Mumbai - 400021.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">22882787</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/08/18 19:37:05</SimpleData>
+		<SimpleData name="WARD">A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.826042498,18.923076528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gawanpada Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="FEATUREID">FB29311500032</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Near Gawanpada Road, V.S Road, Gawanpada, Mulund East, Mumbai - 400081.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">25639191</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Dhanke Yashwant Gopal</SimpleData>
+		<SimpleData name="EDUPDATETIME">2021/05/10 00:25:26</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2021/07/13 18:08:54</SimpleData>
+		<SimpleData name="WARD">T</SimpleData>
+		<SimpleData name="WORKING_HRS">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9663054150001,19.1720633730001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thakur Village Mini Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="FEATUREID">FS23000000001</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Thakur Village Mini Fire Station, Thakur Village Road, Near Thakur Shyamnarayan High School just, Kandivali, Mumbai, 400101</SimpleData>
+		<SimpleData name="BRD_LINE_NO">022 2805 0101</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2019/12/29 18:50:05</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2019/12/29 18:50:23</SimpleData>
+		<SimpleData name="WARD">R/S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8728776,19.2131832000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kurla Fire Staion</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="FEATUREID">FB20215900021</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Kurla Fire Station, Lal Bahadur Shastri Marg, Near Phoenix Mall, Kurla West, Mumbai, 400070</SimpleData>
+		<SimpleData name="BRD_LINE_NO">25039200</SimpleData>
+		<SimpleData name="CNTRL_ROOM_NO">101</SimpleData>
+		<SimpleData name="REMARKS">Updated by M/s. Innowave IT</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Rathod Savita Ghevarchand</SimpleData>
+		<SimpleData name="EDUPDATETIME">2021/08/07 11:47:57</SimpleData>
+		<SimpleData name="CREATED_USER">Innowave</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/05/31 11:45:38</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER@PRSRVGISDB.MUMBASE.MCGM.GOV.IN</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2022/01/27 18:22:13</SimpleData>
+		<SimpleData name="WARD">L</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8858245000001,19.0847462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chincholi Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="FEATUREID">FB15324300027</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Link Rd, Malad West, Mumbai - 400064.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">28769101</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/08/21 11:55:28</SimpleData>
+		<SimpleData name="WARD">P/S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.836593394,19.177419023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Goregaon Motilal Nagar Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="FEATUREID">FB15298600028</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Shri Gajanan Maharaj Marg, opp BEST staff colony and Imperial Height, Road Number 6, Motilal Nagar, Goregaon West, Mumbai - 400104.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">28712869</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/08/21 11:57:31</SimpleData>
+		<SimpleData name="WARD">P/S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.840406026,19.153548566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kandivali Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="FEATUREID">FB16359400031</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">K Nehru Road, Jethava Nagar, Kandivali (W), Mumbai - 400067.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">28050101</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/08/21 11:58:32</SimpleData>
+		<SimpleData name="WARD">R/S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.850624,19.206017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Regional Command Centre Zone2</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="FEATUREID">FB06000000001</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Regional Command Centre Zone2, SMD Road, Near Shiv Mandir, Wadala, Mumbai, 400037</SimpleData>
+		<SimpleData name="BRD_LINE_NO">022 24132058</SimpleData>
+		<SimpleData name="CNTRL_ROOM_NO">022 23085994</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2019/08/18 20:22:41</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER@PRSRVGISDB.MUMBASE.MCGM.GOV.IN</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2022/01/27 18:23:54</SimpleData>
+		<SimpleData name="WARD">F/N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8702810030001,19.024918917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dahisar Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="FEATUREID">FB18402000030</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Swami Vivekanand Road, Opp BMC Garden, Dahisar East, Mumbai</SimpleData>
+		<SimpleData name="BRD_LINE_NO">28977702</SimpleData>
+		<SimpleData name="TYPE_CONSTRUCT">RCC</SimpleData>
+		<SimpleData name="YEAR_CONSTRUCT">2006</SimpleData>
+		<SimpleData name="NO_FLOOR">3</SimpleData>
+		<SimpleData name="NO_ROOMS">12</SimpleData>
+		<SimpleData name="NO_COM_TOILET">3</SimpleData>
+		<SimpleData name="NO_GEN_TOILET">3</SimpleData>
+		<SimpleData name="BATHROOM_FAC">3</SimpleData>
+		<SimpleData name="OPEN_SPACE">2500</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/08/21 12:08:55</SimpleData>
+		<SimpleData name="WATER_TANK_CAPA">5000</SimpleData>
+		<SimpleData name="WARD">R/N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8624954060001,19.247481545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BKC Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="FEATUREID">FB17181900016</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Bandra Kurla Complex, Bandra East, Mumbai - 400051.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">26522426</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/08/21 11:51:12</SimpleData>
+		<SimpleData name="WARD">H/E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8545,19.056992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borivali Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="FEATUREID">FB15388100029</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Borivali Fire Station, Lokmanya Tilak Road, Near Link Road, Borivali West, Mumbai, Maharashtra, 400091</SimpleData>
+		<SimpleData name="BRD_LINE_NO">022 28602847</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2019/08/18 20:31:19</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER@PRSRVGISDB.MUMBASE.MCGM.GOV.IN</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2022/01/27 18:24:07</SimpleData>
+		<SimpleData name="WARD">R/C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8406908740001,19.2296791840001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gowalia Tank Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="FEATUREID">FB12086400007</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Station</SimpleData>
+		<SimpleData name="LOCATION">Nana Chowk, August Kranti Marg, Mumbai - 400007.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">23806001</SimpleData>
+		<SimpleData name="TYPE_CONSTRUCT">RCC</SimpleData>
+		<SimpleData name="YEAR_CONSTRUCT">2013</SimpleData>
+		<SimpleData name="NO_FLOOR">4</SimpleData>
+		<SimpleData name="NO_ROOMS">20</SimpleData>
+		<SimpleData name="NO_COM_TOILET">4</SimpleData>
+		<SimpleData name="NO_GEN_TOILET">3</SimpleData>
+		<SimpleData name="NO_LAD_TOILET">1</SimpleData>
+		<SimpleData name="BATHROOM_FAC">4</SimpleData>
+		<SimpleData name="RAMP_DISABLED">Yes</SimpleData>
+		<SimpleData name="OPEN_SPACE">150</SimpleData>
+		<SimpleData name="REMARKS">9967929005</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Patil Gajanan Nana</SimpleData>
+		<SimpleData name="EDUPDATETIME">2023/05/15 16:26:23</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER@PRSRVGISDB.MUMBASE.MCGM.GOV.IN</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2022/03/24 00:29:23</SimpleData>
+		<SimpleData name="GROUND">Parking</SimpleData>
+		<SimpleData name="SEAT_CAPACITY">0</SimpleData>
+		<SimpleData name="WATER_TANK_CAPA">12000</SimpleData>
+		<SimpleData name="NO_WATER_TANK">4</SimpleData>
+		<SimpleData name="PAS">No</SimpleData>
+		<SimpleData name="CCTV_SERVE">Yes</SimpleData>
+		<SimpleData name="CENTRALIZED_AC">No</SimpleData>
+		<SimpleData name="DISPLAY_BOARD">No</SimpleData>
+		<SimpleData name="HAZ_MAT">Yes</SimpleData>
+		<SimpleData name="ALT_ELEC">No</SimpleData>
+		<SimpleData name="WARD">D</SimpleData>
+		<SimpleData name="WORKING_HRS">Yes</SimpleData>
+		<SimpleData name="EMPLOYEE_QTY">54</SimpleData>
+		<SimpleData name="EMPLOYEE_MALE">54</SimpleData>
+		<SimpleData name="EMPLOYEE_FEMALE">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8127316170001,18.961637389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malad Malwani Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="FEATUREID">FB14340400026</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Asmita Jyoti Housing Society, Malad (W),  Mumbai - 400095.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">28071010</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER@PRSRVGISDB.MUMBASE.MCGM.GOV.IN</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2022/03/24 00:53:46</SimpleData>
+		<SimpleData name="WARD">P/N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8229569380001,19.1967546230001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chembur Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="FEATUREID">FB21182600023</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">V N Purav Marg, Chembur, Mumbai - 400074</SimpleData>
+		<SimpleData name="BRD_LINE_NO">25224824</SimpleData>
+		<SimpleData name="NO_FLOOR">3</SimpleData>
+		<SimpleData name="REMARKS">Need to be re-locate Point</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Burkul Kavita Balu</SimpleData>
+		<SimpleData name="EDUPDATETIME">2021/08/11 11:09:01</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER@PRSRVGISDB.MUMBASE.MCGM.GOV.IN</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2022/03/24 00:50:06</SimpleData>
+		<SimpleData name="NO_HALL_AUD">1</SimpleData>
+		<SimpleData name="WATER_TANK_CAPA">40</SimpleData>
+		<SimpleData name="WARD">M/W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8935416300001,19.054555748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bandra Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="FEATUREID">FB15183200017</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Bandra Reclamation, S V Road, Bandra (W), Mumbai - 400050.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">26435206</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Hande Someshwari Anil</SimpleData>
+		<SimpleData name="EDUPDATETIME">2020/10/18 18:04:16</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/11/28 18:22:17</SimpleData>
+		<SimpleData name="WARD">H/W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8375780000001,19.050398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mankhurd Pradeshik Samadesh Kendra</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="FEATUREID">FB10000010034</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Ghatkopar Mankhurd Link Road, Opp. Sathye Nagar. Mumbai 400043</SimpleData>
+		<SimpleData name="REMARKS">8104737123</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/11/28 18:25:36</SimpleData>
+		<SimpleData name="WARD">M/E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9311065940001,19.0567603910001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carnac Bunder (Indira Dock) Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="FEATUREID">FB15065700001</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">P D Mello Road, Near Hotel Sealord, Fort. Mumbai - 400001.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">22611589</SimpleData>
+		<SimpleData name="EDUPDATEUSER">1 computer operator</SimpleData>
+		<SimpleData name="EDUPDATETIME">2020/01/07 14:55:44</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/11/28 16:30:50</SimpleData>
+		<SimpleData name="WARD">A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8403020000001,18.9464110000001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="FEATUREID">FB14059400002</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Syed Abdullah Brelvi Marg,  Near Vidya Dairy Farm,Fort, Mumbai - 400001.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">22611942</SimpleData>
+		<SimpleData name="EDUPDATEUSER">1 computer operator</SimpleData>
+		<SimpleData name="EDUPDATETIME">2020/01/07 14:57:22</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/11/28 16:31:28</SimpleData>
+		<SimpleData name="WARD">A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8346480000001,18.934914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dindoshi Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="FEATUREID">FB18320000025</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Dindoshi, Malad East, Mumbai - 400097</SimpleData>
+		<SimpleData name="BRD_LINE_NO">28406729</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/11/28 16:25:16</SimpleData>
+		<SimpleData name="WARD">P/N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.860954,19.174995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mandvi Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="FEATUREID">FB15076900006</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">Sardar Valla bhbhai Patel Road, Opp Wadibunder Coaching Complex, Wadibunder. Mumbai - 400003.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">23716694</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER@PRSRVGISDB.MUMBASE.MCGM.GOV.IN</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2022/03/21 17:14:13</SimpleData>
+		<SimpleData name="WARD">B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.841701765,18.957292234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deonar Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="FEATUREID">FB20203500022</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Stn</SimpleData>
+		<SimpleData name="LOCATION">5/4 Sector, New Municipal Colony, Shivaji Nagar, Mumbai - 400043</SimpleData>
+		<SimpleData name="BRD_LINE_NO">25563391</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER@PRSRVGISDB.MUMBASE.MCGM.GOV.IN</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2022/03/24 00:49:07</SimpleData>
+		<SimpleData name="WARD">M/E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9245638290001,19.053285062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mulund Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="FEATUREID">FB26316900033</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="SUBTYPE">Station</SimpleData>
+		<SimpleData name="LOCATION">Lal Bahadur Shastri Marg, Mulund Colony, Mulund West, Mumbai - 400080.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">25687637</SimpleData>
+		<SimpleData name="CNTRL_ROOM_NO">25687637</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Dhanke Yashwant Gopal</SimpleData>
+		<SimpleData name="EDUPDATETIME">2021/05/10 00:14:35</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER@PRSRVGISDB.MUMBASE.MCGM.GOV.IN</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2022/03/24 00:56:38</SimpleData>
+		<SimpleData name="WARD">T</SimpleData>
+		<SimpleData name="WORKING_HRS">Yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.942607374,19.1753852100001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vikhroli Fire Station</name>
+	<ExtendedData><SchemaData schemaUrl="#fire_station">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="FEATUREID">FB23239700024</SimpleData>
+		<SimpleData name="TYPE">1</SimpleData>
+		<SimpleData name="LOCATION">Near L.B.S. Road, Vikhroli Park Site, L.B.S. Marg, Nivlekar Rd, BMC Colony, Vikhroli West, Mumbai - 400079.</SimpleData>
+		<SimpleData name="BRD_LINE_NO">25170730</SimpleData>
+		<SimpleData name="EDUPDATEUSER">Rathod Savita Ghevarchand</SimpleData>
+		<SimpleData name="EDUPDATETIME">2021/08/07 11:42:49</SimpleData>
+		<SimpleData name="CREATED_USER">DMMASTER</SimpleData>
+		<SimpleData name="CREATED_DATE">2018/06/15 15:08:34</SimpleData>
+		<SimpleData name="LAST_EDITED_USER">DMMASTER</SimpleData>
+		<SimpleData name="LAST_EDITED_DATE">2020/08/21 11:53:03</SimpleData>
+		<SimpleData name="WARD">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.918259371,19.100973916</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

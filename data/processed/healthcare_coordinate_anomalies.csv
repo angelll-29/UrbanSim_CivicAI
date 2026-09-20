@@ -1,0 +1,385 @@
+facility_id,name,service_type,source_ward,gis_ward,latitude,longitude,coordinate_status,name_status
+HC_00001,Colaba Dispensary,dispensary,A,A,18.92,72.83,shared_coordinate,unique_name
+HC_00002,Saboo Sidique Rd. Dispensary (Paltan Road),dispensary,A,B,18.95,72.84,shared_coordinate,unique_name
+HC_00003,Maruti Lane Dispensary,dispensary,A,A,18.94,72.83,shared_coordinate,unique_name
+HC_00004,Head Office Dispensary,dispensary,A,A,18.9405,72.8344,shared_coordinate,unique_name
+HC_00005,Head Office Ayurvedic,dispensary,A,A,18.9405,72.8344,shared_coordinate,unique_name
+HC_00007,SVP Road Dispensary,dispensary,B,C,18.96,72.83,shared_coordinate,unique_name
+HC_00008,Walphakdi Dispensary,dispensary,B,B,18.96,72.84,shared_coordinate,unique_name
+HC_00009,Jail Road Dispensary,dispensary,B,C,18.95,72.83,shared_coordinate,unique_name
+HC_00010,Jail Road Unanai Dispensary,dispensary,B,C,18.96,72.83,shared_coordinate,unique_name
+HC_00011,Kolsa Mohalla Unani Dispensary,dispensary,B,C,18.95,72.83,shared_coordinate,unique_name
+HC_00012,Ghoghari Mohalla Dispensary,dispensary,C,C,18.96,72.83,shared_coordinate,unique_name
+HC_00013,Panjrapole Dispensary,dispensary,C,C,18.96,72.83,shared_coordinate,unique_name
+HC_00014,Thakurdwar Dispensary,dispensary,C,C,18.95,72.82,shared_coordinate,unique_name
+HC_00015,Chandanwadi Dispensary,dispensary,C,C,18.9463,72.8265,shared_coordinate,unique_name
+HC_00016,Duncan Road Dispensary,dispensary,C,C,18.96,72.83,shared_coordinate,unique_name
+HC_00018,Bane Compound Dispensary(Tulshiwadi),dispensary,D,D,18.9717,72.8183,shared_coordinate,unique_name
+HC_00019,R. S. Nimkar Disp,dispensary,D,E,18.97,72.82,shared_coordinate,unique_name
+HC_00020,R. R.R. Marg Dispensary,dispensary,D,C,18.95,72.82,shared_coordinate,unique_name
+HC_00022,Banganga Dispensary,dispensary,D,,18.9615,72.8517,shared_coordinate,unique_name
+HC_00023,N.M. Joshi Dispensary,dispensary,E,E,18.98,72.83,shared_coordinate,unique_name
+HC_00024,R.J. Compound Dispensary,dispensary,E,E,18.98,72.83,shared_coordinate,unique_name
+HC_00025,Souter Street Dispensary,dispensary,E,E,18.97,72.83,shared_coordinate,unique_name
+HC_00026,Huzaria Street Dispensary,dispensary,E,C,18.96,72.83,shared_coordinate,unique_name
+HC_00027,Tadwadi Tank Dispensary,dispensary,E,E,18.9687,72.8399,shared_coordinate,unique_name
+HC_00029,D P Wadi Dispensary,dispensary,E,E,18.98,72.84,shared_coordinate,unique_name
+HC_00030,E S Patanwala Dispensary,dispensary,E,E,18.98,72.84,shared_coordinate,unique_name
+HC_00031,Motishah Lane Dispensary,dispensary,E,E,18.98,72.84,shared_coordinate,unique_name
+HC_00032,Gaurabai Dispensary,dispensary,E,E,18.97,72.83,shared_coordinate,unique_name
+HC_00033,Siddharth Nagar Dispensary,dispensary,E,C,18.96,72.83,shared_coordinate,unique_name
+HC_00034,Nawab Tank Dispensary,dispensary,E,E,18.9654,72.8441,shared_coordinate,unique_name
+HC_00035,Hakim Ajmal Khan Unani (Souter Street) Dispensary,dispensary,E,E,18.97,72.83,shared_coordinate,unique_name
+HC_00036,F/S Parel Dispensary,dispensary,FS,FS,19.01,72.84,shared_coordinate,unique_name
+HC_00037,Gautam Ngr. Dispensary,dispensary,FS,FS,19.01,72.84,shared_coordinate,unique_name
+HC_00038,Naigaon Dispensary,dispensary,FS,FS,19.01,72.85,shared_coordinate,unique_name
+HC_00039,Kidwai Nagar Dispensary,dispensary,FS,FS,19.01,72.85,shared_coordinate,unique_name
+HC_00040,Sewree Cross Road Dispensary,dispensary,FS,FS,19.0,72.85,shared_coordinate,unique_name
+HC_00041,A.D. Marg Dispensary (private Property),dispensary,FS,FS,19.0,72.85,shared_coordinate,unique_name
+HC_00043,Abhuday Nagar Dispensary,dispensary,FS,FS,18.99,72.85,shared_coordinate,unique_name
+HC_00044,Triveni Sadan Dispensary,dispensary,FS,GS,18.99,72.83,shared_coordinate,unique_name
+HC_00045,L.B.S. Market Dispensary,dispensary,FN,GN,19.03,72.85,shared_coordinate,unique_name
+HC_00046,Wadala Dispensary,dispensary,FN,FN,19.02,72.86,shared_coordinate,unique_name
+HC_00047,Korba Mithagar Dispensary,dispensary,FN,FN,19.02,72.86,shared_coordinate,unique_name
+HC_00048,Pratiksha Nagar Transit Camp Dispensary,dispensary,FN,FN,19.04,72.87,shared_coordinate,unique_name
+HC_00049,New Transit Camp Dispensary,dispensary,FN,FN,19.03,72.86,shared_coordinate,unique_name
+HC_00050,Antop Hill Dispensary,dispensary,FN,FN,19.03,72.87,shared_coordinate,unique_name
+HC_00051,Rawli Camp Dispensary,dispensary,FN,FN,19.04,72.87,shared_coordinate,unique_name
+HC_00052,Worli Koliwada Dispensary,dispensary,GS,,18.9615,72.8517,shared_coordinate,unique_name
+HC_00053,Jijamata Nagar Dispensary,dispensary,GS,GS,18.99,72.82,shared_coordinate,unique_name
+HC_00054,S.B. Marg Dispensary,dispensary,GS,GS,19.0,72.83,shared_coordinate,unique_name
+HC_00055,Ferguson Road Dispensary,dispensary,GS,GS,19.0,72.83,shared_coordinate,unique_name
+HC_00056,Maharashtra High School Compound Dispensary,dispensary,GS,GS,19.0,72.83,shared_coordinate,unique_name
+HC_00057,Beggars Home Dispensary,dispensary,GS,GS,18.99,72.82,shared_coordinate,unique_name
+HC_00058,Prabhadevi Dispensary,dispensary,GS,GS,19.02,72.83,shared_coordinate,unique_name
+HC_00060,Sasmira Marg Dispensary,dispensary,GS,GS,19.01,72.82,shared_coordinate,unique_name
+HC_00061,BDD Chawl Dispensary,dispensary,GS,GS,19.0,72.82,shared_coordinate,unique_name
+HC_00062,Currey Road Dispensary,dispensary,GS,GS,18.99,72.83,shared_coordinate,unique_name
+HC_00064,Prabhadevi Avurvedic Dispensary,dispensary,GS,GS,19.02,72.83,shared_coordinate,unique_name
+HC_00065,Bai Gulbai Dispensary,dispensary,GN,GN,19.02,72.84,shared_coordinate,unique_name
+HC_00066,Shree Cinema Dispensary,dispensary,GN,GN,19.03,72.84,shared_coordinate,unique_name
+HC_00067,Welkarwadi Dispensary,dispensary,GN,GN,19.04,72.84,shared_coordinate,unique_name
+HC_00068,Shahu Nagar Dispensary,dispensary,GN,GN,19.04,72.85,shared_coordinate,unique_name
+HC_00069,Matunga Labour Camp Dispensary,dispensary,GN,GN,19.03,72.85,shared_coordinate,unique_name
+HC_00070,Pilla Bunglow Dispensary,dispensary,GN,GN,19.05,72.86,shared_coordinate,unique_name
+HC_00071,Dharavi Main Road Dispensary,dispensary,GN,GN,19.04,72.85,shared_coordinate,unique_name
+HC_00072,Transit Camp Dispensary,dispensary,GN,FN,19.04,72.86,shared_coordinate,unique_name
+HC_00073,Kumbharwada Dispensary,dispensary,GN,GN,19.04,72.85,shared_coordinate,unique_name
+HC_00074,Prabhat Colony Dispensary,dispensary,HE,HW,19.09,72.84,shared_coordinate,unique_name
+HC_00076,Swami Vivekanand Nagar Dispensary,dispensary,HE,HE,19.08,72.85,shared_coordinate,unique_name
+HC_00077,Kalina Dispensary,dispensary,HE,HE,19.08,72.86,shared_coordinate,unique_name
+HC_00078,Bharat Nagar Dispensary,dispensary,HE,HE,19.06,72.86,shared_coordinate,unique_name
+HC_00079,Kherwadi Dispensary,dispensary,HE,HE,19.06,72.85,shared_coordinate,unique_name
+HC_00083,Shastri Nagar Dispensary,dispensary,HW,HW,19.09,72.84,shared_coordinate,duplicate_name
+HC_00084,Khar Danda Dispensary,dispensary,HW,HW,19.07,72.83,shared_coordinate,unique_name
+HC_00085,Old Khar Dispensary,dispensary,HW,HW,19.07,72.84,shared_coordinate,unique_name
+HC_00086,Sambhaji Nagar Dispensary,dispensary,KE,KE,19.11,72.85,shared_coordinate,unique_name
+HC_00088,Paranjape Dispensary,dispensary,KE,KE,19.1,72.85,shared_coordinate,unique_name
+HC_00089,Koldongari Dispensary,dispensary,KE,KE,19.11,72.85,shared_coordinate,unique_name
+HC_00090,Natwar Nagar Dispensary,dispensary,KE,KE,19.13,72.85,shared_coordinate,unique_name
+HC_00091,Marol Dispensary,dispensary,KE,KE,19.11,72.88,shared_coordinate,unique_name
+HC_00092,Caves Road Dispensary,dispensary,KE,KE,19.14,72.86,shared_coordinate,unique_name
+HC_00094,Hari Nagar Dispensary,dispensary,KE,KE,19.13,72.86,shared_coordinate,unique_name
+HC_00097,N.J.Wadia Dispensary,dispensary,KW,KE,19.12,72.85,shared_coordinate,unique_name
+HC_00098,Oshiwara Dispensary,dispensary,KW,PS,19.15,72.85,shared_coordinate,unique_name
+HC_00099,Parle Market Dispensary,dispensary,KW,KW,19.1,72.84,shared_coordinate,unique_name
+HC_00100,Versova Dispensary,dispensary,KW,KW,19.14,72.81,shared_coordinate,unique_name
+HC_00103,Millat Nagar Dispensary,dispensary,KW,KW,19.15,72.83,shared_coordinate,unique_name
+HC_00104,Topiwala Dispensary,dispensary,PS,PS,19.17,72.84,shared_coordinate,unique_name
+HC_00105,Chincholi Squatter's Dispensary,dispensary,PS,PN,19.18,72.85,shared_coordinate,unique_name
+HC_00106,Sunder Nagar Dispensary,dispensary,PS,S,19.1246,72.8962,shared_coordinate,unique_name
+HC_00107,Choksy Dispensary,dispensary,PN,PN,19.19,72.84,shared_coordinate,unique_name
+HC_00108,Nemani Dispensary,dispensary,PN,PN,19.18,72.85,shared_coordinate,unique_name
+HC_00109,Malvani Dispensary,dispensary,PN,PN,19.19,72.82,shared_coordinate,unique_name
+HC_00110,Rathodi Dispensary,dispensary,PN,PN,19.19,72.82,shared_coordinate,unique_name
+HC_00111,Goshala Dispensary,dispensary,PN,PN,19.19,72.85,shared_coordinate,unique_name
+HC_00112,Kurar Village Dispensary,dispensary,PN,PN,19.19,72.86,shared_coordinate,unique_name
+HC_00113,Pathanwadi Dispensary,dispensary,PN,PN,19.18,72.86,shared_coordinate,unique_name
+HC_00114,Riddhi Garden Dispensary,dispensary,PN,PN,19.18,72.87,shared_coordinate,unique_name
+HC_00117,School Road Dispensary,dispensary,PN,PN,19.18,72.86,shared_coordinate,unique_name
+HC_00118,Akurli Dispensary,dispensary,RS,RS,19.2,72.85,shared_coordinate,unique_name
+HC_00119,Hanuman Nagar Dispensary,dispensary,RS,RS,19.21,72.87,shared_coordinate,unique_name
+HC_00121,Charkop Sector 1 Dispensary,dispensary,RS,RS,19.21,72.83,shared_coordinate,unique_name
+HC_00122,Babrekar Nagar Dispensary,dispensary,RS,RS,19.2,72.83,shared_coordinate,unique_name
+HC_00123,New Centenary Dispensary,dispensary,RS,MW,19.05,72.91,shared_coordinate,unique_name
+HC_00124,M.H.B. Dispensary,dispensary,RC,RC,19.23,72.84,shared_coordinate,unique_name
+HC_00125,Gorai MHADA Dispensary,dispensary,RC,RC,19.23,72.83,shared_coordinate,unique_name
+HC_00126,Charkop Sector 5 Dispensary,dispensary,RC,RC,19.22,72.83,shared_coordinate,unique_name
+HC_00127,Kajupada Dispensary,dispensary,RC,RC,19.23,72.87,shared_coordinate,duplicate_name
+HC_00131,Y R Tawde Dispensary,dispensary,RN,RN,19.25,72.86,shared_coordinate,unique_name
+HC_00132,Shastri Nagar Dispensary,dispensary,RN,RN,19.25,72.85,shared_coordinate,duplicate_name
+HC_00133,L T Road Dispensary,dispensary,RN,RN,19.25,72.86,shared_coordinate,unique_name
+HC_00134,Anand Nagar Dispensary,dispensary,RN,RN,19.26,72.86,shared_coordinate,unique_name
+HC_00135,Pramila Nagar Dispensary,dispensary,RN,RN,19.2605,72.8737,shared_coordinate,unique_name
+HC_00136,Bail Bazar Dispensary,dispensary,L,L,19.08,72.88,shared_coordinate,unique_name
+HC_00137,Bibi Fatima Dispensary,dispensary,L,S,19.1192,72.92,shared_coordinate,unique_name
+HC_00140,Kajupada Dispensary,dispensary,L,L,19.09,72.89,shared_coordinate,duplicate_name
+HC_00141,Nehru Nagar Dispensary,dispensary,L,MW,19.06,72.89,shared_coordinate,unique_name
+HC_00142,Chunabhatti Dispensary,dispensary,L,KE,19.1315,72.8846,shared_coordinate,unique_name
+HC_00143,Tilak Nagar Dispensary,dispensary,L,L,19.07,72.89,shared_coordinate,unique_name
+HC_00144,Asalpha Village Dispensary,dispensary,L,L,19.1,72.9,shared_coordinate,unique_name
+HC_00145,Himalaya Dispensary,dispensary,L,L,19.09,72.89,shared_coordinate,unique_name
+HC_00147,Mohili Village Dispensary,dispensary,L,L,19.1,72.89,shared_coordinate,unique_name
+HC_00148,Christian Village Dispensary,dispensary,L,L,19.08,72.88,shared_coordinate,unique_name
+HC_00150,Nahar Amrit Shakti Dispensary,dispensary,L,L,19.07,72.88,shared_coordinate,unique_name
+HC_00152,Ayodhya Nagar Dispensary,dispensary,ME,ME,19.03,72.9,shared_coordinate,unique_name
+HC_00154,Deonar Dispensary,dispensary,ME,ME,19.05,72.92,shared_coordinate,unique_name
+HC_00155,Maharashtra Nagar Dispensary (Cheetah),dispensary,ME,ME,19.05,72.94,shared_coordinate,unique_name
+HC_00156,Kamla Raman Nagar Dispensary (Baiganwadi),dispensary,ME,ME,19.06,72.93,shared_coordinate,unique_name
+HC_00157,Ram Manohar Lohiya (R B K Dispensary),dispensary,ME,ME,19.06,72.91,shared_coordinate,unique_name
+HC_00158,L. U. Gadkari Dispensary (Vashi Naka),dispensary,ME,L,19.09,72.89,shared_coordinate,unique_name
+HC_00159,New Baigan Wadi Dispensary,dispensary,ME,ME,19.0589,72.9235,shared_coordinate,unique_name
+HC_00160,A. B. Sathe Nagar Dispensary,dispensary,ME,ME,19.05,72.93,shared_coordinate,unique_name
+HC_00162,Chembur Naka Dispensary,dispensary,MW,MW,19.05,72.89,shared_coordinate,unique_name
+HC_00163,Chembur Colony Dispensary,dispensary,MW,MW,19.05,72.89,shared_coordinate,unique_name
+HC_00165,Lal Dongar Dispensary,dispensary,MW,MW,19.05,72.89,shared_coordinate,unique_name
+HC_00166,Mahul SRA Dispensary,dispensary,MW,MW,19.01,72.89,shared_coordinate,unique_name
+HC_00167,Mahul Village Dispensary,dispensary,MW,MW,19.01,72.89,shared_coordinate,unique_name
+HC_00168,Sarvodaya Dispensary,dispensary,N,N,19.09,72.91,shared_coordinate,unique_name
+HC_00169,Park Site Dispensary,dispensary,N,N,19.1,72.91,shared_coordinate,unique_name
+HC_00170,Parshi Wadi Dispensary,dispensary,N,N,19.09,72.9,shared_coordinate,unique_name
+HC_00171,Pant Nagar Dispensary,dispensary,N,N,19.09,72.92,shared_coordinate,unique_name
+HC_00172,Ramabai Dispensary,dispensary,N,N,19.08,72.92,shared_coordinate,unique_name
+HC_00173,Sainath Dispensary,dispensary,N,N,19.09,72.91,shared_coordinate,unique_name
+HC_00174,Kirol Village Dispensary,dispensary,N,N,19.08,72.9,shared_coordinate,unique_name
+HC_00176,M.V.R. Shinde Marg Dispensary,dispensary,S,S,19.14,72.94,shared_coordinate,unique_name
+HC_00177,Shivaji Talav Dispensary,dispensary,S,S,19.15,72.93,shared_coordinate,unique_name
+HC_00179,Nahur Dispensary,dispensary,S,KE,19.1315,72.8846,shared_coordinate,unique_name
+HC_00180,Kanjur Village Dispensary,dispensary,S,S,19.13,72.94,shared_coordinate,unique_name
+HC_00181,Tagor Nagar Dispensary,dispensary,S,S,19.12,72.94,shared_coordinate,unique_name
+HC_00182,Tulshet Pada Dispensary,dispensary,S,S,19.1627,72.9306,shared_coordinate,unique_name
+HC_00183,Tembhi Pada Dispensary,dispensary,S,S,19.15,72.93,shared_coordinate,unique_name
+HC_00184,PJK Dispensary,dispensary,T,T,19.18,72.95,shared_coordinate,unique_name
+HC_00185,DDU Marg Dispensary,dispensary,T,T,19.18,72.95,shared_coordinate,unique_name
+HC_00186,Mulund Colony Dispensary,dispensary,T,T,19.17,72.94,shared_coordinate,unique_name
+HC_00187,Grant Med.College & J.J. Hospital,hospital,E,C,18.96,72.83,shared_coordinate,unique_name
+HC_00188,NAIR HOSPITAL DENTAL COLLEGE,hospital,E,E,18.97,72.82,shared_coordinate,unique_name
+HC_00189,B. Y. L. NAIR CHARITABLE HOSPITAL AND T. N. MEDICAL COLLEGE,hospital,E,E,18.97,72.82,shared_coordinate,unique_name
+HC_00190,Seth G.S.Medical college &KEM Hospital,hospital,FS,FS,19.0,72.84,shared_coordinate,unique_name
+HC_00191,LOKMANYA TILAK MUNICIPAL GENERAL HOSPITAL AND MEDICAL COLLEGE,hospital,FN,FN,19.04,72.86,shared_coordinate,unique_name
+HC_00192,Hinduhrudaysamrat Balasaheb Thackeray Med.College & Dr.R.N Cooper Hospital,hospital,KW,KW,19.11,72.84,shared_coordinate,unique_name
+HC_00194,Cama Albless Hospital,hospital,A,A,18.94,72.83,shared_coordinate,unique_name
+HC_00196,V.N Desai Hospital,hospital,HE,HE,19.08,72.85,shared_coordinate,unique_name
+HC_00197,K.B Bhabha Hospital,hospital,HW,HW,19.06,72.83,shared_coordinate,unique_name
+HC_00198,Siddharth Municipal General Hospital,hospital,PS,PS,19.16,72.84,shared_coordinate,unique_name
+HC_00199,MW Desai Mun.Gen.Hospital,hospital,PN,PN,19.18,72.85,shared_coordinate,unique_name
+HC_00200,S.K.Patil Mun.Gen.Hospital,hospital,PN,PN,19.19,72.85,shared_coordinate,unique_name
+HC_00201,Hinduhridaysamrat Balasaheb Thackeray Trauma Care Hospital,hospital,KE,KE,19.14,72.85,shared_coordinate,unique_name
+HC_00203,Harilal Bhagwati Mun.Gen.Hosp,hospital,RN,RN,19.24,72.85,shared_coordinate,unique_name
+HC_00204,Kasturba Cross Road Hospital,hospital,RC,RN,19.24,72.85,shared_coordinate,unique_name
+HC_00205,Kurla Bhabha Hospital,hospital,L,L,19.07,72.88,shared_coordinate,unique_name
+HC_00206,MAA Mun.Gen.Hospital,hospital,MW,MW,19.06,72.9,shared_coordinate,unique_name
+HC_00207,Pt. MMM Centenery Hospital,hospital,ME,MW,19.05,72.91,shared_coordinate,unique_name
+HC_00208,Rajawadi Hospital,hospital,N,N,19.08,72.9,shared_coordinate,unique_name
+HC_00209,KMJ Phule Mun.Gen.Hospital,hospital,S,S,19.12,72.94,shared_coordinate,unique_name
+HC_00210,Sant Muktabai Hospital,hospital,N,L,19.1,72.9,shared_coordinate,unique_name
+HC_00211,SVD Savarkar Hospital,hospital,T,T,19.17,72.96,shared_coordinate,unique_name
+HC_00212,M.T.Agarwal Mun.Gen.Hospital,hospital,T,T,19.18,72.95,shared_coordinate,unique_name
+HC_00214,Municipal Eye Hospital,hospital,E,C,18.96,72.83,shared_coordinate,unique_name
+HC_00215,Kasturba Hospital (For Infectiou Diseases),hospital,E,E,18.98,72.83,shared_coordinate,unique_name
+HC_00216,Group Of T.B.Hospital,hospital,FS,FS,19.01,72.85,shared_coordinate,unique_name
+HC_00218,"Suryakant Vagal Maternity Home, Zaobawadi",maternity_hospital,C,C,18.95,72.82,shared_coordinate,unique_name
+HC_00219,Naigaon Maternity Home,maternity_hospital,FS,FS,19.01,72.85,shared_coordinate,unique_name
+HC_00220,Raoli Camp Maternity Home,maternity_hospital,FN,FN,19.04,72.87,shared_coordinate,unique_name
+HC_00221,"Haji Mohammad Haji Sabu Siddik Maternity Home, Prabhadevi",maternity_hospital,GS,GS,19.02,72.83,shared_coordinate,unique_name
+HC_00222,Mahim Maternity Home,maternity_hospital,GN,GN,19.0328,72.8402,shared_coordinate,unique_name
+HC_00223,"Bal Gangadhar Kher Maternity Home, Kherwadi",maternity_hospital,HE,HE,19.06,72.85,shared_coordinate,unique_name
+HC_00224,Dr. V.N. Shirodkar Maternity Home,maternity_hospital,KE,KE,19.11,72.85,shared_coordinate,unique_name
+HC_00225,Squatters Colony Maternity Home,maternity_hospital,KE,KE,19.14,72.86,shared_coordinate,unique_name
+HC_00226,"Mata Ramabai Ambedkar Maternity Home, Marol (Marol Maternity Home)",maternity_hospital,KE,MW,19.05,72.89,shared_coordinate,unique_name
+HC_00227,Oshiwara Maternity Home,maternity_hospital,KW,PS,19.15,72.85,shared_coordinate,unique_name
+HC_00228,Topiwala Maternity Home Goregaon,maternity_hospital,PS,PS,19.16,72.84,shared_coordinate,unique_name
+HC_00229,Choksy Maternity Home,maternity_hospital,PN,PN,19.19,72.84,shared_coordinate,unique_name
+HC_00230,Maulana Abul Kalam Azhad Malvani Maternity Home,maternity_hospital,PN,PN,19.19,72.82,shared_coordinate,unique_name
+HC_00231,"Savitribai Phule Mata Bal Hospital, Riddhi Garden",maternity_hospital,PN,PN,19.18,72.87,shared_coordinate,unique_name
+HC_00232,Akurli Maternity Home,maternity_hospital,RS,RS,19.2,72.85,shared_coordinate,unique_name
+HC_00233,Charkop Maternity Home,maternity_hospital,RC,RC,19.22,72.83,shared_coordinate,unique_name
+HC_00234,"Smt.Kesarbai Chhabildas Lallubhai Bhansali Maternity Home, Borivali",maternity_hospital,RC,RC,19.23,72.86,shared_coordinate,unique_name
+HC_00235,"Mother and Child Hospital, Magthane",maternity_hospital,RC,RC,19.22,72.87,shared_coordinate,unique_name
+HC_00236,"Maasaheb Meenatai Thackeray Maternity Home, Chunabhatti",maternity_hospital,L,KE,19.1315,72.8846,shared_coordinate,unique_name
+HC_00237,Dr. Anandibai Joshi Maternity Home,maternity_hospital,L,L,19.08,72.88,shared_coordinate,unique_name
+HC_00238,Shahaji Nagar Maternity Home Cheeta Camp,maternity_hospital,ME,ME,19.04,72.95,shared_coordinate,unique_name
+HC_00239,"Matoshri Ramabai Ambedkar Maternity Home, Chembur Naka",maternity_hospital,MW,MW,19.05,72.89,shared_coordinate,unique_name
+HC_00240,Matoshri Ramabai Thackeray Maternity Home Ghatkopar,maternity_hospital,N,MW,19.05,72.89,shared_coordinate,unique_name
+HC_00241,"Dr.Babasaheb Ambedkar Maternity Home, Tagore Nagar",maternity_hospital,S,S,19.12,72.94,shared_coordinate,unique_name
+HC_00242,"Savitribai Jyotiba Phule Maternity Home, Bhandup",maternity_hospital,S,S,19.15,72.93,shared_coordinate,unique_name
+HC_00243,Lal Bahadur Shastri Marg Mat. Home,maternity_hospital,S,S,19.15,72.93,shared_coordinate,unique_name
+HC_00244,Smt.Shyamkunwarbai Jatashankar Dosa Chanchani Mulund Maternity Home,maternity_hospital,T,T,19.18,72.95,shared_coordinate,unique_name
+HC_00248,Maruti Lane UPHC,uphc,A,A,18.94,72.83,shared_coordinate,unique_name
+HC_00249,Colaba UPHC,uphc,A,A,18.92,72.83,shared_coordinate,unique_name
+HC_00250,Panjrapole UPHC,uphc,C,C,18.96,72.83,shared_coordinate,unique_name
+HC_00251,Chandanwadi UPHC,uphc,C,C,18.9463,72.8265,shared_coordinate,unique_name
+HC_00252,Suryakant Vagal Maternity Home UPHC,uphc,C,C,18.95,72.82,shared_coordinate,unique_name
+HC_00253,Bane Compound UPHC,uphc,D,D,18.9717,72.8183,shared_coordinate,unique_name
+HC_00254,R S Nimkar UPHC,uphc,D,E,18.97,72.82,shared_coordinate,unique_name
+HC_00255,Gaurabai UPHC,uphc,E,E,18.97,72.83,shared_coordinate,unique_name
+HC_00256,Tadwadi UPHC,uphc,E,E,18.9687,72.8399,shared_coordinate,unique_name
+HC_00257,Souter Street UPHC,uphc,E,E,18.97,72.83,shared_coordinate,unique_name
+HC_00259,Naigaon MH UPHC,uphc,FS,FS,19.01,72.85,shared_coordinate,unique_name
+HC_00260,Family Welfare UPHC,uphc,FS,FS,19.01,72.84,shared_coordinate,unique_name
+HC_00261,Abhyuday Nagar UPHC,uphc,FS,FS,18.99,72.85,shared_coordinate,unique_name
+HC_00262,Kidwai Nagar UPHC,uphc,FS,FS,19.01,72.85,shared_coordinate,unique_name
+HC_00263,New Transit Camp UPHC,uphc,FN,FN,19.03,72.86,shared_coordinate,unique_name
+HC_00264,Wadala UPHC,uphc,FN,FN,19.02,72.86,shared_coordinate,unique_name
+HC_00265,Raoli Camp MH UPHC,uphc,FN,FN,19.04,72.87,shared_coordinate,unique_name
+HC_00266,Korba Mithagar UPHC,uphc,FN,FN,19.02,72.86,shared_coordinate,unique_name
+HC_00267,Antop Hill UPHC,uphc,FN,FN,19.03,72.87,shared_coordinate,unique_name
+HC_00268,Pratiksha NagarUPHC,uphc,FN,FN,19.04,72.87,shared_coordinate,unique_name
+HC_00269,LBS Marg UPHC,uphc,FN,GN,19.03,72.85,shared_coordinate,unique_name
+HC_00270,BDD Chawl UPHC,uphc,GS,GS,19.0,72.82,shared_coordinate,unique_name
+HC_00271,Haji Mohhamad Haji Saboo Siddiqui Prabhadevi Maternity Home UPHC,uphc,GS,GS,19.02,72.83,shared_coordinate,unique_name
+HC_00272,Jijamata Nagar UPHC,uphc,GS,GS,18.99,72.82,shared_coordinate,unique_name
+HC_00273,MH School Compund UPHC,uphc,GS,GS,19.0,72.83,shared_coordinate,unique_name
+HC_00274,Worli Koliwada UPHC,uphc,GS,,18.9615,72.8517,shared_coordinate,unique_name
+HC_00275,Sasmira UPHC,uphc,GS,GS,19.01,72.82,shared_coordinate,unique_name
+HC_00276,Curry Road UPHC,uphc,GS,GS,18.99,72.83,shared_coordinate,unique_name
+HC_00278,Bai Gulbai UPHC,uphc,GN,GN,19.02,72.84,shared_coordinate,unique_name
+HC_00279,Mahim MH UPHC,uphc,GN,GN,19.0328,72.8402,shared_coordinate,unique_name
+HC_00280,Welkarwadi UPHC,uphc,GN,GN,19.04,72.84,shared_coordinate,unique_name
+HC_00281,Kumbharwada UPHC,uphc,GN,GN,19.04,72.85,shared_coordinate,unique_name
+HC_00282,Urban Health Centre UPHC,uphc,GN,GN,19.04,72.85,shared_coordinate,unique_name
+HC_00283,Pila Bunglow UPHC,uphc,GN,GN,19.05,72.86,shared_coordinate,unique_name
+HC_00284,Shanti Nagar UPHC,uphc,HE,HE,19.08,72.85,shared_coordinate,unique_name
+HC_00285,Swami Vivekanand Nagar UPHC,uphc,HE,HE,19.08,72.85,shared_coordinate,unique_name
+HC_00286,Golibar UPHC,uphc,HE,HW,19.07,72.84,shared_coordinate,unique_name
+HC_00287,Kalina UPHC,uphc,HE,HE,19.08,72.86,shared_coordinate,unique_name
+HC_00288,Bharat Nagar II UPHC,uphc,HE,HE,19.06,72.86,shared_coordinate,unique_name
+HC_00289,Kherwadi MH UPHC,uphc,HE,HE,19.06,72.85,shared_coordinate,unique_name
+HC_00290,Gurunanak UPHC,uphc,HW,HW,19.07,72.83,shared_coordinate,unique_name
+HC_00291,Shastri Nagar UPHC,uphc,HW,HW,19.09,72.84,shared_coordinate,duplicate_name
+HC_00292,Natwar Nagar UPHC,uphc,KE,KE,19.13,72.85,shared_coordinate,unique_name
+HC_00293,Sambhaji Nagar UPHC,uphc,KE,KE,19.11,72.85,shared_coordinate,unique_name
+HC_00294,Sahar Road UPHC,uphc,KE,KE,19.11,72.85,shared_coordinate,unique_name
+HC_00295,VN Shirodkar MH UPHC,uphc,KE,KE,19.11,72.85,shared_coordinate,unique_name
+HC_00296,Squatters Coloney MH UPHC,uphc,KE,KE,19.14,72.86,shared_coordinate,unique_name
+HC_00297,Marol MH UPHC,uphc,KE,KE,19.11,72.88,shared_coordinate,unique_name
+HC_00298,Versova UPHC,uphc,KW,KW,19.14,72.81,shared_coordinate,unique_name
+HC_00299,Nusserwanji Jahangirji Wadia UPHC,uphc,KW,KE,19.12,72.85,shared_coordinate,unique_name
+HC_00300,Oshiwara MH UPHC,uphc,KW,PS,19.15,72.85,shared_coordinate,unique_name
+HC_00301,Banana Leaf UPHC,uphc,KW,KE,19.13,72.85,shared_coordinate,unique_name
+HC_00303,Sundar Nagar UPHC,uphc,PS,S,19.1246,72.8962,shared_coordinate,unique_name
+HC_00304,Topiwala Maternity Home Goregaon UPHC,uphc,PS,PS,19.17,72.85,shared_coordinate,unique_name
+HC_00305,Riddhi Garden MH UPHC,uphc,PN,PN,19.18,72.87,shared_coordinate,unique_name
+HC_00306,Rathodi Village UPHC,uphc,PN,PN,19.19,72.82,shared_coordinate,unique_name
+HC_00307,Nemani UPHC,uphc,PN,PN,19.18,72.85,shared_coordinate,unique_name
+HC_00308,Kurar Village UPHC,uphc,PN,PN,19.19,72.86,shared_coordinate,unique_name
+HC_00309,Pathanwadi UPHC,uphc,PN,PN,19.18,72.86,shared_coordinate,unique_name
+HC_00310,Malwani -2 UPHC,uphc,PN,PN,19.19,72.82,shared_coordinate,unique_name
+HC_00311,Malwani 1 MH UPHC,uphc,PN,PN,19.19,72.82,shared_coordinate,unique_name
+HC_00312,M.W Desai UPHC,uphc,PN,PN,19.18,72.85,shared_coordinate,unique_name
+HC_00314,Choksy MH UPHC,uphc,PN,PN,19.19,72.84,shared_coordinate,unique_name
+HC_00315,New Centenary UPHC,uphc,RS,MW,19.05,72.91,shared_coordinate,unique_name
+HC_00317,Dhanukarwadi UPHC,uphc,RS,RS,19.21,72.83,shared_coordinate,unique_name
+HC_00318,Charkop Sec 1 UPHC,uphc,RS,RS,19.21,72.83,shared_coordinate,unique_name
+HC_00320,Babrekar Nagar UPHC,uphc,RS,RS,19.2,72.83,shared_coordinate,unique_name
+HC_00321,Akurli Road MH UPHC,uphc,RS,RS,19.2,72.85,shared_coordinate,unique_name
+HC_00322,Kajupada UPHC,uphc,RC,RC,19.23,72.87,shared_coordinate,duplicate_name
+HC_00323,Maharastra Housing Board Colony UPHC,uphc,RC,RC,19.23,72.84,shared_coordinate,unique_name
+HC_00324,Charkop MH UPHC,uphc,RC,RC,19.22,72.83,shared_coordinate,unique_name
+HC_00325,Gorai MHADA UPHC,uphc,RC,RC,19.23,72.83,shared_coordinate,unique_name
+HC_00326,Smt.Kesarbai Chhabildas Lallubhai Bhansali Maternity Home MH UPHC,uphc,RC,RC,19.23,72.86,shared_coordinate,unique_name
+HC_00327,Mother & Child Hosp.UPHC,uphc,RC,RC,19.22,72.87,shared_coordinate,unique_name
+HC_00328,Anand Nagar UPHC,uphc,RN,RN,19.26,72.86,shared_coordinate,unique_name
+HC_00330,Navagaon UPHC,uphc,RN,RN,19.25,72.85,shared_coordinate,unique_name
+HC_00331,Pramila Nagar UPHC,uphc,RN,RN,19.2605,72.8737,shared_coordinate,unique_name
+HC_00332,Yashwant Rao Tawade Marg UPHC,uphc,RN,RN,19.25,72.86,shared_coordinate,unique_name
+HC_00334,Nahar Amrut Shakti UPHC,uphc,L,L,19.07,72.88,shared_coordinate,unique_name
+HC_00335,Bibi Fatima UPHC,uphc,L,S,19.1192,72.92,shared_coordinate,unique_name
+HC_00336,Himalaya UPHC,uphc,L,L,19.09,72.89,shared_coordinate,unique_name
+HC_00337,Dr.Anandibai Joshi Maternity Home UPHC,uphc,L,L,19.08,72.88,shared_coordinate,unique_name
+HC_00338,Asalfa Village UPHC,uphc,L,L,19.1,72.9,shared_coordinate,unique_name
+HC_00339,Mohili Village UPHC,uphc,L,L,19.1,72.89,shared_coordinate,unique_name
+HC_00340,Kajupada UPHC,uphc,L,L,19.09,72.89,shared_coordinate,duplicate_name
+HC_00341,Maasaheb Meenatai Thackeray MH UPHC,uphc,L,KE,19.1315,72.8846,shared_coordinate,unique_name
+HC_00342,Buddha Colony UPHC,uphc,L,L,19.08,72.88,shared_coordinate,unique_name
+HC_00345,Nehru Nagar UPHC,uphc,L,MW,19.06,72.89,shared_coordinate,unique_name
+HC_00346,Vashinaka UPHC,uphc,ME,L,19.09,72.89,shared_coordinate,unique_name
+HC_00347,New Bainganwadi UPHC,uphc,ME,ME,19.0589,72.9235,shared_coordinate,unique_name
+HC_00348,Maharashtra Nagar UPHC,uphc,ME,ME,19.05,72.94,shared_coordinate,unique_name
+HC_00349,Lokshahir Annabhau Sathe Nagar UPHC,uphc,ME,ME,19.05,72.93,shared_coordinate,unique_name
+HC_00350,Deonar MH UPHC,uphc,ME,ME,19.05,72.92,shared_coordinate,unique_name
+HC_00351,Shahaji Nagar MH UPHC,uphc,ME,ME,19.04,72.95,shared_coordinate,unique_name
+HC_00352,Ayodhya Nagar UPHC,uphc,ME,ME,19.03,72.9,shared_coordinate,unique_name
+HC_00353,Kamala Raman Nagar UPHC,uphc,ME,ME,19.06,72.93,shared_coordinate,unique_name
+HC_00354,Ayodhya Nagar II UPHC,uphc,ME,ME,19.03,72.9,shared_coordinate,unique_name
+HC_00355,Matoshri Ramabai Ambedkar MH UPHC,uphc,MW,MW,19.05,72.89,shared_coordinate,unique_name
+HC_00356,Chembur Colony UPHC,uphc,MW,MW,19.05,72.89,shared_coordinate,unique_name
+HC_00357,Lal Dongar UPHC,uphc,MW,MW,19.05,72.89,shared_coordinate,unique_name
+HC_00358,Pestum Sagar UPHC,uphc,MW,MW,19.06,72.9,shared_coordinate,unique_name
+HC_00359,Mahul Village UPHC,uphc,MW,MW,19.01,72.89,shared_coordinate,unique_name
+HC_00360,Kamraj Nagar UPHC,uphc,N,KE,19.1315,72.8846,shared_coordinate,unique_name
+HC_00361,Kirol Village UPHC,uphc,N,N,19.09,72.9,shared_coordinate,unique_name
+HC_00362,Matoshri Ramabai Thackeray Maternity Home UPHC,uphc,N,N,19.09,72.91,shared_coordinate,unique_name
+HC_00363,Vikhroli Park Site UPHC,uphc,N,N,19.1,72.91,shared_coordinate,unique_name
+HC_00364,Ramabai Colony UPHC,uphc,N,N,19.08,72.92,shared_coordinate,unique_name
+HC_00365,Pant Nagar UPHC,uphc,N,N,19.09,72.92,shared_coordinate,unique_name
+HC_00366,Sarvodaya Nagar UPHC,uphc,N,KE,19.1315,72.8846,shared_coordinate,unique_name
+HC_00367,Sonapur UPHC (Only HP),uphc,S,S,19.15,72.93,shared_coordinate,unique_name
+HC_00368,Savitribai Jyotiba Phule Maternity Home UPHC,uphc,S,S,19.15,72.93,shared_coordinate,unique_name
+HC_00369,Tulshetpada UPHC,uphc,S,S,19.1627,72.9306,shared_coordinate,unique_name
+HC_00370,Shivaji Talao UPHC,uphc,S,S,19.15,72.93,shared_coordinate,unique_name
+HC_00372,Dr.Babasaheb Ambedkar Maternity Home UPHC,uphc,S,S,19.12,72.94,shared_coordinate,unique_name
+HC_00374,Subhash Nagar UPHC,uphc,S,KE,19.1315,72.8846,shared_coordinate,unique_name
+HC_00375,Kanjur Village UPHC,uphc,S,S,19.13,72.94,shared_coordinate,unique_name
+HC_00376,Ishwar Nagar UPHC,uphc,S,S,19.14,72.94,shared_coordinate,unique_name
+HC_00377,LBS Marg MH UPHC,uphc,S,S,19.15,72.93,shared_coordinate,unique_name
+HC_00378,Tembhipada UPHC,uphc,S,S,19.15,72.93,shared_coordinate,unique_name
+HC_00379,Smt.Shyamkunwarbai Jatashankar Dosa Chanchani Maternity Home UPHC,uphc,T,T,19.18,72.95,shared_coordinate,unique_name
+HC_00380,Mulund Colony UPHC,uphc,T,T,19.17,72.94,shared_coordinate,unique_name
+HC_00381,DDU Marg UPHC,uphc,T,T,19.17,72.95,shared_coordinate,unique_name
+HC_00383,Janabai Rokade HP,uphc,B,B,18.95,72.84,shared_coordinate,unique_name
+HC_00384,Jail Road HP,uphc,B,B,18.96,72.84,shared_coordinate,unique_name
+HC_00385,Banganga HP,uphc,D,,18.9615,72.8517,shared_coordinate,unique_name
+HC_00388,Nawab Tank HP.,uphc,E,E,18.9654,72.8441,shared_coordinate,unique_name
+HC_00389,Botliboy HP.,uphc,E,E,18.98,72.84,shared_coordinate,unique_name
+HC_00390,Kasturba Hospital HP.,uphc,E,E,18.98,72.83,shared_coordinate,unique_name
+HC_00391,Ram Laxman Tekadi HP.,uphc,FS,FS,19.0,72.85,shared_coordinate,unique_name
+HC_00392,2nd. October Colony HP.,uphc,FS,FS,19.01,72.85,shared_coordinate,unique_name
+HC_00393,V. Shantaram HP.,uphc,FS,FS,19.0,72.84,shared_coordinate,unique_name
+HC_00394,Don Bosco HP.,uphc,FN,FN,19.02,72.86,shared_coordinate,unique_name
+HC_00395,Jijamata Nagar RCH-II HP.,uphc,GS,GS,19.0,72.82,shared_coordinate,unique_name
+HC_00396,Gokhale Road HP.,uphc,GN,GS,19.02,72.83,shared_coordinate,unique_name
+HC_00397,Shastri Nagar HP.,uphc,GN,GN,19.03,72.84,shared_coordinate,unique_name
+HC_00398,Vakola H.P.,uphc,HE,HE,19.08,72.85,shared_coordinate,unique_name
+HC_00399,Govt Colony HP,uphc,HE,HE,19.06,72.86,shared_coordinate,unique_name
+HC_00400,V.N. Desai Hospital H.P.,uphc,HE,HE,19.08,72.85,shared_coordinate,unique_name
+HC_00403,S.V. Road H.P.,uphc,HW,HW,19.07,72.84,shared_coordinate,unique_name
+HC_00404,K.B. Bhabha Hospital H.P.,uphc,HW,HW,19.06,72.83,shared_coordinate,unique_name
+HC_00406,Ajgaonkar Plot H.P.,uphc,KE,KE,19.14,72.85,shared_coordinate,unique_name
+HC_00407,Nehru Road H.P.,uphc,KE,KE,19.1,72.85,shared_coordinate,unique_name
+HC_00409,Sarvodaya Nagar H.P.,uphc,KE,KE,19.13,72.86,shared_coordinate,unique_name
+HC_00411,Tata Compound H.P.,uphc,KW,KW,19.11,72.84,shared_coordinate,unique_name
+HC_00412,Anand Nagar H.P.,uphc,KW,KW,19.15,72.83,shared_coordinate,unique_name
+HC_00414,Nehru Nagar H.P.,uphc,KW,KW,19.1,72.84,shared_coordinate,unique_name
+HC_00415,Bhardawadi H.P.,uphc,KW,KE,19.13,72.85,shared_coordinate,unique_name
+HC_00416,Millat Nagar H.P.,uphc,KW,KW,19.15,72.83,shared_coordinate,unique_name
+HC_00417,Chincholi H.P.,uphc,PS,PS,19.17,72.84,shared_coordinate,unique_name
+HC_00418,Pandurangwadi H.P.,uphc,PS,PS,19.17,72.85,shared_coordinate,unique_name
+HC_00419,Teen Dongri H.P.,uphc,PS,PS,19.17,72.85,shared_coordinate,unique_name
+HC_00421,Pahadi HP,uphc,PS,PN,19.18,72.85,shared_coordinate,unique_name
+HC_00422,Tank Lane H.P.,uphc,PN,PN,19.19,72.86,shared_coordinate,unique_name
+HC_00424,Dindoshi Vasahat H.P.,uphc,PN,PS,19.16,72.84,shared_coordinate,unique_name
+HC_00425,Charkop Sec-1A HP,uphc,RS,RS,19.21,72.83,shared_coordinate,unique_name
+HC_00426,Hanuman Nagar H.P.,uphc,RS,RS,19.21,72.87,shared_coordinate,unique_name
+HC_00428,Tata Power House H.P.,uphc,RC,RC,19.22,72.87,shared_coordinate,unique_name
+HC_00429,Eksar Village H.P.,uphc,RC,RN,19.24,72.85,shared_coordinate,unique_name
+HC_00432,Baglipada H.P.,uphc,RN,RN,19.26,72.86,shared_coordinate,unique_name
+HC_00435,Kurla Bhabha Hosp HP,uphc,L,L,19.07,72.88,shared_coordinate,unique_name
+HC_00438,Match Factory HP,uphc,L,L,19.07,72.88,shared_coordinate,unique_name
+HC_00439,Nimoni Baug HP,uphc,ME,ME,19.06,72.91,shared_coordinate,unique_name
+HC_00440,Mankhurd HP,uphc,ME,ME,19.05,72.93,shared_coordinate,unique_name
+HC_00441,Centenary Hosp. HP,uphc,ME,MW,19.05,72.91,shared_coordinate,unique_name
+HC_00442,Baiganwadi HP,uphc,ME,ME,19.06,72.93,shared_coordinate,unique_name
+HC_00443,Shivaji Nagar HP,uphc,ME,ME,19.04,72.95,shared_coordinate,unique_name
+HC_00445,Tilak Nagar HP,uphc,MW,L,19.07,72.89,shared_coordinate,unique_name
+HC_00446,Ghatla Village HP,uphc,MW,MW,19.05,72.91,shared_coordinate,unique_name
+HC_00447,Subhash Nagar HP,uphc,MW,ME,19.06,72.91,shared_coordinate,unique_name
+HC_00448,Barve Nagar HP,uphc,N,L,19.1,72.9,shared_coordinate,unique_name
+HC_00450,Rajawadi Mun.School HP,uphc,N,N,19.08,72.9,shared_coordinate,unique_name
+HC_00451,Ganesh Nagar HP (Laxmi Nagar),uphc,N,N,19.09,72.92,shared_coordinate,unique_name
+HC_00453,Kannamwar Nagar HP,uphc,S,S,19.12,72.94,shared_coordinate,unique_name
+HC_00454,Tagore Nagar HP RCH2,uphc,S,S,19.12,72.94,shared_coordinate,unique_name
+HC_00455,Veer Savarkar HP,uphc,T,T,19.17,72.96,shared_coordinate,unique_name
+HC_00456,Nanepada HP,uphc,T,T,19.17,72.95,shared_coordinate,unique_name
+HC_00457,Mulund Gen.Hosp HP,uphc,T,T,19.18,72.95,shared_coordinate,unique_name
+HC_00458,DDU HP 2,uphc,T,T,19.17,72.95,shared_coordinate,unique_name
